@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "id": "2605.26113",
+    "title": "AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond",
+    "authors": "Haiming Zhang, Junfei Zhou, Feng Jiang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26113",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26092",
+    "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
+    "authors": "Maoyang Xiang, Bo Wang, Tao Luo",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26092",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26072",
+    "title": "Active Query Synthesis for Preference Learning",
+    "authors": "Namrata Nadagouda, Nauman Ahad, Maegan Tucker et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26072",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26021",
+    "title": "Toward General Quantum Control with Physics-Informed Large Language Models",
+    "authors": "Yusheng Zhao, Han Wang, Xin Liu et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26021",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26017",
+    "title": "Trustworthy Software Project Generation : a Case Study with an Interactive Theorem Prover",
+    "authors": "Jian Fang, Yingfei Xiong",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26017",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26114",
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "authors": "Dingbang Wu, Rui Hao, Haiyang Wang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26114",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26109",
+    "title": "Helix4D: Complex 4D Mesh Generation",
+    "authors": "Jiraphon Yenphraphai, Jianqi Chen, Jian Wang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26109",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26103",
+    "title": "Global Structure-from-Motion Meets Feedforward Reconstruction",
+    "authors": "Linfei Pan, Johannes Schönberge, Marc Pollefeys",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26103",
+    "code": "https://github.com/colmap/gluemap.",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26097",
+    "title": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay",
+    "authors": "Martin Marek, Dongkyu Cho, Shikai Qiu et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26097",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.26070",
+    "title": "WhoSaidIt: Human-LLM Collaborative Annotation for Text-Based Multilingual Speaker-Attribute Classification",
+    "authors": "Lingyu Gao, Will Monroe, David Smith et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.26070",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.25975",
+    "title": "F-RNG: Feed-Forward Relightable Neural Gaussians",
+    "authors": "Guangming Fu, Jiahui Fan, Jian Yang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.25975",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.25962",
+    "title": "Continual Speaker Identity Unlearning with Minimal Interference",
+    "authors": "Jinju Kim, Yunsung Kang, Gyeong-Moon Park et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.25962",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.25930",
+    "title": "CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS",
+    "authors": "Junyang Chen, Yuhang Jia, Hui Wang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.25930",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "2605.25916",
+    "title": "Joint Optimization of Training and Inference in Federated Edge Learning via Constrained Multi-Objective Deep Reinforcement Learning",
+    "authors": "Zhen Li, Jun Cai, Chao Yang et al.",
+    "published": "2026-05-25",
+    "pdf": "https://arxiv.org/abs/2605.25916",
+    "code": "null",
+    "type": "Paper",
+    "date_added": "2026-05-26"
+  }
+]

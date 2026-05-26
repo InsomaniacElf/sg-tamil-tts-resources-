@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "hf_model_yaanfpv/svara-tts-voiceclone-beta-mlx-bf16",
+    "title": "yaanfpv/svara-tts-voiceclone-beta-mlx-bf16",
+    "authors": "",
+    "published": "2026-05-25",
+    "pdf": "https://huggingface.co/yaanfpv/svara-tts-voiceclone-beta-mlx-bf16",
+    "code": "null",
+    "type": "Model",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_InsomaniacElf/sg-tamil-tts-resources-",
+    "title": "InsomaniacElf/sg-tamil-tts-resources-",
+    "authors": "InsomaniacElf",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/InsomaniacElf/sg-tamil-tts-resources-",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot",
+    "title": "Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot",
+    "authors": "Circumlocutionparadoxurus116",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/Circumlocutionparadoxurus116/Multilingual_OpenSource_Chatbot",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_Pearlroasted135/Talk2Translate",
+    "title": "Pearlroasted135/Talk2Translate",
+    "authors": "Pearlroasted135",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/Pearlroasted135/Talk2Translate",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_riit3sh/tamil-vox",
+    "title": "riit3sh/tamil-vox",
+    "authors": "riit3sh",
+    "published": "2026-05-25",
+    "pdf": "null",
+    "code": "https://github.com/riit3sh/tamil-vox",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_britsingh20-source/valarchi-reel-generator",
+    "title": "britsingh20-source/valarchi-reel-generator",
+    "authors": "britsingh20-source",
+    "published": "2026-05-25",
+    "pdf": "null",
+    "code": "https://github.com/britsingh20-source/valarchi-reel-generator",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_huilei-linguist/whisper-singlish-finetuning",
+    "title": "huilei-linguist/whisper-singlish-finetuning",
+    "authors": "huilei-linguist",
+    "published": "2026-01-19",
+    "pdf": "null",
+    "code": "https://github.com/huilei-linguist/whisper-singlish-finetuning",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_antor44/Audio-Transcription",
+    "title": "antor44/Audio-Transcription",
+    "authors": "antor44",
+    "published": "2026-05-24",
+    "pdf": "null",
+    "code": "https://github.com/antor44/Audio-Transcription",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_raphaelguideke/TTS-System-for-Fulfulde-via-Fine-Tuning-",
+    "title": "raphaelguideke/TTS-System-for-Fulfulde-via-Fine-Tuning-",
+    "authors": "raphaelguideke",
+    "published": "2026-05-15",
+    "pdf": "null",
+    "code": "https://github.com/raphaelguideke/TTS-System-for-Fulfulde-via-Fine-Tuning-",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_LeandroIV/SugboSound-Cebuano-TTS",
+    "title": "LeandroIV/SugboSound-Cebuano-TTS",
+    "authors": "LeandroIV",
+    "published": "2026-04-28",
+    "pdf": "null",
+    "code": "https://github.com/LeandroIV/SugboSound-Cebuano-TTS",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_yuriyvnv/TTS-Augmented-ASR",
+    "title": "yuriyvnv/TTS-Augmented-ASR",
+    "authors": "yuriyvnv",
+    "published": "2026-04-27",
+    "pdf": "null",
+    "code": "https://github.com/yuriyvnv/TTS-Augmented-ASR",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_InfoBay-AI/call_center_audio_dual_channel_ta",
+    "title": "InfoBay-AI/call_center_audio_dual_channel_ta",
+    "authors": "InfoBay-AI",
+    "published": "2026-05-25",
+    "pdf": "null",
+    "code": "https://github.com/InfoBay-AI/call_center_audio_dual_channel_ta",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_AMohammedShafeek/stt-multilingual-model",
+    "title": "AMohammedShafeek/stt-multilingual-model",
+    "authors": "AMohammedShafeek",
+    "published": "2026-05-24",
+    "pdf": "null",
+    "code": "https://github.com/AMohammedShafeek/stt-multilingual-model",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_bhavya-gopal/tamil-asr-audit",
+    "title": "bhavya-gopal/tamil-asr-audit",
+    "authors": "bhavya-gopal",
+    "published": "2026-04-02",
+    "pdf": "null",
+    "code": "https://github.com/bhavya-gopal/tamil-asr-audit",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_Ipsack587/Omnivoice_Playground",
+    "title": "Ipsack587/Omnivoice_Playground",
+    "authors": "Ipsack587",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/Ipsack587/Omnivoice_Playground",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_Roanauniversalistic17/Auris",
+    "title": "Roanauniversalistic17/Auris",
+    "authors": "Roanauniversalistic17",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/Roanauniversalistic17/Auris",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_loaded-hook730/balaka",
+    "title": "loaded-hook730/balaka",
+    "authors": "loaded-hook730",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/loaded-hook730/balaka",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_JudgedDani/ComfyUI-OmniVoice-TTS",
+    "title": "JudgedDani/ComfyUI-OmniVoice-TTS",
+    "authors": "JudgedDani",
+    "published": "2026-05-26",
+    "pdf": "null",
+    "code": "https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  },
+  {
+    "id": "github_plexusone/omnivoice",
+    "title": "plexusone/omnivoice",
+    "authors": "plexusone",
+    "published": "2026-05-25",
+    "pdf": "null",
+    "code": "https://github.com/plexusone/omnivoice",
+    "type": "Tool",
+    "date_added": "2026-05-26"
+  }
+]
