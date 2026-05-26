@@ -1,4 +1,4 @@
-# TTS Paper Daily
+# Singapore Tamil TTS & Low‑Resource Speech Resources
 
 Last updated: 2026-05-26
 

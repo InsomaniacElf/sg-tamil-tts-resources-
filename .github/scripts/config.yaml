@@ -1,0 +1,72 @@
+# ===================== General TTS (daily arXiv) =====================
+general_tts:
+  keywords:
+    TTS:
+      filters:
+        - "TTS"
+        - "Text to speech"
+        - "Speech Synthesis"
+        - "Voice Synthesis"
+        - "Speech Generation"
+        - "Neural Speech Synthesis"
+        - "Neural TTS"
+    Multilingual_TTS:
+      filters:
+        - "multilingual TTS"
+        - "zero-shot voice cloning"
+        - "cross-lingual TTS"
+    Low_Resource_Speech:
+      filters:
+        - "low-resource speech synthesis"
+        - "low resource TTS"
+        - "under-resourced TTS"
+
+  max_results_per_query: 5
+  days_back: 7
+
+# ============== Tamil & Singapore Low‑Resource TTS ===============
+tamil_tts:
+  keywords:
+    Tamil_TTS:
+      filters:
+        - "Tamil TTS"
+        - "Tamil speech synthesis"
+        - "Singapore Tamil"
+        - "Standard Spoken Tamil"
+        - "Tamil voice cloning"
+    Code_Switching:
+      filters:
+        - "code-switching TTS"
+        - "code-mixed speech synthesis"
+        - "bilingual TTS"
+    Accent_Diglossia:
+      filters:
+        - "accent adaptation TTS"
+        - "dialect TTS"
+        - "diglossia speech synthesis"
+    Low_Resource_Datasets:
+      filters:
+        - "Tamil speech corpus"
+        - "Tamil dataset speech"
+        - "low-resource speech dataset"
+
+  max_results_per_query: 10
+  days_back: 14
+
+  hf_terms:
+    - "tamil"
+    - "tts"
+    - "low-resource speech"
+    - "multilingual tts"
+    - "code-switching"
+
+  github_queries:
+    - "TTS Tamil"
+    - "singapore tts"
+    - "low-resource tts"
+    - "tamil speech dataset"
+    - "OmniVoice TTS"
+
+  use_llm: true
+  llm_provider: "gemini"
+  llm_model: "gemini-1.5-flash"
