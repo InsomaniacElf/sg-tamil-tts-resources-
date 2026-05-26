@@ -1,7 +1,6 @@
-🗣️ TTS Resources Daily
-──────────────────────
+📦 TTS Repositories
+───────────────────
 
-📄 Papers          ← all TTS papers from arXiv
-📦 Repositories    ← GitHub repos from search
-📊 Datasets        ← HuggingFace speech datasets
-📰 Articles        ← surveys, tutorials, overviews
+🎙️ General TTS              ← broad TTS repos
+🌍 Low Resource Language    ← low-resource/zero-shot TTS repos
+🇸🇬 Tamil TTS               ← Tamil-specific repos
