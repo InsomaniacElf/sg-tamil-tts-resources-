@@ -1,9 +1,6 @@
-# sg-tamil-tts-resources-
+# TTS Paper Daily
 
-A curated, searchable list of datasets, models, research papers, and tools for building Text-to-Speech systems.
+Last updated: 2026-05-26
 
-_Keywords:_ text-to-speech, tts, speech synthesis, low-resource speech
-
-| Title | Type | URL | Notes |
-| --- | --- | --- | --- |
-| _No entries yet_ | - | - | - |
+| Date Added | Published | Title | Authors | PDF | Code | Type |
+|------------|-----------|-------|---------|-----|------|------|

@@ -1,9 +1,6 @@
-# Singapore Tamil TTS Resources
+# Singapore Tamil TTS & Low‑Resource Speech Resources
 
-Auto-generated Tamil-focused subset of the resource list.
+Last updated: 2026-05-26
 
-_Keywords:_ tamil, singapore tamil, singaporean tamil, dravidian
-
-| Title | Type | URL | Notes |
-| --- | --- | --- | --- |
-| _No entries yet_ | - | - | - |
+| Date Added | Published | Title | Authors | PDF | Code | Type |
+|------------|-----------|-------|---------|-----|------|------|
