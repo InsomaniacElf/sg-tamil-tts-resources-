@@ -1,4 +1,4 @@
-# ===================== General TTS (daily arXiv) =====================
+# ==================== General TTS (arXiv broad search) ====================
 general_tts:
   keywords:
     TTS:
@@ -20,53 +20,61 @@ general_tts:
         - "low-resource speech synthesis"
         - "low resource TTS"
         - "under-resourced TTS"
-
-  max_results_per_query: 5
-  days_back: 7
-
-# ============== Tamil & Singapore Low‑Resource TTS ===============
-tamil_tts:
-  keywords:
-    Tamil_TTS:
-      filters:
-        - "Tamil TTS"
-        - "Tamil speech synthesis"
-        - "Singapore Tamil"
-        - "Standard Spoken Tamil"
-        - "Tamil voice cloning"
     Code_Switching:
       filters:
         - "code-switching TTS"
         - "code-mixed speech synthesis"
         - "bilingual TTS"
-    Accent_Diglossia:
+    Accent_Dialect:
       filters:
         - "accent adaptation TTS"
         - "dialect TTS"
         - "diglossia speech synthesis"
-    Low_Resource_Datasets:
-      filters:
-        - "Tamil speech corpus"
-        - "Tamil dataset speech"
-        - "low-resource speech dataset"
 
-  max_results_per_query: 10
-  days_back: 14
+  # ---- Initial backfill (first run) ----
+  days_back_initial: 2500         # roughly from 2019-01-01
+  max_results_initial: 300        # fetch many papers per query
 
-  hf_terms:
-    - "tamil"
-    - "tts"
-    - "low-resource speech"
+  # ---- Daily updates ----
+  days_back_daily: 7
+  max_results_daily: 10
+
+# ==================== HuggingFace ====================
+huggingface:
+  model_terms:
+    - "tamil tts"
     - "multilingual tts"
-    - "code-switching"
-
-  github_queries:
-    - "TTS Tamil"
-    - "singapore tts"
+    - "indic tts"
     - "low-resource tts"
-    - "tamil speech dataset"
-    - "OmniVoice TTS"
+    - "text-to-speech tamil"
+    - "singapore tts"
+    - "code-switching tts"
+  dataset_terms:
+    - "tamil speech"
+    - "singapore speech"
+    - "tamil tts dataset"
+    - "low-resource speech dataset"
+    - "code-switching speech"
+    - "indic speech dataset"
+    - "multilingual tts dataset"
 
-  use_llm: true
-  llm_provider: "gemini"
-  llm_model: "gemini-1.5-flash"
+# ==================== GitHub ====================
+github_queries:
+  - "TTS Tamil"
+  - "singapore tts"
+  - "low-resource tts"
+  - "tamil speech dataset"
+  - "OmniVoice TTS"
+  - "indic tts"
+  - "multilingual speech synthesis"
+
+# ==================== LLM Relevance Filter ====================
+use_llm: true
+llm_provider: "gemini"
+llm_model: "gemini-1.5-flash"
+
+# ==================== Output Pages ====================
+output:
+  main_readme: "README.md"
+  tamil_page: "tamil-tts.md"
+  repos_page: "repos.md"
