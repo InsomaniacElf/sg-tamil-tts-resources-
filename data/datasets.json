@@ -1,1 +1,427 @@
-
+[
+  {
+    "id": "hf_dataset_Speech-data/Tamil-Speech-Dataset",
+    "title": "Speech-data/Tamil-Speech-Dataset",
+    "authors": "Speech-data",
+    "published": "2026-04-01",
+    "pdf": "https://huggingface.co/datasets/Speech-data/Tamil-Speech-Dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:automatic-speech-recognition",
+      "language:ta",
+      "license:cc-by-nc-nd-4.0",
+      "size_categories:n<1k",
+      "format:csv",
+      "modality:audio",
+      "modality:text",
+      "library:datasets"
+    ]
+  },
+  {
+    "id": "hf_dataset_Ajmal7979/tamil-dialect-speech",
+    "title": "Ajmal7979/tamil-dialect-speech",
+    "authors": "Ajmal7979",
+    "published": "2026-03-08",
+    "pdf": "https://huggingface.co/datasets/Ajmal7979/tamil-dialect-speech",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:1k<n<10k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant"
+    ]
+  },
+  {
+    "id": "hf_dataset_VishalTheHuman/tamil-dialect-speech",
+    "title": "VishalTheHuman/tamil-dialect-speech",
+    "authors": "VishalTheHuman",
+    "published": "2026-01-24",
+    "pdf": "https://huggingface.co/datasets/VishalTheHuman/tamil-dialect-speech",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:1k<n<10k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant"
+    ]
+  },
+  {
+    "id": "hf_dataset_shunyalabs/tamil-speech-dataset",
+    "title": "shunyalabs/tamil-speech-dataset",
+    "authors": "shunyalabs",
+    "published": "2025-08-25",
+    "pdf": "https://huggingface.co/datasets/shunyalabs/tamil-speech-dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:100k<n<1m",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars"
+    ]
+  },
+  {
+    "id": "hf_dataset_Nexdata/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset",
+    "title": "Nexdata/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset",
+    "authors": "Nexdata",
+    "published": "2025-05-09",
+    "pdf": "https://huggingface.co/datasets/Nexdata/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "license:cc-by-nc-4.0",
+      "modality:audio",
+      "modality:text",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_DataoceanAI/Dolphin_Model_Tamil-Speech-Recognition-Corpus",
+    "title": "DataoceanAI/Dolphin_Model_Tamil-Speech-Recognition-Corpus",
+    "authors": "DataoceanAI",
+    "published": "2025-04-20",
+    "pdf": "https://huggingface.co/datasets/DataoceanAI/Dolphin_Model_Tamil-Speech-Recognition-Corpus",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_krishan-CSE/Tamil_Hate_Speech",
+    "title": "krishan-CSE/Tamil_Hate_Speech",
+    "authors": "krishan-CSE",
+    "published": "2024-09-27",
+    "pdf": "https://huggingface.co/datasets/krishan-CSE/Tamil_Hate_Speech",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "license:apache-2.0",
+      "size_categories:1k<n<10k",
+      "format:csv",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars"
+    ]
+  },
+  {
+    "id": "hf_dataset_yaygomii/Dialect_Speech_Corpus_Tamil_with_info",
+    "title": "yaygomii/Dialect_Speech_Corpus_Tamil_with_info",
+    "authors": "yaygomii",
+    "published": "2024-03-15",
+    "pdf": "https://huggingface.co/datasets/yaygomii/Dialect_Speech_Corpus_Tamil_with_info",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars"
+    ]
+  },
+  {
+    "id": "hf_dataset_speech31/commonvoice_tamil_ipa",
+    "title": "speech31/commonvoice_tamil_ipa",
+    "authors": "speech31",
+    "published": "2024-02-21",
+    "pdf": "https://huggingface.co/datasets/speech31/commonvoice_tamil_ipa",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars"
+    ]
+  },
+  {
+    "id": "hf_dataset_yaygomii/Tamil-Speech-Dialect-Corpus-Shuffled-Split",
+    "title": "yaygomii/Tamil-Speech-Dialect-Corpus-Shuffled-Split",
+    "authors": "yaygomii",
+    "published": "2024-02-04",
+    "pdf": "https://huggingface.co/datasets/yaygomii/Tamil-Speech-Dialect-Corpus-Shuffled-Split",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars"
+    ]
+  },
+  {
+    "id": "hf_dataset_Hasan-Mesbaul-420/Tamil_speech",
+    "title": "Hasan-Mesbaul-420/Tamil_speech",
+    "authors": "Hasan-Mesbaul-420",
+    "published": "2023-12-12",
+    "pdf": "https://huggingface.co/datasets/Hasan-Mesbaul-420/Tamil_speech",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:1k<n<10k",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_blackmount8/singapore_national_speech_corpus_transcripts",
+    "title": "blackmount8/singapore_national_speech_corpus_transcripts",
+    "authors": "blackmount8",
+    "published": "2025-02-10",
+    "pdf": "https://huggingface.co/datasets/blackmount8/singapore_national_speech_corpus_transcripts",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "license:other",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_recursal/reprocessed_singapore_national_speech_corpus",
+    "title": "recursal/reprocessed_singapore_national_speech_corpus",
+    "authors": "recursal",
+    "published": "2024-07-22",
+    "pdf": "https://huggingface.co/datasets/recursal/reprocessed_singapore_national_speech_corpus",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:text-generation",
+      "task_categories:text-classification",
+      "task_categories:automatic-speech-recognition",
+      "task_categories:audio-classification",
+      "language:en",
+      "license:other",
+      "size_categories:1m<n<10m",
+      "format:webdataset"
+    ]
+  },
+  {
+    "id": "hf_dataset_DataoceanAI/Singapore_English_Speech_Recognition_Corpus",
+    "title": "DataoceanAI/Singapore_English_Speech_Recognition_Corpus",
+    "authors": "DataoceanAI",
+    "published": "2024-07-17",
+    "pdf": "https://huggingface.co/datasets/DataoceanAI/Singapore_English_Speech_Recognition_Corpus",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "language:en",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_Cowcat99/tamil-vijay-tts-dataset",
+    "title": "Cowcat99/tamil-vijay-tts-dataset",
+    "authors": "Cowcat99",
+    "published": "2025-09-03",
+    "pdf": "https://huggingface.co/datasets/Cowcat99/tamil-vijay-tts-dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_DynamicSuperb/CodeSwitchingSpeechIdentification_ASCEND",
+    "title": "DynamicSuperb/CodeSwitchingSpeechIdentification_ASCEND",
+    "authors": "DynamicSuperb",
+    "published": "2024-07-23",
+    "pdf": "https://huggingface.co/datasets/DynamicSuperb/CodeSwitchingSpeechIdentification_ASCEND",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "license:cc-by-sa-4.0",
+      "size_categories:n<1k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant"
+    ]
+  },
+  {
+    "id": "hf_dataset_arbml/Dialectal_Speech_Code_Switching",
+    "title": "arbml/Dialectal_Speech_Code_Switching",
+    "authors": "arbml",
+    "published": "2022-10-31",
+    "pdf": "https://huggingface.co/datasets/arbml/Dialectal_Speech_Code_Switching",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:n<1k",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_ssws3/Indic-Speech-Datasets",
+    "title": "ssws3/Indic-Speech-Datasets",
+    "authors": "ssws3",
+    "published": "2026-05-11",
+    "pdf": "https://huggingface.co/datasets/ssws3/Indic-Speech-Datasets",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:100k<n<1m",
+      "format:parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant"
+    ]
+  },
+  {
+    "id": "hf_dataset_ssws3/High-Quality-Indic-Speech-Datasets",
+    "title": "ssws3/High-Quality-Indic-Speech-Datasets",
+    "authors": "ssws3",
+    "published": "2026-05-11",
+    "pdf": "https://huggingface.co/datasets/ssws3/High-Quality-Indic-Speech-Datasets",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "language:en",
+      "language:hi",
+      "language:bn",
+      "language:mr",
+      "language:te",
+      "language:ta",
+      "license:mit",
+      "size_categories:1k<n<10k"
+    ]
+  },
+  {
+    "id": "hf_dataset_french-datasets/Databoost-TTS_Multilingual_Data",
+    "title": "french-datasets/Databoost-TTS_Multilingual_Data",
+    "authors": "french-datasets",
+    "published": "2025-03-31",
+    "pdf": "https://huggingface.co/datasets/french-datasets/Databoost-TTS_Multilingual_Data",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "multilinguality:multilingual",
+      "language:fra",
+      "region:us"
+    ]
+  }
+]
