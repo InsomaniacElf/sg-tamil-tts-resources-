@@ -1354,5 +1354,23 @@
       "license:apache-2.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_lilgoose777/indic-parler-tts-nepali-shristi-v3",
+    "title": "lilgoose777/indic-parler-tts-nepali-shristi-v3",
+    "authors": "",
+    "published": "2026-06-03",
+    "pdf": "https://huggingface.co/lilgoose777/indic-parler-tts-nepali-shristi-v3",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-03",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "parler_tts",
+      "region:us"
+    ]
   }
 ]
