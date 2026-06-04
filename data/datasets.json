@@ -423,5 +423,28 @@
       "language:fra",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_dataset_thetaone-ai/Korean-Japanese-Code-Switching-Speech",
+    "title": "thetaone-ai/Korean-Japanese-Code-Switching-Speech",
+    "authors": "thetaone-ai",
+    "published": "2026-06-04",
+    "pdf": "https://huggingface.co/datasets/thetaone-ai/Korean-Japanese-Code-Switching-Speech",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-04",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:automatic-speech-recognition",
+      "language:ko",
+      "language:ja",
+      "license:apache-2.0",
+      "size_categories:n<1k",
+      "format:parquet",
+      "modality:audio",
+      "modality:text"
+    ]
   }
 ]
