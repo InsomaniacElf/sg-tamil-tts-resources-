@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-06-05 &nbsp;|&nbsp; **Papers:** 3059 &nbsp;|&nbsp; **Repos:** 60 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-06-05 &nbsp;|&nbsp; **Papers:** 3067 &nbsp;|&nbsp; **Repos:** 60 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -50,6 +50,14 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-06-04 | GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech | Jaehoon Kang, Yejin Lee, Kyuhong Shim | [2606.05889](https://arxiv.org/abs/2606.05889) | null |
 | 2026-06-04 | UniVoice: A Unified Model for Speech and Singing Voice Generation | Junjie Zheng, Huixin Xue, Shihong Ren et al. | [2606.05852](https://arxiv.org/abs/2606.05852) | null |
 | 2026-06-04 | Multilingual Fine-Tuning via Localized Gradient Conflict Resolution | Long P. Hoang, Yiran Zhao, Wei Lu et al. | [2606.05613](https://arxiv.org/abs/2606.05613) | null |
+| 2026-06-04 | TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning | Marius Dragoi, Ioana Pintilie, Alexandra Dragomir et al. | [2606.06494](https://arxiv.org/abs/2606.06494) | null |
+| 2026-06-04 | Homeomorphic modified wave operators for the Vlasov-Poisson system | Léo Bigorgne | [2606.06488](https://arxiv.org/abs/2606.06488) | null |
+| 2026-06-04 | Statistically and Computationally Optimal Estimation and Inference of Common Subspaces | Joshua Agterberg | [2606.06483](https://arxiv.org/abs/2606.06483) | null |
+| 2026-06-04 | MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery | Shangheng Du, Xiangchao Yan, Jinxin Shi et al. | [2606.06473](https://arxiv.org/abs/2606.06473) | [code](https://github.com/InternScience/MLEvolve.) |
+| 2026-06-04 | Large data scattering for the defocusing $k$-dispersion generalized Benjamin-Ono equation in the energy space | Luccas Campos, Felipe Linares, Thyago S. R. Santos | [2606.06463](https://arxiv.org/abs/2606.06463) | null |
+| 2026-06-04 | Flow-based Policy Adaptation without Policy Updates | Luzhe Sun, Jingtian Ji, Haoran Chen et al. | [2606.06461](https://arxiv.org/abs/2606.06461) | null |
+| 2026-06-04 | Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals | Thamilvendhan Munirathinam | [2606.06460](https://arxiv.org/abs/2606.06460) | [code](https://github.com/mthamil107/Recuse) |
+| 2026-06-04 | Event Detection for Parameter-to-KPI Dependency Learning for AI-RAN | Christie Djidjev, Nicholas Kaminski | [2606.06459](https://arxiv.org/abs/2606.06459) | null |
 | 2026-06-03 | Compressed \emph{Gaussian} likelihood for the \textit{Planck} low-$\ell$ data | Nanoom Lee | [2606.05166](https://arxiv.org/abs/2606.05166) | [code](https://github.com/nanoomlee/planck-gaussian-lowl) |
 | 2026-06-03 | FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors | Sepehr Dehdashtian, Jacob H Seidman, Vishnu N Boddeti et al. | [2606.05101](https://arxiv.org/abs/2606.05101) | null |
 | 2026-06-03 | In-Context Graphical Inference | Zehua Cheng, Wei Dai, Jiahao Sun | [2606.05042](https://arxiv.org/abs/2606.05042) | null |
