@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-06-05 &nbsp;|&nbsp; **Papers:** 3067 &nbsp;|&nbsp; **Repos:** 60 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-06-06 &nbsp;|&nbsp; **Papers:** 3102 &nbsp;|&nbsp; **Repos:** 60 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -58,6 +58,40 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-06-04 | Flow-based Policy Adaptation without Policy Updates | Luzhe Sun, Jingtian Ji, Haoran Chen et al. | [2606.06461](https://arxiv.org/abs/2606.06461) | null |
 | 2026-06-04 | Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals | Thamilvendhan Munirathinam | [2606.06460](https://arxiv.org/abs/2606.06460) | [code](https://github.com/mthamil107/Recuse) |
 | 2026-06-04 | Event Detection for Parameter-to-KPI Dependency Learning for AI-RAN | Christie Djidjev, Nicholas Kaminski | [2606.06459](https://arxiv.org/abs/2606.06459) | null |
+| 2026-06-04 | TLA-Prover: Verifiable TLA+ Specification Synthesis via Preference-Optimized Low-Rank Adaptation | Eric Spencer, Arslan Bisharat, Brian Ortiz et al. | [2606.06133](https://arxiv.org/abs/2606.06133) | null |
+| 2026-06-04 | Leveraging LLMs for Unstructured Claims Data Analysis | Robert D. Lieberthal, Richard Tran, Vietbao Phan et al. | [2606.06089](https://arxiv.org/abs/2606.06089) | [code](https://github.com/mdsight/llm-claims-analysis) |
+| 2026-06-04 | LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations | Mritula Chandrasekaran, Sanket Kachole, Jarik Francik et al. | [2606.06048](https://arxiv.org/abs/2606.06048) | null |
+| 2026-06-04 | EGTR-Review: Efficient Evidence-Grounded Scientific Peer Review Generation via Multi-Agent Teacher Distillation | Xinpeng Qiu, Wang Yihu, Zhifeng Liu et al. | [2606.06025](https://arxiv.org/abs/2606.06025) | null |
+| 2026-06-04 | ReSAGE-PAR: Representational Similarity Assessment for Generative Expansion in Pedestrian Attribute Recognition | Pablo Ayuso-Albizu, Pablo Carballeira, Juan C. SanMiguel et al. | [2606.06020](https://arxiv.org/abs/2606.06020) | null |
+| 2026-06-04 | World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis | Yi Yang, Zhihong Liu, Siqi Kou et al. | [2606.05979](https://arxiv.org/abs/2606.05979) | null |
+| 2026-06-04 | Planet engulfment in the chemically anomalous HD 129171/HD 129209 pair | Anne Rathsam, Jorge Meléndez, Rodolfo Smiljanic et al. | [2606.05934](https://arxiv.org/abs/2606.05934) | null |
+| 2026-06-04 | English-to-Prakrit Machine Translation via Multilingual Transfer Learning | Om Choksi, Smit Kareliya, Shrikant Malviya et al. | [2606.06038](https://arxiv.org/abs/2606.06038) | [code](https://github.com/D3v1s0m/indictrans2-prakrit-mt.) |
+| 2026-06-04 | SpeechJBB: Probing Safety Alignment and Comprehension in Large Audio Language Models under Code-Switched Speech | Virginia Ceccatelli, Yejin Jeon, David Ifeoluwa Adelani | [2606.06037](https://arxiv.org/abs/2606.06037) | null |
+| 2026-06-04 | Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs | Gio Paik, Hyunseo Shin, Soungmin Lee | [2606.05846](https://arxiv.org/abs/2606.05846) | null |
+| 2026-06-04 | Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation | Hanxu Hu, Zdeněk Šnajdr, Pinzhen Chen et al. | [2606.06428](https://arxiv.org/abs/2606.06428) | null |
+| 2026-06-04 | Annotation of Positive vs Negative User Interactions for Social Sign Prediction | Biancamaria Bombino, Chiara Boldrini, Andrea Passarella et al. | [2606.06425](https://arxiv.org/abs/2606.06425) | null |
+| 2026-06-04 | A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation | Petr Parshakov | [2606.06420](https://arxiv.org/abs/2606.06420) | null |
+| 2026-06-04 | Attack Detection using Time Series Foundation Models | Sribalaji C. Anand, Anh Tung Nguyen, George J. Pappas | [2606.06347](https://arxiv.org/abs/2606.06347) | null |
+| 2026-06-04 | Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation | Yohann Benchetrit, Marlène Careil, Simon Dahan et al. | [2606.06345](https://arxiv.org/abs/2606.06345) | null |
+| 2026-06-04 | DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN | Francesco Spinelli, Esteban Municio, Pau Baguer et al. | [2606.06261](https://arxiv.org/abs/2606.06261) | null |
+| 2026-06-04 | Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy | Le Liang, Jiajia Guo, Jun Zhang et al. | [2606.06239](https://arxiv.org/abs/2606.06239) | null |
+| 2026-06-04 | TAM: Torque Adaptation Module for Robust Motion Transfer in Manipulation | Dongwon Son, Florian Shkurti, Jason Lee et al. | [2606.06218](https://arxiv.org/abs/2606.06218) | null |
+| 2026-06-04 | Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models | Liangsheng Liu, Si Chen, Jiamin Wu et al. | [2606.06186](https://arxiv.org/abs/2606.06186) | null |
+| 2026-06-04 | Nanostructure modelling with early fault tolerant quantum computers | Zhu Sun, Christian Binder, Balint Koczor et al. | [2606.06442](https://arxiv.org/abs/2606.06442) | null |
+| 2026-06-04 | Rethinking Infrastructure Inspection as Image Difference Classification: A Traffic Sign Case Study | Ching Yau Fergus Mok, Lavindra de Silva, Varun Kumar Reja et al. | [2606.06375](https://arxiv.org/abs/2606.06375) | null |
+| 2026-06-04 | TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies | Dong Jing, Jingchen Nie, Tianqi Zhang et al. | [2606.06491](https://arxiv.org/abs/2606.06491) | null |
+| 2026-06-04 | DNQ: Deep Nash Q-Network for Partially Observable n-Player Games | Qintong Xie, Edward Koh, Xavier Cadet et al. | [2606.06480](https://arxiv.org/abs/2606.06480) | null |
+| 2026-06-04 | Self-Augmenting Retrieval for Diffusion Language Models | Paul Jünger, Justin Lovelace, Linxi Zhao et al. | [2606.06474](https://arxiv.org/abs/2606.06474) | null |
+| 2026-06-04 | When positive and negative pairs differ in femtoscopy: residual Coulomb and isospin effects | Yevheniia Khyzhniak, Michael Annan Lisa | [2606.06472](https://arxiv.org/abs/2606.06472) | null |
+| 2026-06-04 | PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training | Senmiao Wang, Tiantian Fang, Haoran Zhang et al. | [2606.06470](https://arxiv.org/abs/2606.06470) | [code](https://github.com/Empath-aln/PC-layer.) |
+| 2026-06-04 | Enhancement of charge correlations and real-space topological marker on an interacting non-Hermitian Su-Schrieffer-Heeger model | Sebastião dos A. Sousa-Júnior, Pedro B. Melo, Rubem Mondaini et al. | [2606.06466](https://arxiv.org/abs/2606.06466) | null |
+| 2026-06-04 | "Chi nas dal soch el sent de legn" -- Auditing Text Corpora for Lombard | Edoardo Signoroni, Pavel Rychlý | [2606.06349](https://arxiv.org/abs/2606.06349) | null |
+| 2026-06-04 | Learning to Contest: Decentralized Robust Fairness in Cooperative MARL via Cross-Attention | Can Savcı | [2606.06162](https://arxiv.org/abs/2606.06162) | null |
+| 2026-06-04 | Beyond Greedy Chunking: SLO-Aware Sliding-Window Scheduling for LLM Inference | Yuansheng Chen, Yue Zhang, Xuan Mo et al. | [2606.05933](https://arxiv.org/abs/2606.05933) | null |
+| 2026-06-04 | TARPO: Token-Wise Latent-Explicit Reasoning via Action-Routing Policy Optimization | Liting Zhang, Shiwan Zhao, Xuyang Zhao et al. | [2606.05859](https://arxiv.org/abs/2606.05859) | [code](https://github.com/NKU-LITI/TARPO-master.) |
+| 2026-06-04 | Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models | Mohammad Mahdi Abootorabi, Omid Ghahroodi, Anas Madkoor et al. | [2606.05531](https://arxiv.org/abs/2606.05531) | [code](https://github.com/qcri/Almieyar-Oryx-BloomBench.) |
+| 2026-06-04 | Ouvia: A User-centered Framework for Measuring Usability of Speech Translation in Real-World Communication Scenarios | Giuseppe Attanasio, Beatrice Savoldi, Daniel Chechelnitsky et al. | [2606.06177](https://arxiv.org/abs/2606.06177) | [code](https://github.com/g8a9/ouvia) |
+| 2026-06-04 | The Generator-Eraser Paradox: Community Guidelines for Responsible LLM-Assisted Dialect Resource Creation | Wajdi Zaghouani | [2606.06004](https://arxiv.org/abs/2606.06004) | null |
 | 2026-06-03 | Compressed \emph{Gaussian} likelihood for the \textit{Planck} low-$\ell$ data | Nanoom Lee | [2606.05166](https://arxiv.org/abs/2606.05166) | [code](https://github.com/nanoomlee/planck-gaussian-lowl) |
 | 2026-06-03 | FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors | Sepehr Dehdashtian, Jacob H Seidman, Vishnu N Boddeti et al. | [2606.05101](https://arxiv.org/abs/2606.05101) | null |
 | 2026-06-03 | In-Context Graphical Inference | Zehua Cheng, Wei Dai, Jiahao Sun | [2606.05042](https://arxiv.org/abs/2606.05042) | null |
@@ -125,6 +159,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-06-03 | Who Needs Labels? Adapting Vision Foundation Models With the Metadata You Already Have | Elouan Gardès, Seung Eun Yi, Kartik Ahuja et al. | [2606.05107](https://arxiv.org/abs/2606.05107) | null |
 | 2026-06-03 | Identifying Gems from Roman RAPIDly | Karan Gandhi, Ashish A. Mahabal, Jacob E. Jencson et al. | [2606.05103](https://arxiv.org/abs/2606.05103) | null |
 | 2026-06-03 | Khintchine's Theorem for Symmetric matrices via Flows on the Space of Symplectic Lattices | Minchang Kim | [2606.05096](https://arxiv.org/abs/2606.05096) | null |
+| 2026-06-03 | Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech | Daniel Oliveira de Brito, Arnaldo Candido Junior | [2606.05367](https://arxiv.org/abs/2606.05367) | null |
 | 2026-06-02 | Efficient ASR Training with Conversations that Never Happened | Máté Gedeon, Péter Mihajlik | [2606.03957](https://arxiv.org/abs/2606.03957) | null |
 | 2026-06-02 | Rethinking the Role of Tensor Decompositions in Post-Training LLM Compression | Artur Zagitov, Alexander Miasnikov, Maxim Krutikov et al. | [2606.03465](https://arxiv.org/abs/2606.03465) | [code](https://github.com/brain-lab-research/TT-LLM.) |
 | 2026-06-02 | WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling | Wenxi Chen, Dongya Jia, Yushen Chen et al. | [2606.03455](https://arxiv.org/abs/2606.03455) | null |

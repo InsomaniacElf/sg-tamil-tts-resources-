@@ -1464,5 +1464,28 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_milanakdj/indic-parler-tts-nepali-finetuned-dgx-v10-cosine",
+    "title": "milanakdj/indic-parler-tts-nepali-finetuned-dgx-v10-cosine",
+    "authors": "",
+    "published": "2026-06-05",
+    "pdf": "https://huggingface.co/milanakdj/indic-parler-tts-nepali-finetuned-dgx-v10-cosine",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-06",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "parler-tts",
+      "safetensors",
+      "parler_tts",
+      "text-to-speech",
+      "nepali",
+      "finetuned",
+      "ne",
+      "region:us"
+    ]
   }
 ]
