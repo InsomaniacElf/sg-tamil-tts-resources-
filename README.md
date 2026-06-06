@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-06-06 &nbsp;|&nbsp; **Papers:** 3102 &nbsp;|&nbsp; **Repos:** 60 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-06-06 &nbsp;|&nbsp; **Papers:** 3106 &nbsp;|&nbsp; **Repos:** 61 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -92,6 +92,10 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-06-04 | Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models | Mohammad Mahdi Abootorabi, Omid Ghahroodi, Anas Madkoor et al. | [2606.05531](https://arxiv.org/abs/2606.05531) | [code](https://github.com/qcri/Almieyar-Oryx-BloomBench.) |
 | 2026-06-04 | Ouvia: A User-centered Framework for Measuring Usability of Speech Translation in Real-World Communication Scenarios | Giuseppe Attanasio, Beatrice Savoldi, Daniel Chechelnitsky et al. | [2606.06177](https://arxiv.org/abs/2606.06177) | [code](https://github.com/g8a9/ouvia) |
 | 2026-06-04 | The Generator-Eraser Paradox: Community Guidelines for Responsible LLM-Assisted Dialect Resource Creation | Wajdi Zaghouani | [2606.06004](https://arxiv.org/abs/2606.06004) | null |
+| 2026-06-04 | Benchmark Everything Everywhere All at Once | Shiyun Xiong, Dongming Wu, Peiwen Sun et al. | [2606.06462](https://arxiv.org/abs/2606.06462) | null |
+| 2026-06-04 | Latent Reasoning with Normalizing Flows | Guancheng Tu, Xiangjun Fu, Suhao Yu et al. | [2606.06447](https://arxiv.org/abs/2606.06447) | null |
+| 2026-06-04 | Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions | Xinnong Zhang, Wanting Shan, Hanjia Lyu et al. | [2606.06443](https://arxiv.org/abs/2606.06443) | null |
+| 2026-06-04 | An inverse source problem for a fully nonlinear elliptic equation | Ching-Lung Lin, Yi-Hsuan Lin, Jenn-Nan Wang | [2606.06431](https://arxiv.org/abs/2606.06431) | null |
 | 2026-06-03 | Compressed \emph{Gaussian} likelihood for the \textit{Planck} low-$\ell$ data | Nanoom Lee | [2606.05166](https://arxiv.org/abs/2606.05166) | [code](https://github.com/nanoomlee/planck-gaussian-lowl) |
 | 2026-06-03 | FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors | Sepehr Dehdashtian, Jacob H Seidman, Vishnu N Boddeti et al. | [2606.05101](https://arxiv.org/abs/2606.05101) | null |
 | 2026-06-03 | In-Context Graphical Inference | Zehua Cheng, Wei Dai, Jiahao Sun | [2606.05042](https://arxiv.org/abs/2606.05042) | null |
@@ -3144,6 +3148,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-02-05 | smtiitm/Fastspeech2_HS | smtiitm | null | [repo](https://github.com/smtiitm/Fastspeech2_HS) ⭐55 |
 | 2026-01-19 | huilei-linguist/whisper-singlish-finetuning | huilei-linguist | null | [repo](https://github.com/huilei-linguist/whisper-singlish-finetuning) |
 | 2025-12-22 | NN-Project-2/Emotion-TTS-Emebddings | NN-Project-2 | null | [repo](https://github.com/NN-Project-2/Emotion-TTS-Emebddings) ⭐18 |
+| 2025-11-04 | Sharan-Kumar-R/Talk2Translate | Sharan-Kumar-R | null | [repo](https://github.com/Sharan-Kumar-R/Talk2Translate) ⭐5 |
 | 2025-08-03 | aaivu/EmoTa | aaivu | null | [repo](https://github.com/aaivu/EmoTa) ⭐26 |
 | 2025-07-21 | m15-ai/Faster-Local-Voice-AI | m15-ai | null | [repo](https://github.com/m15-ai/Faster-Local-Voice-AI) ⭐26 |
 | 2025-05-09 | Nexdata-AI/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset | Nexdata-AI | null | [repo](https://github.com/Nexdata-AI/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset) |

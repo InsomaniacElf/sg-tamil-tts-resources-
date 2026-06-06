@@ -40324,5 +40324,57 @@
     "date_added": "2026-06-06",
     "is_tamil": false,
     "is_low_res": false
+  },
+  {
+    "id": "2606.06462",
+    "title": "Benchmark Everything Everywhere All at Once",
+    "authors": "Shiyun Xiong, Dongming Wu, Peiwen Sun et al.",
+    "published": "2026-06-04",
+    "pdf": "https://arxiv.org/abs/2606.06462",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse, raising concerns about sustainability and scalability. Moreover, existing benchmarks often quickly reach performance saturation after their release, resulting in insufficient discrimination among state-of-the-art models. To address these challenges, we introduce Benchmark Agent, a fully autonomous agentic system designed for benchmark building. Our framework orchestrates the complete benchmark construction pipeline, from user query analysis and subtask design to data annotation and quality control. To assess Benchmark Agent, we implement it to produce 15 representative benchmarks, spanning di",
+    "date_added": "2026-06-06",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2606.06447",
+    "title": "Latent Reasoning with Normalizing Flows",
+    "authors": "Guancheng Tu, Xiangjun Fu, Suhao Yu et al.",
+    "published": "2026-06-04",
+    "pdf": "https://arxiv.org/abs/2606.06447",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Large language models often improve reasoning by generating explicit chain-of-thought (CoT), demonstrating the importance of intermediate computation. However, textual CoT forces this computation through a discrete, serial, and communication-oriented token stream: each reasoning step must be verbalized before the model can proceed, even when the underlying update is semantic, uncertain, or only partially formed. Latent reasoning offers a higher-bandwidth alternative by performing intermediate computation in compact continuous states before committing to text. Yet existing latent-reasoning methods often sacrifice key advantages that make CoT effective in autoregressive language models, including native left-to-right generation, probabilistic sampling, compatibility with KV-cache decoding, a",
+    "date_added": "2026-06-06",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2606.06443",
+    "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+    "authors": "Xinnong Zhang, Wanting Shan, Hanjia Lyu et al.",
+    "published": "2026-06-04",
+    "pdf": "https://arxiv.org/abs/2606.06443",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect precise user-specific beliefs or whether they are highly sensitive to semantically independent changes in conversational contexts. In this work, we study counterfactual context revision as a framework for auditing LLM-based stance simulation. Given an original online conversation, we first infer a target user's stance toward a specific topic. We then apply controlled revision strategies to the conversational context and simulate the user's stance again under the revised context. We compare text-only revision strategies with a multimodal one that incorporates meme-based context and evaluate two m",
+    "date_added": "2026-06-06",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2606.06431",
+    "title": "An inverse source problem for a fully nonlinear elliptic equation",
+    "authors": "Ching-Lung Lin, Yi-Hsuan Lin, Jenn-Nan Wang",
+    "published": "2026-06-04",
+    "pdf": "https://arxiv.org/abs/2606.06431",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "We study an inverse source problem for fully nonlinear elliptic equations of the form   \\[   F(D^2u)=f \\quad \\text{in } Ω.   \\]   The question is whether the source term can be recovered from the Dirichlet-to-Neumann map. In two dimensions, the first linearization does not immediately give uniqueness: it leaves a natural conformal ambiguity in the linearized coefficients. For homogeneous nonlinearities $F$ with injective differential $DF$, we show that this ambiguity has a precise meaning at the level of the equation itself, namely that the source is determined up to an explicit scalar factor.   The main point of the paper is to show how this remaining factor can be removed. We use the second linearization to extract information which is invisible at first order, and combine it with an alg",
+    "date_added": "2026-06-06",
+    "is_tamil": false,
+    "is_low_res": false
   }
 ]

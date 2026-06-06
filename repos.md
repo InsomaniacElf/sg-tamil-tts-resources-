@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-06-06 &nbsp;|&nbsp; **TTS:** 20 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 30
+**Updated:** 2026-06-06 &nbsp;|&nbsp; **TTS:** 20 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 31
 
 ---
 
@@ -66,6 +66,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 | 2026-03-04 | Kenpath/indic-text-normalization | Kenpath | null | [repo](https://github.com/Kenpath/indic-text-normalization) ⭐22 |
 | 2026-02-05 | smtiitm/Fastspeech2_HS | smtiitm | null | [repo](https://github.com/smtiitm/Fastspeech2_HS) ⭐55 |
 | 2026-01-19 | huilei-linguist/whisper-singlish-finetuning | huilei-linguist | null | [repo](https://github.com/huilei-linguist/whisper-singlish-finetuning) |
+| 2025-11-04 | Sharan-Kumar-R/Talk2Translate | Sharan-Kumar-R | null | [repo](https://github.com/Sharan-Kumar-R/Talk2Translate) ⭐5 |
 | 2025-08-03 | aaivu/EmoTa | aaivu | null | [repo](https://github.com/aaivu/EmoTa) ⭐26 |
 | 2025-05-09 | Nexdata-AI/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset | Nexdata-AI | null | [repo](https://github.com/Nexdata-AI/203-Hours-Tamil-Real-world-Casual-Conversation-and-Monologue-speech-dataset) |
 | 2025-03-06 | AI4Bharat/Rasa | AI4Bharat | null | [repo](https://github.com/AI4Bharat/Rasa) ⭐15 |

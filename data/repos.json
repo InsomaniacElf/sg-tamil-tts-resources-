@@ -898,5 +898,20 @@
     "is_low_res": true,
     "_stars": 18,
     "_desc": "this project explores zero-shot emotional speech synthesis using emod, a novel approach combining emotion and content embeddings for multilingual and cross-lingual emotion transfer. built on a vits-ba"
+  },
+  {
+    "id": "github_Sharan-Kumar-R/Talk2Translate",
+    "title": "Sharan-Kumar-R/Talk2Translate",
+    "authors": "Sharan-Kumar-R",
+    "published": "2025-11-04",
+    "pdf": "null",
+    "code": "https://github.com/Sharan-Kumar-R/Talk2Translate",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-06-06",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_stars": 5,
+    "_desc": "the application uses speechrecognition, googletranslator, and gtts to convert spoken english or tamil into the opposite language, display the translated text, and play the audio output."
   }
 ]
