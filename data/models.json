@@ -1505,5 +1505,23 @@
       "parler_tts",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_lilgoose777/indic-parler-tts-nepali-finetuned-vnew",
+    "title": "lilgoose777/indic-parler-tts-nepali-finetuned-vnew",
+    "authors": "",
+    "published": "2026-06-07",
+    "pdf": "https://huggingface.co/lilgoose777/indic-parler-tts-nepali-finetuned-vnew",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-07",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "parler_tts",
+      "region:us"
+    ]
   }
 ]
