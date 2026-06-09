@@ -913,5 +913,20 @@
     "is_low_res": false,
     "_stars": 5,
     "_desc": "the application uses speechrecognition, googletranslator, and gtts to convert spoken english or tamil into the opposite language, display the translated text, and play the audio output."
+  },
+  {
+    "id": "github_yanorei32/discord-tts",
+    "title": "yanorei32/discord-tts",
+    "authors": "yanorei32",
+    "published": "2026-06-09",
+    "pdf": "null",
+    "code": "https://github.com/yanorei32/discord-tts",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-06-09",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_stars": 17,
+    "_desc": "tts discord bot [voiceroid, voicevox, aivisspeech, omnivoice, androidtts, winrt tts, kttsproject, mirae-tts and more backends]"
   }
 ]

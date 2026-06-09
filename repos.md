@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-06-09 &nbsp;|&nbsp; **TTS:** 20 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 31
+**Updated:** 2026-06-09 &nbsp;|&nbsp; **TTS:** 21 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 31
 
 ---
 
@@ -12,6 +12,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-06-09 | yanorei32/discord-tts | yanorei32 | null | [repo](https://github.com/yanorei32/discord-tts) ⭐17 |
 | 2026-06-01 | debpalash/OmniVoice-Studio | debpalash | null | [repo](https://github.com/debpalash/OmniVoice-Studio) ⭐5461 |
 | 2026-06-01 | zeropointnine/tts-audiobook-tool | zeropointnine | null | [repo](https://github.com/zeropointnine/tts-audiobook-tool) ⭐131 |
 | 2026-05-30 | JaySpiffy/draft-to-take | JaySpiffy | null | [repo](https://github.com/JaySpiffy/draft-to-take) ⭐63 |
