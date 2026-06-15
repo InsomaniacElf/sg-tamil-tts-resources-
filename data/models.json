@@ -1564,5 +1564,28 @@
       "parler_tts",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_Sunbird/orpheus-3b-tts-multilingual",
+    "title": "Sunbird/orpheus-3b-tts-multilingual",
+    "authors": "",
+    "published": "2026-06-15",
+    "pdf": "https://huggingface.co/Sunbird/orpheus-3b-tts-multilingual",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-15",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-to-speech",
+      "tts",
+      "orpheus",
+      "multilingual"
+    ]
   }
 ]
