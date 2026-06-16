@@ -2,7 +2,7 @@
 
 All entries are **distilled from the main list** using Gemini LLM (title + abstract) — not just keyword matching. Papers can appear in both [README.md](README.md) and here.
 
-**Updated:** 2026-06-15 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 23 &nbsp;|&nbsp; **Tamil datasets:** 12
+**Updated:** 2026-06-16 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 23 &nbsp;|&nbsp; **Tamil datasets:** 12
 
 ---
 
