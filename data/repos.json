@@ -928,5 +928,20 @@
     "is_low_res": false,
     "_stars": 17,
     "_desc": "tts discord bot [voiceroid, voicevox, aivisspeech, omnivoice, androidtts, winrt tts, kttsproject, mirae-tts and more backends]"
+  },
+  {
+    "id": "github_aaivu/KuralHub",
+    "title": "aaivu/KuralHub",
+    "authors": "aaivu",
+    "published": "2026-06-18",
+    "pdf": "null",
+    "code": "https://github.com/aaivu/KuralHub",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-06-18",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_stars": 2,
+    "_desc": "an extensive collection of speech emotion recognition (ser) datasets across multiple languages, including english, mandarin, hindi, spanish, tamil, arabic, and more. perfect for training emotion detec"
   }
 ]

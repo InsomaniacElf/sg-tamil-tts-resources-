@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-06-18 &nbsp;|&nbsp; **TTS:** 21 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 31
+**Updated:** 2026-06-18 &nbsp;|&nbsp; **TTS:** 21 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 32
 
 ---
 
@@ -57,6 +57,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-06-18 | aaivu/KuralHub | aaivu | null | [repo](https://github.com/aaivu/KuralHub) ⭐2 |
 | 2026-06-01 | InsomaniacElf/sg-tamil-tts-resources- | InsomaniacElf | null | [repo](https://github.com/InsomaniacElf/sg-tamil-tts-resources-) |
 | 2026-05-24 | AMohammedShafeek/stt-multilingual-model | AMohammedShafeek | null | [repo](https://github.com/AMohammedShafeek/stt-multilingual-model) ⭐1 |
 | 2026-05-08 | Nexdata-AI/Tamil-Speech-Dataset-500-Hours-Monologue-Audio-Corpus | Nexdata-AI | null | [repo](https://github.com/Nexdata-AI/Tamil-Speech-Dataset-500-Hours-Monologue-Audio-Corpus) |
