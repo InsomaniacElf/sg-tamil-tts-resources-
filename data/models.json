@@ -1587,5 +1587,60 @@
       "orpheus",
       "multilingual"
     ]
+  },
+  {
+    "id": "hf_model_hans00/Chatterbox-Multilingual-TTS-GGUF",
+    "title": "hans00/Chatterbox-Multilingual-TTS-GGUF",
+    "authors": "",
+    "published": "2026-06-18",
+    "pdf": "https://huggingface.co/hans00/Chatterbox-Multilingual-TTS-GGUF",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-19",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "chatterbox",
+      "gguf",
+      "tts",
+      "chatterbox-multilingual",
+      "text-to-speech",
+      "ar",
+      "da",
+      "de"
+    ]
+  },
+  {
+    "id": "hf_model_JSCreatorPro/offline-tts-indicf5",
+    "title": "JSCreatorPro/offline-tts-indicf5",
+    "authors": "",
+    "published": "2026-06-19",
+    "pdf": "https://huggingface.co/JSCreatorPro/offline-tts-indicf5",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-19",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_model_JSCreatorPro/offline-tts-indic-parler",
+    "title": "JSCreatorPro/offline-tts-indic-parler",
+    "authors": "",
+    "published": "2026-06-18",
+    "pdf": "https://huggingface.co/JSCreatorPro/offline-tts-indic-parler",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-19",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
