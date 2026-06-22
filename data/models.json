@@ -1642,5 +1642,28 @@
     "_tags": [
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_Ojey007/orpheus-3b-tts-multilingual",
+    "title": "Ojey007/orpheus-3b-tts-multilingual",
+    "authors": "",
+    "published": "2026-06-22",
+    "pdf": "https://huggingface.co/Ojey007/orpheus-3b-tts-multilingual",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-22",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "text-to-speech",
+      "tts",
+      "orpheus",
+      "multilingual"
+    ]
   }
 ]
