@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-06-23 &nbsp;|&nbsp; **Papers:** 3949 &nbsp;|&nbsp; **Repos:** 63 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-06-23 &nbsp;|&nbsp; **Papers:** 3962 &nbsp;|&nbsp; **Repos:** 63 &nbsp;|&nbsp; **Datasets:** 21 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -72,6 +72,19 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-06-22 | Dynamic estimation of slowly varying sequences | Prashant Gokhale, Mikhail Khodak, Sandeep Silwal | [2606.23655](https://arxiv.org/abs/2606.23655) | null |
 | 2026-06-22 | Position-Space Renormalization and Half-Space Truncations in $φ^4_4$ | Majdouline Borji | [2606.23650](https://arxiv.org/abs/2606.23650) | null |
 | 2026-06-22 | Reactive Force Field for P/Sn/I System: Atomistic Insight into the Early Stage of Black Phosphorus and Phosphorene Synthesis Process | Djuric Brice Talonpa Tchoffo, Ismail Benabdallah, Petr Neugebauer et al. | [2606.23328](https://arxiv.org/abs/2606.23328) | null |
+| 2026-06-22 | Semantic Browsing: Controllable Diversity for Image Generation | Sara Dorfman, Maya Vishnevsky, Omer Dahary et al. | [2606.23679](https://arxiv.org/abs/2606.23679) | null |
+| 2026-06-22 | IMAGIN-4D: Image-Guided Controllable Interaction Generation | Sai Kumar Dwivedi, Federica Bogo, Buğra Tekin et al. | [2606.23675](https://arxiv.org/abs/2606.23675) | null |
+| 2026-06-22 | GeoFidelity-Bench: Evaluating Segment-Level Geographic Fidelity in Text-to-Image Street-View Generation | Kaizhen Tan, Hanzhe Hong, Siru Tao | [2606.23669](https://arxiv.org/abs/2606.23669) | null |
+| 2026-06-22 | DiT-Reward: Generative Representations for Text-to-Image Reward Modeling | Yuanming Yang, Guoqing Ma, Bo Wang et al. | [2606.23626](https://arxiv.org/abs/2606.23626) | null |
+| 2026-06-22 | Vera: A Layered Diffusion Model for Content-Preserving Video Editing | Hongkai Zheng, Ta-Ying Cheng, Benjamin Klein et al. | [2606.23610](https://arxiv.org/abs/2606.23610) | null |
+| 2026-06-22 | LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement | Tongkun Guan, Haocheng Wang, Wei Shen et al. | [2606.23539](https://arxiv.org/abs/2606.23539) | [code](https://github.com/bokufa/LightSTAR.) |
+| 2026-06-22 | SQLConductor: Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration | Yizhang Zhu, Zhangyang Peng, Boyan Li et al. | [2606.23537](https://arxiv.org/abs/2606.23537) | null |
+| 2026-06-22 | POTracker: Optimizing Large Language Models for Standard-Compliant Power Outage Report Generation | Hung Phan, Aniroop Naladala, Dubey Avanindra et al. | [2606.23533](https://arxiv.org/abs/2606.23533) | null |
+| 2026-06-22 | On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models | Shunsuke Kando, Wataru Nakata, Shinnosuke Takamichi et al. | [2606.23285](https://arxiv.org/abs/2606.23285) | null |
+| 2026-06-22 | AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection | Mingi Choi, Gunhee Kim, Jisoo Kim et al. | [2606.23689](https://arxiv.org/abs/2606.23689) | null |
+| 2026-06-22 | Randomized YaRN Improves Length Generalization for Long-Context Reasoning | Manas Mehta, Fangcong Yin, Greg Durrett | [2606.23687](https://arxiv.org/abs/2606.23687) | null |
+| 2026-06-22 | Rank Amplification for Shifted Equal Values of Euler's Totient Function | Eric Li | [2606.23681](https://arxiv.org/abs/2606.23681) | null |
+| 2026-06-22 | Effective hyperuniformity in time-integrated stochastic Turing patterns | Anirban Mukherjee, Hong-Yan Shih | [2606.23677](https://arxiv.org/abs/2606.23677) | null |
 | 2026-06-21 | Stable blow-up on a sphere for a quadratic-derivative nonlinear wave equation | Manuel del Pino, Oliver Gough, Monica Musso | [2606.22282](https://arxiv.org/abs/2606.22282) | null |
 | 2026-06-21 | Orthogonal Representation Editing: Decoupling Semantic Entanglement in Batch Knowledge Editing of LLMs | Wenhao Yu, Zhicong Lu, Bo Lv et al. | [2606.22627](https://arxiv.org/abs/2606.22627) | [code](https://github.com/YVVH/ORE.) |
 | 2026-06-21 | Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars | Chandranath Adak, Ramesh Nandipalli | [2606.22494](https://arxiv.org/abs/2606.22494) | null |
