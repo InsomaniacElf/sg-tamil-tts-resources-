@@ -1711,5 +1711,28 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_yogenghodke/indic-parler-tts-mlx-q8",
+    "title": "yogenghodke/indic-parler-tts-mlx-q8",
+    "authors": "",
+    "published": "2026-06-25",
+    "pdf": "https://huggingface.co/yogenghodke/indic-parler-tts-mlx-q8",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-25",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "mlx",
+      "apple-silicon",
+      "tts",
+      "indic",
+      "parler-tts",
+      "quantized",
+      "text-to-speech",
+      "en"
+    ]
   }
 ]
