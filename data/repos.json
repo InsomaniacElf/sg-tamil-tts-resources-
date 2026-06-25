@@ -943,5 +943,20 @@
     "is_low_res": false,
     "_stars": 2,
     "_desc": "an extensive collection of speech emotion recognition (ser) datasets across multiple languages, including english, mandarin, hindi, spanish, tamil, arabic, and more. perfect for training emotion detec"
+  },
+  {
+    "id": "github_tlitech/omnivoice-trtllm",
+    "title": "tlitech/omnivoice-trtllm",
+    "authors": "tlitech",
+    "published": "2026-05-29",
+    "pdf": "null",
+    "code": "https://github.com/tlitech/omnivoice-trtllm",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-06-25",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_stars": 15,
+    "_desc": "deploy omnivoice tts model using trt-llm and triton inference server on modal."
   }
 ]

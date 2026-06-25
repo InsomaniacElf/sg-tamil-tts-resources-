@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-06-24 &nbsp;|&nbsp; **TTS:** 21 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 32
+**Updated:** 2026-06-25 &nbsp;|&nbsp; **TTS:** 22 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 32
 
 ---
 
@@ -17,6 +17,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 | 2026-06-01 | zeropointnine/tts-audiobook-tool | zeropointnine | null | [repo](https://github.com/zeropointnine/tts-audiobook-tool) ⭐131 |
 | 2026-05-30 | JaySpiffy/draft-to-take | JaySpiffy | null | [repo](https://github.com/JaySpiffy/draft-to-take) ⭐63 |
 | 2026-05-29 | mozi1924/Qwen3-TTS-EasyFinetuning | mozi1924 | null | [repo](https://github.com/mozi1924/Qwen3-TTS-EasyFinetuning) ⭐92 |
+| 2026-05-29 | tlitech/omnivoice-trtllm | tlitech | null | [repo](https://github.com/tlitech/omnivoice-trtllm) ⭐15 |
 | 2026-05-28 | k2-fsa/OmniVoice | k2-fsa | null | [repo](https://github.com/k2-fsa/OmniVoice) ⭐6871 |
 | 2026-05-16 | maemreyo/omnivoice-server | maemreyo | null | [repo](https://github.com/maemreyo/omnivoice-server) ⭐59 |
 | 2026-05-14 | rsxdalv/TTS-WebUI | rsxdalv | null | [repo](https://github.com/rsxdalv/TTS-WebUI) ⭐3152 |
