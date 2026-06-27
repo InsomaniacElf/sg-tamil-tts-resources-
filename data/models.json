@@ -1816,5 +1816,28 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_milanakdj/indic-parler-tts-nepali-finetuned-dgx-v2.5-cosine-oov",
+    "title": "milanakdj/indic-parler-tts-nepali-finetuned-dgx-v2.5-cosine-oov",
+    "authors": "",
+    "published": "2026-06-27",
+    "pdf": "https://huggingface.co/milanakdj/indic-parler-tts-nepali-finetuned-dgx-v2.5-cosine-oov",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-27",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "parler-tts",
+      "safetensors",
+      "parler_tts",
+      "text-to-speech",
+      "nepali",
+      "finetuned",
+      "ne",
+      "region:us"
+    ]
   }
 ]
