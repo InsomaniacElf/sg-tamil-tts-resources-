@@ -1839,5 +1839,28 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_aguken-ai/Qwen3-TTS-0.6B-LoRA-Finetuned-Indic-Multilingual",
+    "title": "aguken-ai/Qwen3-TTS-0.6B-LoRA-Finetuned-Indic-Multilingual",
+    "authors": "",
+    "published": "2026-06-28",
+    "pdf": "https://huggingface.co/aguken-ai/Qwen3-TTS-0.6B-LoRA-Finetuned-Indic-Multilingual",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-06-28",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "peft",
+      "safetensors",
+      "tts",
+      "indic",
+      "multilingual",
+      "lora",
+      "voice-clone",
+      "audio"
+    ]
   }
 ]

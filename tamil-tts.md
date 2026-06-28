@@ -2,7 +2,7 @@
 
 All entries are **distilled from the main list** using Gemini LLM (title + abstract) — not just keyword matching. Papers can appear in both [README.md](README.md) and here.
 
-**Updated:** 2026-06-28 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 23 &nbsp;|&nbsp; **Tamil datasets:** 12
+**Updated:** 2026-06-28 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 23 &nbsp;|&nbsp; **Tamil datasets:** 13
 
 ---
 
@@ -342,6 +342,7 @@ All entries are **distilled from the main list** using Gemini LLM (title + abstr
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-06-28 | asishbala/tamil-tts-dataset | asishbala | [🤗](https://huggingface.co/datasets/asishbala/tamil-tts-dataset) | null |
 | 2026-04-01 | Speech-data/Tamil-Speech-Dataset | Speech-data | [🤗](https://huggingface.co/datasets/Speech-data/Tamil-Speech-Dataset) | null |
 | 2026-03-08 | Ajmal7979/tamil-dialect-speech | Ajmal7979 | [🤗](https://huggingface.co/datasets/Ajmal7979/tamil-dialect-speech) | null |
 | 2026-01-24 | VishalTheHuman/tamil-dialect-speech | VishalTheHuman | [🤗](https://huggingface.co/datasets/VishalTheHuman/tamil-dialect-speech) | null |

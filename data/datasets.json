@@ -446,5 +446,24 @@
       "modality:audio",
       "modality:text"
     ]
+  },
+  {
+    "id": "hf_dataset_asishbala/tamil-tts-dataset",
+    "title": "asishbala/tamil-tts-dataset",
+    "authors": "asishbala",
+    "published": "2026-06-28",
+    "pdf": "https://huggingface.co/datasets/asishbala/tamil-tts-dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-06-28",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:text-to-speech",
+      "language:ta",
+      "license:cc0-1.0",
+      "region:us"
+    ]
   }
 ]
