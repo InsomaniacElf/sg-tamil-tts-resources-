@@ -1862,5 +1862,21 @@
       "voice-clone",
       "audio"
     ]
+  },
+  {
+    "id": "hf_model_Rajeev-Krishna/indic-parler-tts-l40s",
+    "title": "Rajeev-Krishna/indic-parler-tts-l40s",
+    "authors": "",
+    "published": "2026-07-03",
+    "pdf": "https://huggingface.co/Rajeev-Krishna/indic-parler-tts-l40s",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-04",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
