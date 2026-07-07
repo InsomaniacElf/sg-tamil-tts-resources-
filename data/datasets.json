@@ -465,5 +465,28 @@
       "license:cc0-1.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_dataset_psdn-ai/tamil-speech-samples",
+    "title": "psdn-ai/tamil-speech-samples",
+    "authors": "psdn-ai",
+    "published": "2026-07-07",
+    "pdf": "https://huggingface.co/datasets/psdn-ai/tamil-speech-samples",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-07-07",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:automatic-speech-recognition",
+      "language:ta",
+      "license:other",
+      "size_categories:n<1k",
+      "format:audiofolder",
+      "modality:audio",
+      "modality:text",
+      "library:datasets"
+    ]
   }
 ]

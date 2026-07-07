@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-07-07 &nbsp;|&nbsp; **Papers:** 4650 &nbsp;|&nbsp; **Repos:** 64 &nbsp;|&nbsp; **Datasets:** 22 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-07-07 &nbsp;|&nbsp; **Papers:** 4650 &nbsp;|&nbsp; **Repos:** 64 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -4737,6 +4737,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-07-07 | psdn-ai/tamil-speech-samples | psdn-ai | [🤗](https://huggingface.co/datasets/psdn-ai/tamil-speech-samples) | null |
 | 2026-06-28 | asishbala/tamil-tts-dataset | asishbala | [🤗](https://huggingface.co/datasets/asishbala/tamil-tts-dataset) | null |
 | 2026-06-04 | thetaone-ai/Korean-Japanese-Code-Switching-Speech | thetaone-ai | [🤗](https://huggingface.co/datasets/thetaone-ai/Korean-Japanese-Code-Switching-Speech) | null |
 | 2026-05-11 | ssws3/Indic-Speech-Datasets | ssws3 | [🤗](https://huggingface.co/datasets/ssws3/Indic-Speech-Datasets) | null |
