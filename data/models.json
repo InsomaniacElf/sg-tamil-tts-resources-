@@ -1901,5 +1901,21 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_lingamvamshikrishnareddy/octopus-tts-cosyvoice-indic",
+    "title": "lingamvamshikrishnareddy/octopus-tts-cosyvoice-indic",
+    "authors": "",
+    "published": "2026-07-11",
+    "pdf": "https://huggingface.co/lingamvamshikrishnareddy/octopus-tts-cosyvoice-indic",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-11",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
