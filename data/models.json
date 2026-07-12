@@ -1917,5 +1917,21 @@
     "_tags": [
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_lingamvamshikrishnareddy/octopus-tts-indic",
+    "title": "lingamvamshikrishnareddy/octopus-tts-indic",
+    "authors": "",
+    "published": "2026-07-11",
+    "pdf": "https://huggingface.co/lingamvamshikrishnareddy/octopus-tts-indic",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-12",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
