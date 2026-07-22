@@ -1956,5 +1956,28 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_nvidia/magpie_tts_multilingual_357m",
+    "title": "nvidia/magpie_tts_multilingual_357m",
+    "authors": "",
+    "published": "2026-07-21",
+    "pdf": "https://huggingface.co/nvidia/magpie_tts_multilingual_357m",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-22",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "nemo",
+      "nemo",
+      "tts",
+      "pytorch",
+      "speech",
+      "multilingual-tts",
+      "text-to-speech",
+      "ar"
+    ]
   }
 ]
