@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-07-25 &nbsp;|&nbsp; **TTS:** 22 &nbsp;|&nbsp; **Low-resource:** 10 &nbsp;|&nbsp; **Tamil:** 32
+**Updated:** 2026-07-26 &nbsp;|&nbsp; **TTS:** 22 &nbsp;|&nbsp; **Low-resource:** 11 &nbsp;|&nbsp; **Tamil:** 33
 
 ---
 
@@ -43,6 +43,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 |---|---|---|---|---|
 | 2026-05-24 | antor44/Audio-Transcription | antor44 | null | [repo](https://github.com/antor44/Audio-Transcription) ⭐4 |
 | 2026-05-01 | Saganaki22/ComfyUI-OmniVoice-TTS | Saganaki22 | null | [repo](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) ⭐401 |
+| 2026-03-19 | aitorpazos/piper-tts-android | aitorpazos | null | [repo](https://github.com/aitorpazos/piper-tts-android) ⭐4 |
 | 2026-02-26 | mateogon/pdf-narrator | mateogon | null | [repo](https://github.com/mateogon/pdf-narrator) ⭐183 |
 | 2025-12-22 | NN-Project-2/Emotion-TTS-Emebddings | NN-Project-2 | null | [repo](https://github.com/NN-Project-2/Emotion-TTS-Emebddings) ⭐18 |
 | 2025-07-21 | m15-ai/Faster-Local-Voice-AI | m15-ai | null | [repo](https://github.com/m15-ai/Faster-Local-Voice-AI) ⭐26 |
@@ -58,6 +59,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-07-24 | DINAKAR-S/voice-agent-starter-kit | DINAKAR-S | null | [repo](https://github.com/DINAKAR-S/voice-agent-starter-kit) ⭐9 |
 | 2026-06-18 | aaivu/KuralHub | aaivu | null | [repo](https://github.com/aaivu/KuralHub) ⭐2 |
 | 2026-06-01 | InsomaniacElf/sg-tamil-tts-resources- | InsomaniacElf | null | [repo](https://github.com/InsomaniacElf/sg-tamil-tts-resources-) |
 | 2026-05-24 | AMohammedShafeek/stt-multilingual-model | AMohammedShafeek | null | [repo](https://github.com/AMohammedShafeek/stt-multilingual-model) ⭐1 |

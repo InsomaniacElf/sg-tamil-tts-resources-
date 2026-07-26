@@ -958,5 +958,35 @@
     "is_low_res": false,
     "_stars": 15,
     "_desc": "deploy omnivoice tts model using trt-llm and triton inference server on modal."
+  },
+  {
+    "id": "github_aitorpazos/piper-tts-android",
+    "title": "aitorpazos/piper-tts-android",
+    "authors": "aitorpazos",
+    "published": "2026-03-19",
+    "pdf": "null",
+    "code": "https://github.com/aitorpazos/piper-tts-android",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-07-26",
+    "is_tamil": false,
+    "is_low_res": true,
+    "_stars": 4,
+    "_desc": "android tts engine powered by piper (onnx-based, open-source, high-quality, low-resource)"
+  },
+  {
+    "id": "github_DINAKAR-S/voice-agent-starter-kit",
+    "title": "DINAKAR-S/voice-agent-starter-kit",
+    "authors": "DINAKAR-S",
+    "published": "2026-07-24",
+    "pdf": "null",
+    "code": "https://github.com/DINAKAR-S/voice-agent-starter-kit",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-07-26",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_stars": 9,
+    "_desc": "self-hosted multilingual (english + 5 indic) phone voice agent template - livekit agents + sarvam stt/tts + openai + vobiz sip. ~700ms-1.2s latency, under rs 5.5/min. demo: a real-estate site-visit bo"
   }
 ]

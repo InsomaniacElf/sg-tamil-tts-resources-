@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-07-25 &nbsp;|&nbsp; **Papers:** 5620 &nbsp;|&nbsp; **Repos:** 64 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-07-26 &nbsp;|&nbsp; **Papers:** 5620 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -5638,6 +5638,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-07-24 | DINAKAR-S/voice-agent-starter-kit | DINAKAR-S | null | [repo](https://github.com/DINAKAR-S/voice-agent-starter-kit) ⭐9 |
 | 2026-06-18 | aaivu/KuralHub | aaivu | null | [repo](https://github.com/aaivu/KuralHub) ⭐2 |
 | 2026-06-09 | yanorei32/discord-tts | yanorei32 | null | [repo](https://github.com/yanorei32/discord-tts) ⭐17 |
 | 2026-06-01 | InsomaniacElf/sg-tamil-tts-resources- | InsomaniacElf | null | [repo](https://github.com/InsomaniacElf/sg-tamil-tts-resources-) |
@@ -5660,6 +5661,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-04-01 | LTG-UoJ/TaLK-Corpus-Public | LTG-UoJ | null | [repo](https://github.com/LTG-UoJ/TaLK-Corpus-Public) |
 | 2026-04-01 | Kenpath/svara-tts-inference | Kenpath | null | [repo](https://github.com/Kenpath/svara-tts-inference) ⭐24 |
 | 2026-03-25 | vexyl-ai/vexyl-tts | vexyl-ai | null | [repo](https://github.com/vexyl-ai/vexyl-tts) ⭐28 |
+| 2026-03-19 | aitorpazos/piper-tts-android | aitorpazos | null | [repo](https://github.com/aitorpazos/piper-tts-android) ⭐4 |
 | 2026-03-04 | Kenpath/indic-text-normalization | Kenpath | null | [repo](https://github.com/Kenpath/indic-text-normalization) ⭐22 |
 | 2026-02-26 | mateogon/pdf-narrator | mateogon | null | [repo](https://github.com/mateogon/pdf-narrator) ⭐183 |
 | 2026-02-05 | smtiitm/Fastspeech2_HS | smtiitm | null | [repo](https://github.com/smtiitm/Fastspeech2_HS) ⭐55 |
