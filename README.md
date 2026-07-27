@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-07-26 &nbsp;|&nbsp; **Papers:** 5620 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-07-27 &nbsp;|&nbsp; **Papers:** 5649 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,35 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-07-24 | Twins: Learn to Predict Unified Representations with Focal Loss | Kaixiong Gong, Xin Cai, Bin Lin et al. | [2607.22531](https://arxiv.org/abs/2607.22531) | [code](https://github.com/Tencent-Hunyuan/Twins) |
+| 2026-07-24 | Learning to Prepare Molecular Ground States with Transformer Models | Alex Koziell-Pipe, Jasmine Brewer, Jem Guhit et al. | [2607.22468](https://arxiv.org/abs/2607.22468) | null |
+| 2026-07-24 | Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children | Kadharmoideen Fadurudeen | [2607.22377](https://arxiv.org/abs/2607.22377) | null |
+| 2026-07-24 | A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books | Varun Ghat Ravikumar, Sina Ahmadi, Lena Jäger et al. | [2607.22376](https://arxiv.org/abs/2607.22376) | null |
+| 2026-07-24 | Synthetic Speech, Real Signal: Paralinguistic Preservation and Cross-Lingual Augmentation via Voice Cloning | Roseline Polle, Owen Parsons, George Fairs et al. | [2607.22304](https://arxiv.org/abs/2607.22304) | null |
+| 2026-07-24 | AgentHOI: Multi-Agent Reasoning for Human-Object-Interaction Video Generation via Implicit Representation Alignment | Ziyao Huang, Shunkai Li, Juan Cao et al. | [2607.22241](https://arxiv.org/abs/2607.22241) | [code](https://github.com/bone-11/agenthoi.) |
+| 2026-07-24 | Cycles of Discourse, Speech Dysfluency, and Active Inference | Thomas Parr, Birtan Demirel, Youssuf Saleh et al. | [2607.22180](https://arxiv.org/abs/2607.22180) | null |
+| 2026-07-24 | Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis | Maria Peribañez, Javier Civera, Rudolph Triebel et al. | [2607.22147](https://arxiv.org/abs/2607.22147) | [code](https://github.com/DLR-RM/multimodal-gsplat-relocalization.) |
+| 2026-07-24 | Benchmarking Text-to-SQL under Role-Based Access Control | Yang Fei, Yangfan Jiang, Yin Yang et al. | [2607.22115](https://arxiv.org/abs/2607.22115) | null |
+| 2026-07-24 | InnoText: A Unified Model for Visual Text Generation and Editing | Haowei Liu, Runze He, Jian Lu et al. | [2607.22101](https://arxiv.org/abs/2607.22101) | null |
+| 2026-07-24 | Robot-Factored World Models via Robot Rendering | Byungjun Kim, Taeksoo Kim, Hyunsoo Cha et al. | [2607.22535](https://arxiv.org/abs/2607.22535) | null |
+| 2026-07-24 | ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation | Yunao Huang, Shiyu Sang, Haotao Lu et al. | [2607.22530](https://arxiv.org/abs/2607.22530) | null |
+| 2026-07-24 | Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills | Siyuan Huang, Pengyu Cheng, Haotian Liu et al. | [2607.22529](https://arxiv.org/abs/2607.22529) | [code](https://github.com/Qwen-Applications/skill-self-play.) |
+| 2026-07-24 | Extreme First-Passage Time of Many Interacting Particles | Ruicheng Bao | [2607.22528](https://arxiv.org/abs/2607.22528) | null |
+| 2026-07-24 | Effective field theories of nonlinear fluctuating hydrodynamics in one dimension | Matija Koterle, Enej Ilievski | [2607.22527](https://arxiv.org/abs/2607.22527) | null |
+| 2026-07-24 | Optomechanical systems with a Fano membrane in the middle | Lei Du, Aymeric Frerejean, Witlef Wieczorek et al. | [2607.22526](https://arxiv.org/abs/2607.22526) | null |
+| 2026-07-24 | Critical Sensing with Autonomous Devices: The Self-Oscillation Threshold of a Frequency-Locked NV-Centre Magnetometer | Joan Toledo Aguilera, Gonzalo Reina Rivero, Marcel Morillas-Rozas et al. | [2607.22521](https://arxiv.org/abs/2607.22521) | null |
+| 2026-07-24 | Integral Scaling for EFT Strings from the Bottom-Up | Muldrow Etheredge, Alvaro Herráez, Dieter Lüst et al. | [2607.22519](https://arxiv.org/abs/2607.22519) | null |
+| 2026-07-24 | PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest | Olafur Gudmundsson, Bo Zhao, Huayi Liao et al. | [2607.22518](https://arxiv.org/abs/2607.22518) | null |
+| 2026-07-24 | Exact Neural-Network Representations of the Motzkin States | Runde Zha, Yuntian Gu, Chaohui Fan et al. | [2607.22522](https://arxiv.org/abs/2607.22522) | null |
+| 2026-07-24 | Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes | Athanasios Papastathopoulos-Katsaros, Steven T. Lee, Lin Yao et al. | [2607.22508](https://arxiv.org/abs/2607.22508) | null |
+| 2026-07-24 | Payne4GAIN: NLTE Corrections for Red Giants in Milky Way Mapper using H-Band Neural Network Emulators | Pierre Thibodeaux, Alexander P. Ji, Nicholas Storm et al. | [2607.22499](https://arxiv.org/abs/2607.22499) | null |
+| 2026-07-24 | \k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating | Jianghui Wang, Silong Yong, Francesco Orabona et al. | [2607.22489](https://arxiv.org/abs/2607.22489) | null |
+| 2026-07-24 | Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection | Seshu K. Damarla | [2607.22486](https://arxiv.org/abs/2607.22486) | null |
+| 2026-07-24 | ReLU$^k$ Neural de Rham Complexes | Kaibo Hu, Jindong Wang, Jinchao Xu | [2607.22478](https://arxiv.org/abs/2607.22478) | null |
+| 2026-07-24 | Neural Ordinary Differential Equations for Oscillatory Flows in Aeroelasticity with Application to Transonic Buffet | Michael Candon, Pier Marzocca, Earl Dowell | [2607.22402](https://arxiv.org/abs/2607.22402) | null |
+| 2026-07-24 | Local-Global Geometric Insights for Graph Neural Networks via Entropic Curvature | Rachid Caich, Yassine Abbahaddou | [2607.22381](https://arxiv.org/abs/2607.22381) | null |
+| 2026-07-24 | Quantum-informed surrogate sampling for combinatorial optimization | Elisabeth Wybo, Jernej Rudi Finžgar | [2607.22372](https://arxiv.org/abs/2607.22372) | null |
+| 2026-07-24 | Learning Structural Convergence: A Neuro-Symbolic Benchmark for Temporal Reasoning | Michael Romei De Socio, Gian Luca Pozzato, Alessio Merlo | [2607.22365](https://arxiv.org/abs/2607.22365) | null |
 | 2026-07-23 | Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs | Muyang Du, Shuang Yu, Junjie Lai | [2607.21042](https://arxiv.org/abs/2607.21042) | null |
 | 2026-07-23 | Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers | Sicheng Mo, Yuheng Li, Ziyang Leng et al. | [2607.21594](https://arxiv.org/abs/2607.21594) | null |
 | 2026-07-23 | GraphVid: Interactive Graph-Controllable Video Generation | Vedant Shah, Onkar Susladkar, Tushar Prakash et al. | [2607.21580](https://arxiv.org/abs/2607.21580) | null |
