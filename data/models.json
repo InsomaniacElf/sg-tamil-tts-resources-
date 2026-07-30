@@ -2048,5 +2048,24 @@
       "ne",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_vokra/parler-tts-mini-multilingual",
+    "title": "vokra/parler-tts-mini-multilingual",
+    "authors": "",
+    "published": "2026-07-30",
+    "pdf": "https://huggingface.co/vokra/parler-tts-mini-multilingual",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-30",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "vokra",
+      "gguf",
+      "license:apache-2.0",
+      "region:us"
+    ]
   }
 ]
