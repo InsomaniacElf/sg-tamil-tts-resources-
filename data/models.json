@@ -2067,5 +2067,21 @@
       "license:apache-2.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_cogni-x/MOYO-TTS-Multilingual-Test",
+    "title": "cogni-x/MOYO-TTS-Multilingual-Test",
+    "authors": "",
+    "published": "2026-07-31",
+    "pdf": "https://huggingface.co/cogni-x/MOYO-TTS-Multilingual-Test",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-07-31",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
