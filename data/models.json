@@ -2083,5 +2083,23 @@
     "_tags": [
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_jaspalsinghsaluja/indic-parler-tts-pan-jail_chittian-finetuned",
+    "title": "jaspalsinghsaluja/indic-parler-tts-pan-jail_chittian-finetuned",
+    "authors": "",
+    "published": "2026-08-01",
+    "pdf": "https://huggingface.co/jaspalsinghsaluja/indic-parler-tts-pan-jail_chittian-finetuned",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-01",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "parler_tts",
+      "region:us"
+    ]
   }
 ]
