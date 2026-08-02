@@ -2101,5 +2101,28 @@
       "parler_tts",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_BricksDisplay/Chatterbox-Multilingual-TTS-GGUF",
+    "title": "BricksDisplay/Chatterbox-Multilingual-TTS-GGUF",
+    "authors": "",
+    "published": "2026-07-31",
+    "pdf": "https://huggingface.co/BricksDisplay/Chatterbox-Multilingual-TTS-GGUF",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-02",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "chatterbox",
+      "gguf",
+      "tts",
+      "chatterbox-multilingual",
+      "text-to-speech",
+      "codec-lm",
+      "ar",
+      "da"
+    ]
   }
 ]
