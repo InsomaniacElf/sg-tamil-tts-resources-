@@ -2124,5 +2124,28 @@
       "ar",
       "da"
     ]
+  },
+  {
+    "id": "hf_model_hazardscarn10/indic-parler-tts-awq-int4",
+    "title": "hazardscarn10/indic-parler-tts-awq-int4",
+    "authors": "",
+    "published": "2026-08-02",
+    "pdf": "https://huggingface.co/hazardscarn10/indic-parler-tts-awq-int4",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-03",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "parler_tts",
+      "text-to-speech",
+      "quantization",
+      "awq",
+      "torchao",
+      "int4",
+      "base_model:ai4bharat/indic-parler-tts",
+      "base_model:finetune:ai4bharat/indic-parler-tts"
+    ]
   }
 ]
