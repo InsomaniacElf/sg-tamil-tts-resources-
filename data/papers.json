@@ -80208,5 +80208,31 @@
     "date_added": "2026-08-04",
     "is_tamil": false,
     "is_low_res": false
+  },
+  {
+    "id": "2608.00309",
+    "title": "OrEdge: Efficient Multi-Modal Anomaly Detection in Distributed Software Systems via Orthogonal-Domain Learning",
+    "authors": "Amr M. Zaki, Farhoud Jafari Kaleibar, Honggeun Ji et al.",
+    "published": "2026-07-31",
+    "pdf": "https://arxiv.org/abs/2608.00309",
+    "code": "https://github.com/theamrzaki/MicroService_Twin_Original.",
+    "type": "Paper",
+    "abstract": "We introduce Orthogonal-Edge (OrEdge), a lightweight framework for real-time anomaly detection in multi-modal distributed software systems. Unlike existing approaches that rely on computationally expensive attention- and graph-based architectures, OrEdge leverages orthogonal-domain temporal representations to achieve accurate anomaly detection with substantially lower computational complexity and model size. It jointly analyzes heterogeneous monitoring data, including logs, metrics, and traces, to identify abnormal software behavior, capture temporal dependencies, and reduce redundancy across observability signals. At its core, OrEdge incorporates OrEdgeCore, a lightweight orthogonal-domain reconstruction module that captures recurring temporal patterns while suppressing transient variatio",
+    "date_added": "2026-08-04",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2608.00194",
+    "title": "Multiscale passive scalar turbulence in a compressed subspace via tensor trains",
+    "authors": "Stefano Pisoni, Egor Tiunov, Chiara Calascibetta",
+    "published": "2026-07-31",
+    "pdf": "https://arxiv.org/abs/2608.00194",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Capturing the multiscale statistics of turbulence in compressed form remains a central challenge for reduced-order modeling. We introduce a hybrid Tensor Train (TT) approach for a highly intermittent passive scalar. The hybrid TT matches Galerkin, wavelet, and standard TT decompositions for the structure functions while improving the representation of intermittent, non-Gaussian fluctuations. These results open a route toward evolving the linear dynamics of passive scalars directly in compressed tensor form, with potential applications to quantum algorithms for fluid transport.",
+    "date_added": "2026-08-04",
+    "is_tamil": false,
+    "is_low_res": false
   }
 ]

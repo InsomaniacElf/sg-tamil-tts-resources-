@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-04 &nbsp;|&nbsp; **Papers:** 6170 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-04 &nbsp;|&nbsp; **Papers:** 6172 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 23 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -174,6 +174,8 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-07-31 | FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control | Songchun Zhang, Sitong Guo, Xianghao Kong et al. | [2607.29627](https://arxiv.org/abs/2607.29627) | null |
 | 2026-07-31 | QASP: Query-Adaptive Robust Vector Search Policy | Hakan Ferhatosmanoglu, Kushal Kumar, Tal Wagner et al. | [2607.29606](https://arxiv.org/abs/2607.29606) | null |
 | 2026-07-31 | The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs | Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina et al. | [2607.29601](https://arxiv.org/abs/2607.29601) | null |
+| 2026-07-31 | OrEdge: Efficient Multi-Modal Anomaly Detection in Distributed Software Systems via Orthogonal-Domain Learning | Amr M. Zaki, Farhoud Jafari Kaleibar, Honggeun Ji et al. | [2608.00309](https://arxiv.org/abs/2608.00309) | [code](https://github.com/theamrzaki/MicroService_Twin_Original.) |
+| 2026-07-31 | Multiscale passive scalar turbulence in a compressed subspace via tensor trains | Stefano Pisoni, Egor Tiunov, Chiara Calascibetta | [2608.00194](https://arxiv.org/abs/2608.00194) | null |
 | 2026-07-30 | Extraction of $σ_{TT}$ for Proton, Neutron, Deuteron and $^3$He from Quasi-real Photon Scattering | YiLei Li, B. Callahan, M. M. Dalton et al. | [2607.28612](https://arxiv.org/abs/2607.28612) | null |
 | 2026-07-30 | Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers | Chongjian Ge, Hanwen Jiang, Tianyu Wang et al. | [2607.28611](https://arxiv.org/abs/2607.28611) | null |
 | 2026-07-30 | SymFT: Universal Fault-Tolerant Quantum Circuit Simulation via Symbolic Clifford--Pauli Frames and Stabilizer Coordinates | Wang Fang, Huazhe Lou, Riling Li | [2607.28600](https://arxiv.org/abs/2607.28600) | [code](https://github.com/haoliri0/SOFT) |
