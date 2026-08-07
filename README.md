@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-06 &nbsp;|&nbsp; **Papers:** 6329 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 24 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-07 &nbsp;|&nbsp; **Papers:** 6343 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 25 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,20 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-06 | CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks | Fanzhe Meng, Guoxin Chen, Jiale Zhao et al. | [2608.06352](https://arxiv.org/abs/2608.06352) | [code](https://github.com/AweAI-Team/CalibForge) |
+| 2026-08-06 | Does FLAIR super-resolution erase or hallucinate small white-matter lesions? | Zahra Khodakarami, Yue Li, Pulkit Khandelwal et al. | [2608.06311](https://arxiv.org/abs/2608.06311) | null |
+| 2026-08-06 | Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors | Arya Labroo, Mengjie Qian, Kate Knill | [2608.06300](https://arxiv.org/abs/2608.06300) | null |
+| 2026-08-06 | OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations | Robin Trombetta, Carole Lartizien | [2608.06264](https://arxiv.org/abs/2608.06264) | null |
+| 2026-08-06 | Geometric closure of classical nucleation theory for magnetic-field-controlled nanoparticle size across magnetic classes | Yazeed Tawalbeh, Mauro Fernandes Pereira | [2608.06220](https://arxiv.org/abs/2608.06220) | null |
+| 2026-08-06 | Decolonizing Linguistic Policies in Automated Speech Recognition: A Framework for Cross-Culturally Competent Speech AI | Jay L. Cunningham, Mark Atta Mensah, Richard Martinez et al. | [2608.06141](https://arxiv.org/abs/2608.06141) | null |
+| 2026-08-06 | Explicit and Stable Pseudospectral Time-Domain Method for the Föppl-von Kármán Equations | Victor Zheleznov, Stefan Bilbao | [2608.06139](https://arxiv.org/abs/2608.06139) | null |
+| 2026-08-06 | Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction | Hongyu Zhou, Zorah Lähner | [2608.06117](https://arxiv.org/abs/2608.06117) | null |
+| 2026-08-06 | ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment | Abdulkadir Külçe, Alihan Esen, Cağla Fikir et al. | [2608.06110](https://arxiv.org/abs/2608.06110) | null |
+| 2026-08-06 | FormBharo: Designing and Evaluating a Voice Agent for Conversational Form Filling in Rural India | Aman Dalmia, Sanskriti Midha, Jigar Doshi | [2608.06027](https://arxiv.org/abs/2608.06027) | null |
+| 2026-08-06 | The plunging region of thin accretion discs across the black hole spin range | Jake Rule, Andrew Mummery, Steven Balbus et al. | [2608.06278](https://arxiv.org/abs/2608.06278) | null |
+| 2026-08-06 | Emergent Surface Altermagnetism | Yuzhong Hu, Pan Zhou, Baoru Pan et al. | [2608.05529](https://arxiv.org/abs/2608.05529) | null |
+| 2026-08-06 | AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks | Aurosweta Mahapatra, Xiutian Zhao, Shreeram Suresh Chandra et al. | [2608.05507](https://arxiv.org/abs/2608.05507) | null |
+| 2026-08-06 | Different Perturbations, Different Mechanisms: Understanding Continued Pre-training for Zero-Shot Dialect Robustness | Aarohi Srivastava, David Chiang | [2608.05510](https://arxiv.org/abs/2608.05510) | null |
 | 2026-08-05 | MGSB: Manifold Gated Signature Branch Pressure-Domain Baseline Architecture for Two-Phase Pipeline Flows Under Distributional Shift | Issah Suleiman, Sormeh Serpoosh, Nadine Elkholy et al. | [2608.04805](https://arxiv.org/abs/2608.04805) | null |
 | 2026-08-05 | A smooth BTZ black bounce with an extremal null throat | Farzad Milani | [2608.04461](https://arxiv.org/abs/2608.04461) | null |
 | 2026-08-05 | Objects as Audio-Visual Modal Sound Fields | Zisen Shao, Zihao Wei, Derong Jin et al. | [2608.05145](https://arxiv.org/abs/2608.05145) | null |
@@ -6418,6 +6432,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-06 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-08-05 | Kennethdot/Ghana_English-Twi_Code-switching_Speech | Kennethdot | [🤗](https://huggingface.co/datasets/Kennethdot/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-07-07 | psdn-ai/tamil-speech-samples | psdn-ai | [🤗](https://huggingface.co/datasets/psdn-ai/tamil-speech-samples) | null |
 | 2026-06-28 | asishbala/tamil-tts-dataset | asishbala | [🤗](https://huggingface.co/datasets/asishbala/tamil-tts-dataset) | null |
