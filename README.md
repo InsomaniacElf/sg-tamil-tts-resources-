@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-07 &nbsp;|&nbsp; **Papers:** 6343 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 25 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-07 &nbsp;|&nbsp; **Papers:** 6406 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 25 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -27,6 +27,69 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-08-06 | Emergent Surface Altermagnetism | Yuzhong Hu, Pan Zhou, Baoru Pan et al. | [2608.05529](https://arxiv.org/abs/2608.05529) | null |
 | 2026-08-06 | AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks | Aurosweta Mahapatra, Xiutian Zhao, Shreeram Suresh Chandra et al. | [2608.05507](https://arxiv.org/abs/2608.05507) | null |
 | 2026-08-06 | Different Perturbations, Different Mechanisms: Understanding Continued Pre-training for Zero-Shot Dialect Robustness | Aarohi Srivastava, David Chiang | [2608.05510](https://arxiv.org/abs/2608.05510) | null |
+| 2026-08-06 | RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer | Xinye Wang, Junxiao Liu, Shujian Huang | [2608.06347](https://arxiv.org/abs/2608.06347) | [code](https://github.com/NJUNLP/RP-OPSD.) |
+| 2026-08-06 | A Profile-Separation Framework for Quantitative Convergence of No-U-Turn Samplers | Krishnakumar Balasubramanian | [2608.06336](https://arxiv.org/abs/2608.06336) | null |
+| 2026-08-06 | Sharp Tail Bounds Beyond Twice the Mean | Philipp Strack, Jannik M. Westermann | [2608.06317](https://arxiv.org/abs/2608.06317) | null |
+| 2026-08-06 | Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations | Sagar Tamang, Ayush Vyas, Tabarakul Hazarika | [2608.06305](https://arxiv.org/abs/2608.06305) | null |
+| 2026-08-06 | NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering | Jonas Gann, Michael Gertz | [2608.06292](https://arxiv.org/abs/2608.06292) | null |
+| 2026-08-06 | A Phase Space Electronic Structure View of The Solid State | Nadine Bradbury, Joseph Subotnik | [2608.06260](https://arxiv.org/abs/2608.06260) | null |
+| 2026-08-06 | PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation | Elad Yoshai, Natan T. Shaked | [2608.06240](https://arxiv.org/abs/2608.06240) | null |
+| 2026-08-06 | Depth-Guided Video Object Counting in Crowded Scenes | Yuanjing Xu, Xinyan Liu, Weidong Chen et al. | [2608.06236](https://arxiv.org/abs/2608.06236) | [code](https://github.com/streamer-AP/DG-Net) |
+| 2026-08-06 | EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation | Bingyuan Wang, Baistan Zhyldyzbekov, Kunyu Feng et al. | [2608.06231](https://arxiv.org/abs/2608.06231) | null |
+| 2026-08-06 | Wan-Animate-2: Pushing the Application Boundaries of Character Animation | Guangyuan Wang, Li Hu, Dechao Meng et al. | [2608.06009](https://arxiv.org/abs/2608.06009) | null |
+| 2026-08-06 | Adaptive-WAM: Quality-Guided Early-Exit Planning from Intermediate Video-Diffusion Features | Sining Ang, Yuguang Yang, Yan Wang | [2608.06008](https://arxiv.org/abs/2608.06008) | null |
+| 2026-08-06 | $ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation | Zhe Li, Zhenzhe Zhang, Yangyang Wei et al. | [2608.06375](https://arxiv.org/abs/2608.06375) | null |
+| 2026-08-06 | A Coprimality Topology on the Gaussian Integers: Kolmogorov Quotient and Gaussian Prime Density | Souvik Mandal | [2608.06373](https://arxiv.org/abs/2608.06373) | null |
+| 2026-08-06 | Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links | Michal Jablonowski | [2608.06372](https://arxiv.org/abs/2608.06372) | null |
+| 2026-08-06 | The Bitter Lesson of Tool Calling | Ishan Patel, Sahil Sen, Elias Lumer et al. | [2608.06370](https://arxiv.org/abs/2608.06370) | null |
+| 2026-08-06 | A Universal Control Budget for First-Passage Kinetics | Shiling Liang, Ruicheng Bao | [2608.06368](https://arxiv.org/abs/2608.06368) | null |
+| 2026-08-06 | Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering | Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al. | [2608.06366](https://arxiv.org/abs/2608.06366) | null |
+| 2026-08-06 | Stability of kernel bundles on projective bundles over curves | Abel Castorena, George H. Hitching | [2608.06365](https://arxiv.org/abs/2608.06365) | null |
+| 2026-08-06 | Bell nonlocality from twisted statistics | Ivana Đorđ ević, Jovan Potrebić, Aleksandra Gočanin et al. | [2608.06359](https://arxiv.org/abs/2608.06359) | null |
+| 2026-08-06 | On generalised d'Alembert-type integral representations for damped wave equations on the quarter-plane | Andreas Chatziafratis, Claudio Giorgi, Alain Miranville et al. | [2608.06355](https://arxiv.org/abs/2608.06355) | null |
+| 2026-08-06 | The Benefits of an Integrated Approach for Stability-Constrained Power System Planning | Gereon Recht, Benedikt Jahn, Oussama Alaya et al. | [2608.06349](https://arxiv.org/abs/2608.06349) | null |
+| 2026-08-06 | A Tale of Two Compact Bosons | Christian Ferko, Vishnu Jejjala, Brandon Robinson | [2608.06376](https://arxiv.org/abs/2608.06376) | null |
+| 2026-08-06 | An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics | Gianmarco Pinton | [2608.06321](https://arxiv.org/abs/2608.06321) | null |
+| 2026-08-06 | BaKron: Efficient Quantization with Kronecker-Factored Hessians | Johann Birnick, Rayan Saab | [2608.06291](https://arxiv.org/abs/2608.06291) | null |
+| 2026-08-06 | TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN | Arash Nedaei, Henna Tiensuu, Elina Väyrynen et al. | [2608.06275](https://arxiv.org/abs/2608.06275) | null |
+| 2026-08-06 | NestyNet. II. Coherent Function-Space Posteriors from Scientific Neural Surrogates (or How to Avoid Expensive MCMC) | Rodrigo Ibata, Wassim Tenachi, Foivos Diakogiannis et al. | [2608.06274](https://arxiv.org/abs/2608.06274) | null |
+| 2026-08-06 | Joint Access Point Selection and Precoder Design under Statistical CSI | Tim N. Faisst, Franz Weißer, Wolfgang Utschick | [2608.06251](https://arxiv.org/abs/2608.06251) | null |
+| 2026-08-06 | Neural CRC Prediction for 5G NR URLLC | Prashanth Murthy | [2608.06230](https://arxiv.org/abs/2608.06230) | null |
+| 2026-08-06 | MameLoshnLM: Yiddish Language Model and Evaluation Benchmark | Uri Katz, Omer Goldman, Tomasz Limisiewicz et al. | [2608.05850](https://arxiv.org/abs/2608.05850) | null |
+| 2026-08-06 | On-Policy Delta Distillation for Multilingual Math Reasoning | Byeongho Heo, Jaehui Hwang, Sangdoo Yun et al. | [2608.05802](https://arxiv.org/abs/2608.05802) | null |
+| 2026-08-06 | Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation | Tirth Bhatt, Naren Kumar S, Mayank Singh | [2608.05785](https://arxiv.org/abs/2608.05785) | null |
+| 2026-08-06 | GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions | Chenghao Gu, Hanyang Yu, Jingbo Zhang et al. | [2608.06332](https://arxiv.org/abs/2608.06332) | null |
+| 2026-08-06 | Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model | Saad Ahmed, Md Khalid Syfullaha | [2608.06252](https://arxiv.org/abs/2608.06252) | null |
+| 2026-08-06 | Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments | Giorgio Tonetti, Laurent Kneip, Abel Gawel et al. | [2608.06170](https://arxiv.org/abs/2608.06170) | null |
+| 2026-08-06 | Schema-Guided Hierarchical Information Extraction and Semantic Evaluation Using Generative AI | Modhurita Mitra, Jan-Willem Versteeg, Maarten D. Schermer et al. | [2608.06167](https://arxiv.org/abs/2608.06167) | null |
+| 2026-08-06 | Visual Grounding in Zero-Shot Vision-Language Control | J. de Curtò, Dayani Plasencia, Diego Sánchez et al. | [2608.06154](https://arxiv.org/abs/2608.06154) | null |
+| 2026-08-06 | Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies | Alexander Apartsin, Yehudit Aperstein | [2608.05993](https://arxiv.org/abs/2608.05993) | null |
+| 2026-08-06 | Big, Bright, or Invisible: A Frozen-Feature Benchmark of 3D CT Foundation Models | Maulik Chevli, Johannes Brandt, Rickmer Braren et al. | [2608.05960](https://arxiv.org/abs/2608.05960) | null |
+| 2026-08-06 | SAGA: Score-Weighted Adaptive Generation Alignment for Low-Resource Nordic Language Models | Hoda Fakharzadehjahromy, Emil Wiman, Andreas Bueff et al. | [2608.06179](https://arxiv.org/abs/2608.06179) | null |
+| 2026-08-06 | PLB: Priority-Aware Load Balancing for Replicated Databases under Constrained Resources | Belkis Djeffal, Pierre Bourhis, Romain Rouvoy | [2608.06140](https://arxiv.org/abs/2608.06140) | null |
+| 2026-08-06 | The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping | Sarvesh Baskar, Zikui Cai, Shayan Shabihi et al. | [2608.06361](https://arxiv.org/abs/2608.06361) | null |
+| 2026-08-06 | Phonon spectral functions of low-density polaron metals | Luis Walther, Alberto Nocera, Mona Berciu | [2608.06357](https://arxiv.org/abs/2608.06357) | null |
+| 2026-08-06 | Structured coherence: A modern perspective on optical coherence as a resource | Ayman F. Abouraddy, Bahaa E. A. Saleh | [2608.06356](https://arxiv.org/abs/2608.06356) | null |
+| 2026-08-06 | A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber | Omar Curiel, Jing-Yuan Huang, Po-Chih Chen et al. | [2608.06354](https://arxiv.org/abs/2608.06354) | null |
+| 2026-08-06 | Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents | Praphul Chandra, Sujit Gujar, Ganesh Ghalme | [2608.06353](https://arxiv.org/abs/2608.06353) | null |
+| 2026-08-06 | Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation | Xinliang Dai, Yanlin Jiang, Frederik Zahn et al. | [2608.06341](https://arxiv.org/abs/2608.06341) | null |
+| 2026-08-06 | Multi-State Geometry of Density Matrices and Rectification Sum Rules | Barry Bradlyn | [2608.06326](https://arxiv.org/abs/2608.06326) | null |
+| 2026-08-06 | HarnessOpt-Bench: Evaluating LLMs at Harness Optimization | Varun Ursekar, Apaar Shanker, Yash Maurya et al. | [2608.06301](https://arxiv.org/abs/2608.06301) | null |
+| 2026-08-06 | ML-for-ML | Yutong Zhao, Noga H. Rotman, Gianni Antichi et al. | [2608.06046](https://arxiv.org/abs/2608.06046) | null |
+| 2026-08-06 | ASGE-RR: Agentic Service Graph Embedding with Revisable Reservations for Dynamic AI-Agent Calls | Trond Vatten, Yuming Jiang | [2608.06033](https://arxiv.org/abs/2608.06033) | null |
+| 2026-08-06 | Hybrid-Adaptive Thread Tuning to Mitigate Simulation Execution Bottlenecks in High-Performance Reinforcement Learning Inference | Jiming Su, Hantao Hua, Lujia Yin et al. | [2608.06025](https://arxiv.org/abs/2608.06025) | [code](https://github.com/suchenjm/AutoThread.) |
+| 2026-08-06 | BALANCE: Hybrid Autoregressive-Speculative LLM Inference in Wireless Edge Networks | Guanqiao Qu, Shuo Chen, Qian Chen et al. | [2608.05926](https://arxiv.org/abs/2608.05926) | null |
+| 2026-08-06 | Mapping Armenian Paris: Extracting and Geocoding Commercial Advertisements from the 20th-Century Diaspora Press | Chahan Vidal-Gorène, Seda Kirakosyan, Edita Matevosyan | [2608.05911](https://arxiv.org/abs/2608.05911) | null |
+| 2026-08-06 | Robust priority-aware coverage optimization for aerial sensor networks | Vanshika Datta, C. Nahak, J. C. Yao | [2608.05873](https://arxiv.org/abs/2608.05873) | null |
+| 2026-08-06 | Seeing Is Not Deciding: Can Multimodal LLMs Act as Effective CEOs? | Yuyang Dai, Xueqing Peng, Yuxia Wang et al. | [2608.05864](https://arxiv.org/abs/2608.05864) | null |
+| 2026-08-06 | Challenges in Evaluating Explanation Methods for Static and Evolving Data | Jerzy Stefanowski | [2608.06351](https://arxiv.org/abs/2608.06351) | null |
+| 2026-08-06 | Optimal Rates for Learning with Monotone Adversaries | Anay Mehrotra | [2608.06337](https://arxiv.org/abs/2608.06337) | null |
+| 2026-08-06 | An Analysis of the Accuracy of the Added Length De-Embedding Methods for Coaxial to Waveguide Adapters in the X-Band | Eric Bauman, James DePoy, Sterling Light et al. | [2608.06313](https://arxiv.org/abs/2608.06313) | null |
+| 2026-08-06 | Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning | Farzana Nasrin | [2608.06276](https://arxiv.org/abs/2608.06276) | null |
+| 2026-08-06 | Hypothesis Testing with Conditional Queries: Learnability and the Value of Interaction | Zonghuan Xu | [2608.06262](https://arxiv.org/abs/2608.06262) | null |
+| 2026-08-06 | MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction | Dohyun Ku, Min Gu Kwak, Francisco J. Pasquel et al. | [2608.06253](https://arxiv.org/abs/2608.06253) | null |
+| 2026-08-06 | A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance | Fardin Afdideh, Fernando Seoane, Farhad Abtahi | [2608.06246](https://arxiv.org/abs/2608.06246) | null |
+| 2026-08-06 | DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models | ZhiYan Hou, Xinyu Tang, Hongyan An et al. | [2608.06243](https://arxiv.org/abs/2608.06243) | [code](https://github.com/DBtxy/DASH-OPSD) |
 | 2026-08-05 | MGSB: Manifold Gated Signature Branch Pressure-Domain Baseline Architecture for Two-Phase Pipeline Flows Under Distributional Shift | Issah Suleiman, Sormeh Serpoosh, Nadine Elkholy et al. | [2608.04805](https://arxiv.org/abs/2608.04805) | null |
 | 2026-08-05 | A smooth BTZ black bounce with an extremal null throat | Farzad Milani | [2608.04461](https://arxiv.org/abs/2608.04461) | null |
 | 2026-08-05 | Objects as Audio-Visual Modal Sound Fields | Zisen Shao, Zihao Wei, Derong Jin et al. | [2608.05145](https://arxiv.org/abs/2608.05145) | null |
