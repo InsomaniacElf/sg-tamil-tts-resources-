@@ -534,5 +534,28 @@
       "format:parquet",
       "modality:audio"
     ]
+  },
+  {
+    "id": "hf_dataset_ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa",
+    "title": "ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa",
+    "authors": "ghananlpcommunity",
+    "published": "2026-08-07",
+    "pdf": "https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-08-08",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:text-to-speech",
+      "task_categories:automatic-speech-recognition",
+      "language:en",
+      "language:tw",
+      "license:apache-2.0",
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "modality:audio"
+    ]
   }
 ]

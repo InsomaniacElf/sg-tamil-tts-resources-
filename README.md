@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-07 &nbsp;|&nbsp; **Papers:** 6406 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 25 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-08 &nbsp;|&nbsp; **Papers:** 6406 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 26 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -6495,6 +6495,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-07 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa) | null |
 | 2026-08-06 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-08-05 | Kennethdot/Ghana_English-Twi_Code-switching_Speech | Kennethdot | [🤗](https://huggingface.co/datasets/Kennethdot/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-07-07 | psdn-ai/tamil-speech-samples | psdn-ai | [🤗](https://huggingface.co/datasets/psdn-ai/tamil-speech-samples) | null |
