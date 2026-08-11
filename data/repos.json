@@ -988,5 +988,20 @@
     "is_low_res": false,
     "_stars": 9,
     "_desc": "self-hosted multilingual (english + 5 indic) phone voice agent template - livekit agents + sarvam stt/tts + openai + vobiz sip. ~700ms-1.2s latency, under rs 5.5/min. demo: a real-estate site-visit bo"
+  },
+  {
+    "id": "github_debpalash/VoiceStudio",
+    "title": "debpalash/VoiceStudio",
+    "authors": "debpalash",
+    "published": "2026-08-11",
+    "pdf": "null",
+    "code": "https://github.com/debpalash/VoiceStudio",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-08-11",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_stars": 9834,
+    "_desc": "omnivoice studio is the open-source elevenlabs alternative. ai voice clone, dub, dictate, transcribe, audiobook creator and voice workflow studio."
   }
 ]
