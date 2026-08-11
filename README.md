@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-10 &nbsp;|&nbsp; **Papers:** 6475 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 26 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-11 &nbsp;|&nbsp; **Papers:** 6513 &nbsp;|&nbsp; **Repos:** 66 &nbsp;|&nbsp; **Datasets:** 26 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,44 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-10 | Structured Phonological Representations for Audio-Articulatory rtMRI Speech Classification | Abner Hernandez, Tomás Arias Vergara, Daiqi Liu et al. | [2608.09767](https://arxiv.org/abs/2608.09767) | null |
+| 2026-08-10 | VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding | Ruqi Sun, Jiaping Li, Wenhui Tao et al. | [2608.09698](https://arxiv.org/abs/2608.09698) | null |
+| 2026-08-10 | MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging | Vladyslav Gapyak, Thomas März, Andreas Weinmann | [2608.09672](https://arxiv.org/abs/2608.09672) | null |
+| 2026-08-10 | LoRA-based Adaptation Alone Is Not Enough: Understanding the Limits of Foundation Models for Face Presentation Attack Detection | Peter Lorenz, Anjith George, Marcel Sébastien | [2608.09633](https://arxiv.org/abs/2608.09633) | null |
+| 2026-08-10 | Rethinking Self-Evolving Agents: Do We Still Need Prescribed Optimization Pipelines? | Hui Xue, Fan Yang | [2608.09629](https://arxiv.org/abs/2608.09629) | null |
+| 2026-08-10 | Mawqif-v2: An Arabic Benchmark Dataset for Cross-Target Stance Detection | Rasha Albalawi, Nuha Albadi, Hamzah Luqman et al. | [2608.09539](https://arxiv.org/abs/2608.09539) | null |
+| 2026-08-10 | XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher | Lazar Đoković, Aimee Lin | [2608.09519](https://arxiv.org/abs/2608.09519) | null |
+| 2026-08-10 | RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation | Boxiong Wang, Hui Kang, Geng Sun et al. | [2608.09467](https://arxiv.org/abs/2608.09467) | null |
+| 2026-08-10 | Foundation Models are Implicit Deepfake Detectors | Stefan Smeu, Dragos-Alexandru Boldisor, Elisabeta Oneata et al. | [2608.09427](https://arxiv.org/abs/2608.09427) | null |
+| 2026-08-10 | SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry | Laura Jones, Shazil Shahzad, Ayesha Sana et al. | [2608.09303](https://arxiv.org/abs/2608.09303) | null |
+| 2026-08-10 | Exact boundary controllability of a singular/degenerate wave equation via singular Sturm-Liouville theory | Marcos Lopez-Garcia | [2608.09648](https://arxiv.org/abs/2608.09648) | null |
+| 2026-08-10 | SonicWeave: Chunk-Routed Mixture-of-Experts for Unified Audio Scene Generation | Yunrui Cai, Xu Li, Yucheng Zhou et al. | [2608.09571](https://arxiv.org/abs/2608.09571) | null |
+| 2026-08-10 | HandSplatter: Automated Digital Goniometry from Neural Rendering | Emmett Chen, Neal Chen, Xiang Li et al. | [2608.09735](https://arxiv.org/abs/2608.09735) | null |
+| 2026-08-10 | MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection | Yanqiu Li, Yang Xiao, Jisheng Bai et al. | [2608.09593](https://arxiv.org/abs/2608.09593) | null |
+| 2026-08-10 | Quantum Uncomputation of Clean and Dirty Ancilla Qubits | Chenke Liu, Li Zhou, Boning Meng | [2608.09578](https://arxiv.org/abs/2608.09578) | null |
+| 2026-08-10 | The Politician, the Liar, and the Obedient Worker: Emerging Behavior of LLM Agents in Hierarchical Games | Fatemeh Seyedin, Adrian Weller, Jinhyuk Yun et al. | [2608.09574](https://arxiv.org/abs/2608.09574) | null |
+| 2026-08-10 | Dual-Adversarial Safety Alignment: Cultivating Intrinsic Threat Comprehension in LRMs | Hongli Shen, Shaopeng Fu, Qinbo Zhang et al. | [2608.09542](https://arxiv.org/abs/2608.09542) | null |
+| 2026-08-10 | Towards Expressive and Faithful Audio-to-Image Generation: A Unified Multimodal Dataset and Synthesis Framework | Dongxu Ge, Shansong Liu, Cheng Gong et al. | [2608.09529](https://arxiv.org/abs/2608.09529) | [code](https://github.com/gdx012/A2I-Generation.) |
+| 2026-08-10 | Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge | Yiwen Ren, Jianing Liu, Yingxin Wang et al. | [2608.09475](https://arxiv.org/abs/2608.09475) | null |
+| 2026-08-10 | EmoS: A Theory-Grounded Framework for Evaluating and Aligning Emotional Intelligence in Spoken Language Models | Junyu Wang, Siyuan Zhang, Peiyuan Jiang et al. | [2608.09189](https://arxiv.org/abs/2608.09189) | null |
+| 2026-08-10 | AirFlow: Context Preserving and Multi-Rate State Modeling for Air Quality Forecasting | Fan Yang, Nan Chen, Yijie Dong et al. | [2608.09775](https://arxiv.org/abs/2608.09775) | null |
+| 2026-08-10 | SR-OPSD: Self-Referenced On-Policy Self-Distillation | Zhuo Sun, Entong Li, Yanlong Zhao et al. | [2608.09745](https://arxiv.org/abs/2608.09745) | null |
+| 2026-08-10 | Rethinking Factor Sharing in Federated LoRA: A Rank-Aware Adaptive Approach | Xinyi Xu, Bingnan Xiao, Shuang Qin et al. | [2608.09742](https://arxiv.org/abs/2608.09742) | null |
+| 2026-08-10 | TAMS: Task-Aware Multi-View Adaptive Streaming for Wireless Telerobotic Manipulation | Zexin Deng, Zhenhui Yuan, Lu Tian et al. | [2608.09731](https://arxiv.org/abs/2608.09731) | [code](https://github.com/Dzxx623/TAMS.) |
+| 2026-08-10 | World Tokens: Enhancing Embodied Policies with Training-Time World Modeling | Qu Tang, Benhui Zhuang, Bo Yuan et al. | [2608.09730](https://arxiv.org/abs/2608.09730) | null |
+| 2026-08-10 | Crossing tournaments are polynomially $\vecχ$-bounded | Lila Crew, Xinyue Fan, Hidde Koerts et al. | [2608.09710](https://arxiv.org/abs/2608.09710) | null |
+| 2026-08-10 | A general paracontrolled ansatz for singular SPDEs | Yvain Bruned, Nicolas Moench | [2608.09700](https://arxiv.org/abs/2608.09700) | null |
+| 2026-08-10 | Spread of Entanglement in Generalized Kicked Ising Chain | Tanay Pathak, Hiromi Ebisu, Tomaž Prosen | [2608.09695](https://arxiv.org/abs/2608.09695) | null |
+| 2026-08-10 | Diffuse the object, keep its label: curating detector training data from a few unlabeled photographs via VLM-built 3D vegetation scenes | Mario Malizia, Marnix Enting, Rob Haelterman et al. | [2608.09691](https://arxiv.org/abs/2608.09691) | null |
+| 2026-08-10 | Confusion-Geometry Rebalancing for Long-Tailed Adversarial Training | Mengnan Zhao, Geyong Min, Lihe Zhang et al. | [2608.09688](https://arxiv.org/abs/2608.09688) | null |
+| 2026-08-09 | Explicit Boundary Markers for Subword Vocabularies | Sander Land, Clara Meister | [2608.08847](https://arxiv.org/abs/2608.08847) | null |
+| 2026-08-09 | CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents | Yuqian Zhang, Yao Shi, Kexin Huang et al. | [2608.08638](https://arxiv.org/abs/2608.08638) | null |
+| 2026-08-09 | Sharp Endpoint Eigenfunction Estimates for the Two-Dimensional Hermite Operator | Guiyu Xie, Cheng Zhang | [2608.08423](https://arxiv.org/abs/2608.08423) | null |
+| 2026-08-08 | CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis | Zhisheng Zheng, Xiaohang Sun, Zhu Liu et al. | [2608.08362](https://arxiv.org/abs/2608.08362) | null |
+| 2026-08-08 | ReLMCodec: Designing Predictable Speech Tokens from Pre-Quantization Phoneme Structure | Zixiang Wan, Xusheng Yang, Zheng Wang et al. | [2608.08286](https://arxiv.org/abs/2608.08286) | [code](https://github.com/ggiggit/ReLMCodec) |
+| 2026-08-08 | Implicit Likelihood Inference and $z$-Binned Reconstruction of Dark Energy $w(z)$ | Ke Wang, Jia-Yi Feng, Jianbo Lu | [2608.08007](https://arxiv.org/abs/2608.08007) | null |
+| 2026-08-08 | SraVaani 1.0: Scaling Inclusive Speech Recognition for Indic Languages | Sujith Pulikodan, Agneedh Basu, Pavan Kumar J et al. | [2608.08235](https://arxiv.org/abs/2608.08235) | null |
+| 2026-08-08 | DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects | Yi Shu, Tianyu Peng, Yingzhuo Deng et al. | [2608.08067](https://arxiv.org/abs/2608.08067) | null |
 | 2026-08-07 | SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation | Hanke Xie, Haopeng Lin, Jiale Qian et al. | [2608.07462](https://arxiv.org/abs/2608.07462) | [code](https://github.com/ASLP-) |
 | 2026-08-07 | The origin of carotenoid triplets in purple photosynthetic bacteria | Juan J. Romero, Andrew Gall, Viola D'mello et al. | [2608.07390](https://arxiv.org/abs/2608.07390) | null |
 | 2026-08-07 | Quantum de Sitter and Analytically Continued Chern Simons Theory | Stephon Alexander, Kenneth Blakey | [2608.07467](https://arxiv.org/abs/2608.07467) | null |
