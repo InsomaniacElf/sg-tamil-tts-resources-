@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-16 &nbsp;|&nbsp; **Papers:** 6814 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 26 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-17 &nbsp;|&nbsp; **Papers:** 6848 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,39 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-14 | Learning-to-Transition for Large-scale and High-Order MIMO Detection | Yubo Zhang, Yiyao Liu, Xiaodong Wang | [2608.14511](https://arxiv.org/abs/2608.14511) | null |
+| 2026-08-14 | You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model | Ziyang Luo, Zhongyao Chu, Xinjie He et al. | [2608.14465](https://arxiv.org/abs/2608.14465) | null |
+| 2026-08-14 | STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X | Yasir Ech-Chammakhy, Oussama Azrara, Jaafar Chbili et al. | [2608.14418](https://arxiv.org/abs/2608.14418) | null |
+| 2026-08-14 | Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination | Shuo Liang, Yixing Ma, Pengfei Zhou et al. | [2608.14391](https://arxiv.org/abs/2608.14391) | null |
+| 2026-08-14 | CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving | Anisa Saleem, Duksu Kim | [2608.14332](https://arxiv.org/abs/2608.14332) | null |
+| 2026-08-14 | MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection | Mohamed Kotb, Johannes Meier, Christoph Reich et al. | [2608.14282](https://arxiv.org/abs/2608.14282) | null |
+| 2026-08-14 | AT-ADD: All-Type Audio Deepfake Detection Challenge Summary | Yuankun Xie, Haonan Cheng, Jiayi Zhou et al. | [2608.14249](https://arxiv.org/abs/2608.14249) | null |
+| 2026-08-14 | Zero-Shot Skeleton-Based Action Anticipation | Hongsong Wang, Pengbo Yan, Yang Zhang et al. | [2608.14243](https://arxiv.org/abs/2608.14243) | null |
+| 2026-08-14 | MINT: A Universal Zero-Shot Predictor for Transaction Data | Parameswaran Kamalaruban, Viktor Drobnyi, Maeve Madigan et al. | [2608.14198](https://arxiv.org/abs/2608.14198) | null |
+| 2026-08-14 | Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding | Jeongwan Shin, Jaehyeon Kim, Donguk Ko et al. | [2608.14179](https://arxiv.org/abs/2608.14179) | null |
+| 2026-08-14 | Loss of regularity for solutions to 1D degenerate quasilinear wave equations | Yanbo Hu, Yuusuke Sugiyama | [2608.14233](https://arxiv.org/abs/2608.14233) | null |
+| 2026-08-14 | SCVIB: Editable State-Conditioned Visual Instance Binding forMulti-Turn Personalized Localization | Xiongtai Yang, Ziyan He, Tao Wang | [2608.14148](https://arxiv.org/abs/2608.14148) | null |
+| 2026-08-14 | Content Based Video Narration of Gameplay with Vision Language Models | Mathew Varghese | [2608.14016](https://arxiv.org/abs/2608.14016) | null |
+| 2026-08-14 | Singer-Informed Vocal Source Separation for Multi-Singer Music Mixtures | Jocelyn Xu, Minje Kim | [2608.14516](https://arxiv.org/abs/2608.14516) | [code](https://github.com/jocelynxu01/singer-separation-paper.) |
+| 2026-08-14 | RecipeNet: A Hierarchical Transformer for Recipe Data | Pin-Yen Huang, Sachin Chhabra, Prasanth Sai Gouripeddi et al. | [2608.14505](https://arxiv.org/abs/2608.14505) | null |
+| 2026-08-14 | CRAFT: Constrained Reward via Attention Fine-Tuning for Subject Personalization without Composed Targets | Jihun Park, Kyoungmin Lee, Jongmin Gim et al. | [2608.14403](https://arxiv.org/abs/2608.14403) | null |
+| 2026-08-14 | Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL | Xiaojun Wu, Cehao Yang, Honghao Liu et al. | [2608.14312](https://arxiv.org/abs/2608.14312) | [code](https://github.com/DataArcTech/DataArc-SynData-Toolkit/.) |
+| 2026-08-14 | Sensor-Driven Mission Synthesis for UAV/UGV Swarms: A TB-CSPN Coordination Architecture with Hardware-Enforced Safety | Uwe M. Borghoff, Paolo Bottoni, Remo Pareschi | [2608.14306](https://arxiv.org/abs/2608.14306) | null |
+| 2026-08-14 | Extending Occam's inversion with lasso fusion, overcomplete dictionaries, and isotropic total variation regularisation | Anandaroop Ray | [2608.14225](https://arxiv.org/abs/2608.14225) | null |
+| 2026-08-14 | Leading-Silence Augmentation and Multi-Stage Synthetic Supervision for the Second MLC-SLM Challenge | Kexin Shi, Renhe Sun, Yuge Huang et al. | [2608.14150](https://arxiv.org/abs/2608.14150) | null |
+| 2026-08-14 | HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting | Wei Zhang, Shengkai Yu, Shiqiang Gong et al. | [2608.14136](https://arxiv.org/abs/2608.14136) | [code](https://github.com/WZ-CS/HiCo-GS.) |
+| 2026-08-14 | Ambisonics Encoding of Room Impulse Responses using a Device-Agnostic Diffusion Mode | Eloi Moliner, Christoph Hold, Juan Azcarreta Ortiz et al. | [2608.14097](https://arxiv.org/abs/2608.14097) | null |
+| 2026-08-14 | MazeRunner: Nonlinear Task and Clue Orchestration for LLM-driven Black-Box Automated Penetration Testing | Zhenyuan Li, Yi Jiang, Junjie Cheng et al. | [2608.14216](https://arxiv.org/abs/2608.14216) | null |
+| 2026-08-14 | MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration | Mahesh Reddy, Yashesh Savani, Antoine Mercier et al. | [2608.14543](https://arxiv.org/abs/2608.14543) | null |
+| 2026-08-14 | Lower Bounds on Black-Box Constructions of Pseudorandom Functions | Bar Alon, Itai Dinur, Muthuramakrishnan Venkitasubramaniam | [2608.14501](https://arxiv.org/abs/2608.14501) | null |
+| 2026-08-14 | Approximate Muon with low-rank adapters | Ben Anson, Conor Houghton, Edward Milsom | [2608.14492](https://arxiv.org/abs/2608.14492) | null |
+| 2026-08-14 | Residual-Controlled Douglas--Rachford Splitting for Differentiable Solver Layers | Kang Liu, Jianchen Hu | [2608.14470](https://arxiv.org/abs/2608.14470) | null |
+| 2026-08-14 | THRIVE: Therapeutic Humanoid Robot In Virtual Environment | Jin Xu, Yu-Ping Chen, Ayanna Howard | [2608.14462](https://arxiv.org/abs/2608.14462) | null |
+| 2026-08-14 | Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments | Shahab Band, Hamed Mohammadi | [2608.14456](https://arxiv.org/abs/2608.14456) | null |
+| 2026-08-14 | Control-Informed Constraint Adaptation in Minimum-Time Trajectory Planning for Autonomous Racing | Ann-Kathrin Schwehn, Alexander Langmann, Mattia Piccinini et al. | [2608.14448](https://arxiv.org/abs/2608.14448) | null |
+| 2026-08-14 | PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments | Yuhao Zhan, Bingxiang He, Zecong Tang et al. | [2608.14441](https://arxiv.org/abs/2608.14441) | [code](https://github.com/thunlp/PACE-Bench.) |
+| 2026-08-14 | Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations | Toby D. Pilditch | [2608.14425](https://arxiv.org/abs/2608.14425) | null |
+| 2026-08-14 | Memory Allocation for Constant-Bounded Programs | Vinícius Silva, Kael Soares, Márcio Costa e Fernando Magno Quintão Pereira | [2608.14471](https://arxiv.org/abs/2608.14471) | null |
 | 2026-08-13 | VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching | Wenxiang Guo, Changhao Pan, Ziyue Jiang et al. | [2608.12951](https://arxiv.org/abs/2608.12951) | null |
 | 2026-08-13 | FastThaiG2P: Lightning-fast Thai Grapheme-to-phoneme Conversion for Voice Agent Pipelines | Charin Polpanumas | [2608.12814](https://arxiv.org/abs/2608.12814) | null |
 | 2026-08-13 | OmniScientist: An Omni-Modal Omni-Discipline AI Scientist | Bobo Li, Hao Fei, Tianjie Ju et al. | [2608.13558](https://arxiv.org/abs/2608.13558) | null |
@@ -94,6 +127,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-08-13 | The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity | Martin J. Wainwright | [2608.13520](https://arxiv.org/abs/2608.13520) | null |
 | 2026-08-13 | TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval | Yi-Chung Chen, Philip Jacobson, Tom Lampo et al. | [2608.13495](https://arxiv.org/abs/2608.13495) | null |
 | 2026-08-13 | It's How You Ask: Gender-Associated Linguistic Bias in LLMs | Katherine Van Koevering, Anjalie Field | [2608.13328](https://arxiv.org/abs/2608.13328) | null |
+| 2026-08-13 | VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents | Edresson Casanova, Jaehyeon Kim, Mariana Graterol Fuenmayor et al. | [2608.13831](https://arxiv.org/abs/2608.13831) | null |
 | 2026-08-12 | MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching | Xingwei Sun, Heinrich Dinkel, Gang Li et al. | [2608.11804](https://arxiv.org/abs/2608.11804) | [code](https://github.com/xiaomi-research/midashenglm-gen) |
 | 2026-08-12 | Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization | Peijie Chen, Zhuanling Zha, Zhipeng Nie et al. | [2608.11737](https://arxiv.org/abs/2608.11737) | null |
 | 2026-08-12 | Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder | Huaxuan Wang, Huimin Wang, Ruiyu Zhang et al. | [2608.11650](https://arxiv.org/abs/2608.11650) | [code](https://github.com/netease-youdao/Confucius4-TTS.) |
@@ -6904,6 +6938,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-16 | instinct-org/multilingual-tts-voice-dataset | instinct-org | [🤗](https://huggingface.co/datasets/instinct-org/multilingual-tts-voice-dataset) | null |
 | 2026-08-07 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa) | null |
 | 2026-08-06 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-08-05 | Kennethdot/Ghana_English-Twi_Code-switching_Speech | Kennethdot | [🤗](https://huggingface.co/datasets/Kennethdot/Ghana_English-Twi_Code-switching_Speech) | null |

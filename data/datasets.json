@@ -557,5 +557,28 @@
       "format:parquet",
       "modality:audio"
     ]
+  },
+  {
+    "id": "hf_dataset_instinct-org/multilingual-tts-voice-dataset",
+    "title": "instinct-org/multilingual-tts-voice-dataset",
+    "authors": "instinct-org",
+    "published": "2026-08-16",
+    "pdf": "https://huggingface.co/datasets/instinct-org/multilingual-tts-voice-dataset",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-08-17",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:text-to-speech",
+      "language:en",
+      "language:kk",
+      "language:ky",
+      "language:ru",
+      "language:tg",
+      "language:tr",
+      "language:tk"
+    ]
   }
 ]
