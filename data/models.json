@@ -2170,5 +2170,25 @@
       "multilingual-tts",
       "text-to-speech"
     ]
+  },
+  {
+    "id": "hf_model_Khon198/indictts-deepfake-detector",
+    "title": "Khon198/indictts-deepfake-detector",
+    "authors": "",
+    "published": "2026-08-17",
+    "pdf": "https://huggingface.co/Khon198/indictts-deepfake-detector",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-17",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "hubert",
+      "dataset:sherryt997/indictts-deepfake-challenge-data",
+      "license:apache-2.0",
+      "region:us"
+    ]
   }
 ]
