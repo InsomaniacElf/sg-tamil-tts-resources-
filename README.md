@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-18 &nbsp;|&nbsp; **Papers:** 7018 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-19 &nbsp;|&nbsp; **Papers:** 7028 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,16 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-18 | Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation | Zhikai Xu, Zhucun Xue, Teng Hu et al. | [2608.18034](https://arxiv.org/abs/2608.18034) | [code](https://github.com/ZhikaiXu24/DAS) |
+| 2026-08-18 | GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation | Ming Qian, Zijian Wang, Minchao Sun et al. | [2608.17988](https://arxiv.org/abs/2608.17988) | null |
+| 2026-08-18 | Target Speaker Identification: A Low-Latency Streaming Pipeline | Patrick S. Burke, Satyam Raj, Sean Kinahan | [2608.17972](https://arxiv.org/abs/2608.17972) | null |
+| 2026-08-18 | An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models | Javier Aguilar Martín | [2608.17956](https://arxiv.org/abs/2608.17956) | [code](https://github.com/JaviMaligno/code-world-models) |
+| 2026-08-18 | SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis | Shicheng Ma, Wenqian Cui, Irwin King | [2608.17931](https://arxiv.org/abs/2608.17931) | [code](https://github.com/Sher13cked/SpeechSense.) |
+| 2026-08-18 | Adaptive Policy Portfolios for Robust Markov Decision Processes | Kasper Engelen, Sebastian Junges, Guillermo A. Pérez et al. | [2608.17929](https://arxiv.org/abs/2608.17929) | null |
+| 2026-08-18 | Stochastic Robust Linear W-infinity Control via Dynamic Output Feedback | Daniel Neri Cardoso | [2608.17910](https://arxiv.org/abs/2608.17910) | null |
+| 2026-08-18 | Quantifying the Causal Operational Determinants of Service Reliability in Urban Rail Transit: Evidence from Panel Double/Debiased Machine Learning | Ying Yao, Nan Zhang, Daniel J. Graham | [2608.17901](https://arxiv.org/abs/2608.17901) | null |
+| 2026-08-18 | A quantum optical concept of attosecond pulses: the attoquants | Sándor Varró, Ákos Gombkötő | [2608.17854](https://arxiv.org/abs/2608.17854) | null |
+| 2026-08-18 | GenRec: Knowing Where to Reconstruct and Where to Generate | Ata Çelen, Jaewoo Jung, Federico Tombari et al. | [2608.17832](https://arxiv.org/abs/2608.17832) | null |
 | 2026-08-17 | The first comprehensive spectral and timing study of the ultra-compact X-ray binary 4U 1812-12 with NICER and NuSTAR | Swarnendu Jana, Aditya S. Mondal, Aru Beri et al. | [2608.16841](https://arxiv.org/abs/2608.16841) | null |
 | 2026-08-17 | An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models | Dengyang Jiang, Ruoyi Du, Zhennan Chen et al. | [2608.16887](https://arxiv.org/abs/2608.16887) | null |
 | 2026-08-17 | Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs | Qi Zhao, Marjory Pineda, Ketul Chhaya et al. | [2608.16886](https://arxiv.org/abs/2608.16886) | null |
