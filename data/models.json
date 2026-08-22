@@ -2190,5 +2190,22 @@
       "license:apache-2.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_anilsingh0101/vits-hindi-indic-tts",
+    "title": "anilsingh0101/vits-hindi-indic-tts",
+    "authors": "",
+    "published": "2026-08-21",
+    "pdf": "https://huggingface.co/anilsingh0101/vits-hindi-indic-tts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-22",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "tensorboard",
+      "region:us"
+    ]
   }
 ]

@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-21 &nbsp;|&nbsp; **Papers:** 7245 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-22 &nbsp;|&nbsp; **Papers:** 7245 &nbsp;|&nbsp; **Repos:** 67 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
