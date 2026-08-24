@@ -1003,5 +1003,20 @@
     "is_low_res": false,
     "_stars": 9834,
     "_desc": "omnivoice studio is the open-source elevenlabs alternative. ai voice clone, dub, dictate, transcribe, audiobook creator and voice workflow studio."
+  },
+  {
+    "id": "github_MohammedAly22/VoiceTuT-TTS",
+    "title": "MohammedAly22/VoiceTuT-TTS",
+    "authors": "MohammedAly22",
+    "published": "2026-06-24",
+    "pdf": "null",
+    "code": "https://github.com/MohammedAly22/VoiceTuT-TTS",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-08-24",
+    "is_tamil": false,
+    "is_low_res": true,
+    "_stars": 19,
+    "_desc": "voicetut-tts is an egyptian-arabic text-to-speech system fine-tuned from omnivoice on ~380 hours of egyptian podcast speech. it produces natural egyptian speech with seamless arabic ↔ english code-swi"
   }
 ]
