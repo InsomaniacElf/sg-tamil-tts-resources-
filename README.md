@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-24 &nbsp;|&nbsp; **Papers:** 7322 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-25 &nbsp;|&nbsp; **Papers:** 7335 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,19 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-23 | Analyzing and Mitigating Cross-Lingual Degradation in Multilingual Medical VQA | Jingbo Wang, Sendong Zhao, Haochun Wang et al. | [2608.22363](https://arxiv.org/abs/2608.22363) | null |
+| 2026-08-23 | AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS | Timothy Tin-Long, Jian Zhu, Aidan Pine et al. | [2608.22186](https://arxiv.org/abs/2608.22186) | null |
+| 2026-08-23 | No bubble trees for the $1$-equivariant harmonic map heat flow and the radial energy-critical nonlinear heat equation in low dimensions | Taegyu Kim | [2608.22447](https://arxiv.org/abs/2608.22447) | null |
+| 2026-08-23 | Figurative Justice: Detecting metaphors in Hindi judgements with qualitative assessment and transformers | Bhumika Bhattacharyya, Shouvik Kumar Guha, Indranil Dutta | [2608.22446](https://arxiv.org/abs/2608.22446) | null |
+| 2026-08-23 | Adaptive Barzilai-Borwein Proximal Gradient Method for Nonconvex Optimization | Yinuo Li, Na Huang, Ruizhi Zhou | [2608.22430](https://arxiv.org/abs/2608.22430) | null |
+| 2026-08-23 | Robust Bimanual Vision-Language-Action Models via Embarrassingly Simple Modality Masking | Dongzhou Cheng, Ziang Li, Yixiao Zhou et al. | [2608.22419](https://arxiv.org/abs/2608.22419) | null |
+| 2026-08-23 | Optimal Condition Numbers in Low-Rank Positive Semidefinite Matrix Sensing | Mingxuan Sun, Zhiqiang Xu | [2608.22418](https://arxiv.org/abs/2608.22418) | null |
+| 2026-08-23 | LLMs for Survey Text Analysis - A Performance Comparison Between Humans and GPT-5 on Inductive Content Analysis | Leonardo Bergmann, Renata Gheorghiu, Ana Gvritishvili et al. | [2608.22417](https://arxiv.org/abs/2608.22417) | null |
+| 2026-08-23 | A Simple and Extremely Efficient Predictive Control for Power Converters | Guangze Chen, Zhenbin Zhang | [2608.22416](https://arxiv.org/abs/2608.22416) | null |
+| 2026-08-23 | EM Informed Holographic Imaging via Unrolled Deep Networks | Federica Fieramosca, Alexander Paulus, Richard Oliveira et al. | [2608.22409](https://arxiv.org/abs/2608.22409) | null |
+| 2026-08-23 | A New Generalized Low-Rank Cholesky Factor ADI Algorithm for Large-Scale Stein Equations | Umair Zulfiqar | [2608.22406](https://arxiv.org/abs/2608.22406) | null |
+| 2026-08-23 | LD4WAM: Learning Latent Dynamics from Human Videos for World Action Models | Zhenhao Shen, Jiaqi Liang, Jasper Lu et al. | [2608.22403](https://arxiv.org/abs/2608.22403) | null |
+| 2026-08-22 | LëtzCross: A Cross-Lingual Page-Level Benchmark for Multimodal Retrieval over Luxembourgish Documents | Omar El Bachyr, Fred Philippy, Laura Maria Bernardy et al. | [2608.21714](https://arxiv.org/abs/2608.21714) | null |
 | 2026-08-21 | TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems | Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al. | [2608.21343](https://arxiv.org/abs/2608.21343) | null |
 | 2026-08-21 | Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution | Xiangzhe Xu, Hanxi Guo, Guangyu Shen et al. | [2608.21341](https://arxiv.org/abs/2608.21341) | null |
 | 2026-08-21 | Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed | Nicolás Vera Zúñiga | [2608.21315](https://arxiv.org/abs/2608.21315) | [code](https://github.com/nicoveraz/token-lattice-ca) |
