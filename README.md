@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-08-25 &nbsp;|&nbsp; **Papers:** 7416 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 27 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-08-26 &nbsp;|&nbsp; **Papers:** 7421 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 28 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,10 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-25 | Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts | Meruyert Aristombayeva, Jason S. Lucas, Chaewan Chun et al. | [2608.24707](https://arxiv.org/abs/2608.24707) | null |
+| 2026-08-25 | FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation | Junjie Li, Xuelong Geng, Kun Xie et al. | [2608.24168](https://arxiv.org/abs/2608.24168) | [code](https://github.com/FireRedTeam/FireRedAudio.) |
+| 2026-08-25 | Preference Optimization for Non-Verbal Vocalization Synthesis | Haoyang Li, Chenglin Xu, Junchuan Zhao et al. | [2608.24163](https://arxiv.org/abs/2608.24163) | null |
+| 2026-08-25 | OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses | Guangzheng Hu, Ziyue Jiang, Weixu Qiao et al. | [2608.24160](https://arxiv.org/abs/2608.24160) | null |
 | 2026-08-24 | Spicing up Genetic Netlist Generation with LLMs | Stefan Uhlich, Yağız Gençer, Andrea Bonetti et al. | [2608.23317](https://arxiv.org/abs/2608.23317) | null |
 | 2026-08-24 | Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors | Zhenghua Bao | [2608.22872](https://arxiv.org/abs/2608.22872) | [code](https://github.com/ZhenghuaBao/spoken-multihop-rag) |
 | 2026-08-24 | Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation | Jianxiang Liu, Gaojing Zhang, Chuan Wen et al. | [2608.22800](https://arxiv.org/abs/2608.22800) | null |
@@ -87,6 +91,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-08-24 | StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models | Jinghan Tan, Yuanzheng Wang, Lu Chen et al. | [2608.23475](https://arxiv.org/abs/2608.23475) | null |
 | 2026-08-24 | Reward-Free Continual Adaptation for Resilient Space Robots | Andrej Orsula, Miguel Olivares-Mendez, Carol Martinez | [2608.23452](https://arxiv.org/abs/2608.23452) | [code](https://github.com/AndrejOrsula/space_robotics_bench) |
 | 2026-08-24 | AraDetox: A Multi-Dialect Arabic Detoxification Dataset | Mo El-Haj | [2608.22894](https://arxiv.org/abs/2608.22894) | [code](https://github.com/ArabicNLP-UK/AraDetox) |
+| 2026-08-24 | EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis | Tianchi Liu, Zeyang Song, Tianrui Wang et al. | [2608.23791](https://arxiv.org/abs/2608.23791) | null |
 | 2026-08-23 | Analyzing and Mitigating Cross-Lingual Degradation in Multilingual Medical VQA | Jingbo Wang, Sendong Zhao, Haochun Wang et al. | [2608.22363](https://arxiv.org/abs/2608.22363) | null |
 | 2026-08-23 | AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS | Timothy Tin-Long, Jian Zhu, Aidan Pine et al. | [2608.22186](https://arxiv.org/abs/2608.22186) | null |
 | 2026-08-23 | No bubble trees for the $1$-equivariant harmonic map heat flow and the radial energy-critical nonlinear heat equation in low dimensions | Taegyu Kim | [2608.22447](https://arxiv.org/abs/2608.22447) | null |
@@ -7507,6 +7512,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-08-25 | Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset | Panga-Azazia | [🤗](https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset) | null |
 | 2026-08-16 | instinct-org/multilingual-tts-voice-dataset | instinct-org | [🤗](https://huggingface.co/datasets/instinct-org/multilingual-tts-voice-dataset) | null |
 | 2026-08-07 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech-ipa) | null |
 | 2026-08-06 | ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech | ghananlpcommunity | [🤗](https://huggingface.co/datasets/ghananlpcommunity/Ghana_English-Twi_Code-switching_Speech) | null |

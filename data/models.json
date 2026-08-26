@@ -2207,5 +2207,28 @@
       "tensorboard",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_notmax123/magpie_tts_multilingual_357m-he",
+    "title": "notmax123/magpie_tts_multilingual_357m-he",
+    "authors": "",
+    "published": "2026-08-25",
+    "pdf": "https://huggingface.co/notmax123/magpie_tts_multilingual_357m-he",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "nemo",
+      "text-to-speech",
+      "tts",
+      "hebrew",
+      "ipa",
+      "magpie",
+      "he",
+      "base_model:nvidia/magpie_tts_multilingual_357m"
+    ]
   }
 ]

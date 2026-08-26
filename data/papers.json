@@ -96406,5 +96406,70 @@
     "date_added": "2026-08-25",
     "is_tamil": false,
     "is_low_res": false
+  },
+  {
+    "id": "2608.24707",
+    "title": "Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts",
+    "authors": "Meruyert Aristombayeva, Jason S. Lucas, Chaewan Chun et al.",
+    "published": "2026-08-25",
+    "pdf": "https://arxiv.org/abs/2608.24707",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "While text-based hallucination detection has been extensively studied, spoken hallucination detection remains largely unexplored, particularly for low-resource languages. We present the first multilingual spoken hallucination benchmark comprising 12,013 news samples across English, Russian, and Kazakh with controlled hallucinations of three types and three severity levels. Samples comprise original articles and aligned hallucinated counterparts in text and audio. We complement the synthetic corpus with 290 fact-checked fake news items collected natively in Russian (225) and Kazakh (65), translated into the other language and rendered through the same TTS-ASR pipeline. We assess fine-tuned multilingual encoders and, in zero-shot in-context settings, multimodal decoder models on transcript-b",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2608.24168",
+    "title": "FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation",
+    "authors": "Junjie Li, Xuelong Geng, Kun Xie et al.",
+    "published": "2026-08-25",
+    "pdf": "https://arxiv.org/abs/2608.24168",
+    "code": "https://github.com/FireRedTeam/FireRedAudio.",
+    "type": "Paper",
+    "abstract": "A unified audio model must recognize and understand linguistic, paralinguistic, and environmental information while supporting speech synthesis and editing. A key challenge is representation: understanding favors compact features suited to long-context modeling, whereas speech generation requires reconstructible features that preserve fine-grained acoustic detail. We introduce FireRedAudio, a general-purpose audio language model with a shared 9B-parameter LLM. To the best of our knowledge, it is the first publicly disclosed unified audio-language model to provide separate continuous input representations for understanding and generation within a single trainable autoregressive LLM. Audio to be recognized or analyzed is processed by a dedicated Audio Encoder, while speech inputs for generat",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2608.24163",
+    "title": "Preference Optimization for Non-Verbal Vocalization Synthesis",
+    "authors": "Haoyang Li, Chenglin Xu, Junchuan Zhao et al.",
+    "published": "2026-08-25",
+    "pdf": "https://arxiv.org/abs/2608.24163",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Non-verbal vocalizations (NVs), such as laughter, coughs, and sighs, are essential for expressive TTS, but the effectiveness of preference optimization for NV generation remains poorly understood. We systematically study preference optimization for NV-capable TTS, focusing on preference signals, preference-pair construction, and DPO-based optimization objectives. We formulate an NV-aware character error rate (NV-CER) by treating NV tags as distinct output symbols and computing a weighted pinyin-based CER over both verbal and non-verbal content, enabling controllable optimization of NV realization without modifying the underlying optimization algorithm. Experiments on Emilia-NV and the augmented NV-Bench covering 18 NV types reveal how different design choices affect NV realization and lexi",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2608.24160",
+    "title": "OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses",
+    "authors": "Guangzheng Hu, Ziyue Jiang, Weixu Qiao et al.",
+    "published": "2026-08-25",
+    "pdf": "https://arxiv.org/abs/2608.24160",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Multimodal understanding models that can jointly judge text-to-image (T2I), text-to-video (T2V) and text-to-speech (TTS) generation are increasingly used as \"OmniJudges\" for evaluation and automatic annotation. How reliably they understand what they score remains unclear, since existing benchmarks and training data tend to overemphasize positive examples and to conflate distinct failure modes, so a judge may score well without recognizing failures while its capability gaps stay hidden. Motivated by this, we introduce D3-Omni, a balanced and decoupled benchmark for diagnosing fine-grained multimodal understanding, covering 53 orthogonal binary dimensions (17/22/14) and 10,671 samples (3,526/1,998/5,147) across the three tasks. Rather than re-generating outputs, which may leak information ac",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false
+  },
+  {
+    "id": "2608.23791",
+    "title": "EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis",
+    "authors": "Tianchi Liu, Zeyang Song, Tianrui Wang et al.",
+    "published": "2026-08-24",
+    "pdf": "https://arxiv.org/abs/2608.23791",
+    "code": "null",
+    "type": "Paper",
+    "abstract": "Psychological research on emotion dynamics has established that human affect is a continuous, evolving process: emotions rise, decay, and transition within seconds. Current emotional text-to-speech (TTS) systems, however, condition on a single discrete label or static embedding per utterance, fundamentally misaligning with the temporal nature of affect. While recent LLM-based TTS systems may implicitly vary prosody through text understanding, such variation is neither explicitly controllable nor precise enough for targeted intra-utterance transitions. We address three challenges: (1) a multi-pass flow blending pipeline synthesizes frame-aligned transition audio, circumventing the scarcity of natural intra-utterance transitions; (2) dual-stage Valence-Arousal-Dominance (VAD) conditioning gu",
+    "date_added": "2026-08-26",
+    "is_tamil": false,
+    "is_low_res": false
   }
 ]
