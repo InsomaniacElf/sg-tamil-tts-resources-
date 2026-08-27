@@ -603,5 +603,51 @@
       "library:polars",
       "library:mlcroissant"
     ]
+  },
+  {
+    "id": "hf_dataset_Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-maya1",
+    "title": "Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-maya1",
+    "authors": "Panga-Azazia",
+    "published": "2026-08-26",
+    "pdf": "https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-maya1",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-08-27",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_dataset_Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-vv",
+    "title": "Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-vv",
+    "authors": "Panga-Azazia",
+    "published": "2026-08-26",
+    "pdf": "https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-vv",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-08-27",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "size_categories:10k<n<100k",
+      "format:parquet",
+      "format:optimized-parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant"
+    ]
   }
 ]
