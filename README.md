@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-02 &nbsp;|&nbsp; **Papers:** 7870 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-02 &nbsp;|&nbsp; **Papers:** 7886 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -77,6 +77,22 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-09-01 | A Sensor-Adaptive Incremental Learning Framework for Artifact Detection in Satellite Precipitation Data | Andres F. Monsalve, Hernan A. Moreno, Christian D. Kummerow | [2609.01514](https://arxiv.org/abs/2609.01514) | null |
 | 2026-09-01 | Defense-as-Skill: Evolving Runtime Guard Skill for Skill-Augmented Agents | Xiaofang Yang, Ziqi Miao, Dianbo Sui et al. | [2609.01487](https://arxiv.org/abs/2609.01487) | null |
 | 2026-09-01 | Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data | Gene Zhang | [2609.01525](https://arxiv.org/abs/2609.01525) | null |
+| 2026-09-01 | Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System | Penghao Wu, Haiwen Diao, Weichen Fan et al. | [2609.01607](https://arxiv.org/abs/2609.01607) | null |
+| 2026-09-01 | Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation | Himil Vasava, Ming Jiang | [2609.01604](https://arxiv.org/abs/2609.01604) | [code](https://github.com/himil-v/judge-mech) |
+| 2026-09-01 | UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture | Asees Kaur, Suzanne S. Sindi, Erica M. Rutter | [2609.01598](https://arxiv.org/abs/2609.01598) | null |
+| 2026-09-01 | Designing Proactive Thought Partners for Writing | Chao Zhang, Abe Davis, Chih-Wei Chen et al. | [2609.01588](https://arxiv.org/abs/2609.01588) | null |
+| 2026-09-01 | A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios | Sergio M. Silva, Otavio T. Remer, Gabriel E. Lima et al. | [2609.01584](https://arxiv.org/abs/2609.01584) | [code](https://github.com/UFPR-IPASP-PR/uvib-vehicle-attributes/.) |
+| 2026-09-01 | Concentration of additive functionals of Stratonovich-type | Rick Bebon, Aljaž Godec, Angelika Rohde | [2609.01581](https://arxiv.org/abs/2609.01581) | null |
+| 2026-09-01 | A Mathematical Theory of Reusable Neural Bases for Network Compression | Binshuai Wang | [2609.01550](https://arxiv.org/abs/2609.01550) | null |
+| 2026-09-01 | A Constrained Kuramoto Gradient-Flow System Can Perform High-Accuracy Finite-Time Inference | Yi Cheng, Zongli Lin | [2609.01539](https://arxiv.org/abs/2609.01539) | null |
+| 2026-09-01 | Rethinking Learnability in Offline Data-driven Optimization | Chao Qian, Chen-Guang Wang, Rong-Xi Tan et al. | [2609.01493](https://arxiv.org/abs/2609.01493) | null |
+| 2026-09-01 | Accelerating dynamic simulations of photoexcited materials and their evolution by electron-informed machine learning | Yunzhe Jia, Fankai Xie, Yunfei Bai et al. | [2609.01492](https://arxiv.org/abs/2609.01492) | null |
+| 2026-09-01 | Edge-Girth as a Structural Edge Feature for Graph Neural Networks | Lilian Marey, Charlotte Laclau | [2609.01441](https://arxiv.org/abs/2609.01441) | null |
+| 2026-09-01 | Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks | Mehrdad Shafiei Dizaji, Hoda Azari | [2609.01417](https://arxiv.org/abs/2609.01417) | null |
+| 2026-09-01 | VerTox: Verifiable Reward-Guided Corpus Poisoning Against Neural Ranking Models | Zhiqi Huang, Vivek Datla, Zhichao Xu et al. | [2609.01325](https://arxiv.org/abs/2609.01325) | null |
+| 2026-09-01 | MeshSplatBench: A Unified Benchmark for Triangle-Based Neural Rendering | Kaixuan Zhang, Minxian Li, Mingwu Ren et al. | [2609.01306](https://arxiv.org/abs/2609.01306) | null |
+| 2026-09-01 | Agentic Multimodal Models for Environmental Hyperspectral Unmixing | Michał Cholewa, Luca Ciampi, Nicola Messina et al. | [2609.01289](https://arxiv.org/abs/2609.01289) | null |
+| 2026-09-01 | Explore More, Drift Less: Outcome-Only Reinforcement Learning Can Suffice for Long-Horizon Interactive Agents | Liming Pu, Xiaoxia Li, Yifu Liu et al. | [2609.01245](https://arxiv.org/abs/2609.01245) | [code](https://github.com/AlibabaResearch/SignalCoverageRL.) |
 | 2026-08-31 | SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology | Y. Omori, W. L. K. Wu, Y. Nakato et al. | [2608.31136](https://arxiv.org/abs/2608.31136) | null |
 | 2026-08-31 | When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models | Joonyong Park, Jerry Li | [2608.31035](https://arxiv.org/abs/2608.31035) | null |
 | 2026-08-31 | Clock-Gating Insertion Strategies on an Open-Source MSP430 Core: A Reproducible PPA Study and a Gate-Level Simulation Caveat | Xingran Huang, Qiming Guo, Jinwen Tang et al. | [2608.30954](https://arxiv.org/abs/2608.30954) | [code](https://github.com/yanyana117/openmsp430-low-power-study-full) |
