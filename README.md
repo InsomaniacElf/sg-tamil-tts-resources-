@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-03 &nbsp;|&nbsp; **Papers:** 7947 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-03 &nbsp;|&nbsp; **Papers:** 7951 &nbsp;|&nbsp; **Repos:** 68 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -71,6 +71,10 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-09-02 | Copula Transformations for Data-Consistent Inversion | Troy Butler, Tianyi Jiang, João Silva et al. | [2609.02832](https://arxiv.org/abs/2609.02832) | null |
 | 2026-09-02 | Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts | Samir Abou Haidar, Alexandre Chariot, Mehdi Darouich et al. | [2609.02830](https://arxiv.org/abs/2609.02830) | null |
 | 2026-09-02 | Quantitative explosion and percolation of the divisible sandpile | Ahmed Bou-Rabee, Christoforos Panagiotis | [2609.02829](https://arxiv.org/abs/2609.02829) | null |
+| 2026-09-02 | DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation | Vasileios Baltatzis, Mert Inan, Connor Gillis et al. | [2609.02796](https://arxiv.org/abs/2609.02796) | null |
+| 2026-09-02 | Sharp convergence rates for the vanishing discount problem with hyperbolic Aubry sets | Panrui Ni | [2609.02779](https://arxiv.org/abs/2609.02779) | null |
+| 2026-09-02 | Do Tabular Foundation Models Know Physics? Contamination, Units, and the Deterministic Limit | Wassim Tenachi, Yashar Hezaveh, Laurence Perreault Levasseur et al. | [2609.02766](https://arxiv.org/abs/2609.02766) | null |
+| 2026-09-02 | Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems | Yihang Chen, Yuxiang Chen, Yuxuan Huang et al. | [2609.02750](https://arxiv.org/abs/2609.02750) | [code](https://github.com/YihangChen9/Bilevel-Coordinated-Reflection) |
 | 2026-09-01 | Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation | Thibaut Thonet, Jos Rozen, Laurent Besacier | [2609.01246](https://arxiv.org/abs/2609.01246) | null |
 | 2026-09-01 | Projection-based low-rank assembly in IgA | Tom-Christian Riemer, Martin Stoll | [2609.01218](https://arxiv.org/abs/2609.01218) | null |
 | 2026-09-01 | SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation | Ziyun Qian, Zizhi Chen, Yizhou Liu et al. | [2609.01582](https://arxiv.org/abs/2609.01582) | null |

@@ -2230,5 +2230,27 @@
       "he",
       "base_model:nvidia/magpie_tts_multilingual_357m"
     ]
+  },
+  {
+    "id": "hf_model_willwade/mms-tts-multilingual-models-onnx",
+    "title": "willwade/mms-tts-multilingual-models-onnx",
+    "authors": "",
+    "published": "2026-09-03",
+    "pdf": "https://huggingface.co/willwade/mms-tts-multilingual-models-onnx",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-03",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "onnx",
+      "text-to-speech",
+      "mms",
+      "vits",
+      "text-to-speech",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ]
   }
 ]
