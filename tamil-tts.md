@@ -2,7 +2,7 @@
 
 All entries are **distilled from the main list** using Gemini LLM (title + abstract) — not just keyword matching. Papers can appear in both [README.md](README.md) and here.
 
-**Updated:** 2026-09-05 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 25 &nbsp;|&nbsp; **Tamil datasets:** 14
+**Updated:** 2026-09-05 &nbsp;|&nbsp; **Tamil papers:** 4 &nbsp;|&nbsp; **Low-resource papers:** 282 &nbsp;|&nbsp; **Tamil models:** 26 &nbsp;|&nbsp; **Tamil datasets:** 14
 
 ---
 
@@ -313,6 +313,7 @@ All entries are **distilled from the main list** using Gemini LLM (title + abstr
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
 | 2026-09-05 | prasadvittaldev/pocket-tts-tamil-onnx-int4 |  | [🤗](https://huggingface.co/prasadvittaldev/pocket-tts-tamil-onnx-int4) | null |
+| 2026-09-05 | prasadvittaldev/pocket-tts-tamil-female-audiobook |  | [🤗](https://huggingface.co/prasadvittaldev/pocket-tts-tamil-female-audiobook) | null |
 | 2026-08-17 | Khon198/indictts-deepfake-detector |  | [🤗](https://huggingface.co/Khon198/indictts-deepfake-detector) | null |
 | 2026-05-29 | massmani7088/text_to_speech_ai_tamil |  | [🤗](https://huggingface.co/massmani7088/text_to_speech_ai_tamil) | null |
 | 2026-05-22 | multilingual-tts/EveryVoice-OpenBible-Tamil |  | [🤗](https://huggingface.co/multilingual-tts/EveryVoice-OpenBible-Tamil) | null |
