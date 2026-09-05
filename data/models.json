@@ -2252,5 +2252,28 @@
       "license:cc-by-nc-4.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_prasadvittaldev/pocket-tts-tamil-onnx-int4",
+    "title": "prasadvittaldev/pocket-tts-tamil-onnx-int4",
+    "authors": "",
+    "published": "2026-09-05",
+    "pdf": "https://huggingface.co/prasadvittaldev/pocket-tts-tamil-onnx-int4",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-05",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "onnx",
+      "text-to-speech",
+      "tts",
+      "int4",
+      "quantized",
+      "on-device",
+      "browser",
+      "webassembly"
+    ]
   }
 ]
