@@ -1018,5 +1018,20 @@
     "is_low_res": true,
     "_stars": 19,
     "_desc": "voicetut-tts is an egyptian-arabic text-to-speech system fine-tuned from omnivoice on ~380 hours of egyptian podcast speech. it produces natural egyptian speech with seamless arabic ↔ english code-swi"
+  },
+  {
+    "id": "github_OpenMOSS/MOSS-TTS",
+    "title": "OpenMOSS/MOSS-TTS",
+    "authors": "OpenMOSS",
+    "published": "2026-09-06",
+    "pdf": "null",
+    "code": "https://github.com/OpenMOSS/MOSS-TTS",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-09-06",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_stars": 4066,
+    "_desc": "an open-source model family for long-form speech, dialogue synthesis, voice design, sound effects, and real-time streaming tts"
   }
 ]
