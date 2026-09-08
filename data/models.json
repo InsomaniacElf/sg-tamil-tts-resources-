@@ -2298,5 +2298,28 @@
       "cpu",
       "on-device"
     ]
+  },
+  {
+    "id": "hf_model_himalaya-ai/indic-parler-tts-nepali-finetuned-dgx-v2.0-cosine",
+    "title": "himalaya-ai/indic-parler-tts-nepali-finetuned-dgx-v2.0-cosine",
+    "authors": "",
+    "published": "2026-09-08",
+    "pdf": "https://huggingface.co/himalaya-ai/indic-parler-tts-nepali-finetuned-dgx-v2.0-cosine",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-08",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "parler-tts",
+      "safetensors",
+      "parler_tts",
+      "text-to-speech",
+      "nepali",
+      "finetuned",
+      "negative-results",
+      "ne"
+    ]
   }
 ]
