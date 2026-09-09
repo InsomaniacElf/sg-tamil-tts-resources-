@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-09-09 &nbsp;|&nbsp; **TTS:** 24 &nbsp;|&nbsp; **Low-resource:** 12 &nbsp;|&nbsp; **Tamil:** 33
+**Updated:** 2026-09-09 &nbsp;|&nbsp; **TTS:** 24 &nbsp;|&nbsp; **Low-resource:** 12 &nbsp;|&nbsp; **Tamil:** 34
 
 ---
 
@@ -62,6 +62,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-09 | santhosh-005/tamil-eot | santhosh-005 | null | [repo](https://github.com/santhosh-005/tamil-eot) ⭐2 |
 | 2026-07-24 | DINAKAR-S/voice-agent-starter-kit | DINAKAR-S | null | [repo](https://github.com/DINAKAR-S/voice-agent-starter-kit) ⭐9 |
 | 2026-06-18 | aaivu/KuralHub | aaivu | null | [repo](https://github.com/aaivu/KuralHub) ⭐2 |
 | 2026-06-01 | InsomaniacElf/sg-tamil-tts-resources- | InsomaniacElf | null | [repo](https://github.com/InsomaniacElf/sg-tamil-tts-resources-) |

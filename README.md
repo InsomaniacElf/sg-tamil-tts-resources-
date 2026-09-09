@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-09 &nbsp;|&nbsp; **Papers:** 8192 &nbsp;|&nbsp; **Repos:** 69 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-09 &nbsp;|&nbsp; **Papers:** 8192 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -8210,6 +8210,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-09 | santhosh-005/tamil-eot | santhosh-005 | null | [repo](https://github.com/santhosh-005/tamil-eot) ⭐2 |
 | 2026-09-06 | OpenMOSS/MOSS-TTS | OpenMOSS | null | [repo](https://github.com/OpenMOSS/MOSS-TTS) ⭐4066 |
 | 2026-08-11 | debpalash/VoiceStudio | debpalash | null | [repo](https://github.com/debpalash/VoiceStudio) ⭐9834 |
 | 2026-07-24 | DINAKAR-S/voice-agent-starter-kit | DINAKAR-S | null | [repo](https://github.com/DINAKAR-S/voice-agent-starter-kit) ⭐9 |

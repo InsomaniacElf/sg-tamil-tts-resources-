@@ -1033,5 +1033,20 @@
     "is_low_res": false,
     "_stars": 4066,
     "_desc": "an open-source model family for long-form speech, dialogue synthesis, voice design, sound effects, and real-time streaming tts"
+  },
+  {
+    "id": "github_santhosh-005/tamil-eot",
+    "title": "santhosh-005/tamil-eot",
+    "authors": "santhosh-005",
+    "published": "2026-09-09",
+    "pdf": "null",
+    "code": "https://github.com/santhosh-005/tamil-eot",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-09-09",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_stars": 2,
+    "_desc": "the first open dataset and model for semantic end-of-turn detection in tamil speech"
   }
 ]
