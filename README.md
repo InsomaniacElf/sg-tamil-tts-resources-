@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-09 &nbsp;|&nbsp; **Papers:** 8192 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-10 &nbsp;|&nbsp; **Papers:** 8279 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,90 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-09 | Field quantization in rotating frames: coordinate covariance and the circular-detector response | Sidney Natzuka Junior, Carlos Augusto Domingues Zarro, Matheus dos Santos Soares | [2609.10390](https://arxiv.org/abs/2609.10390) | null |
+| 2026-09-09 | Seeing the Voice, Preserving the Self: A Participatory Design Approach to Deaf-Centric Text-to-Speech | Shela Atemnkeng, Patrick Boudreault, Paige DeVries et al. | [2609.10199](https://arxiv.org/abs/2609.10199) | null |
+| 2026-09-09 | Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS | Georgios Syllas, Efthymios Georgiou, Kosmas Kritsis et al. | [2609.10022](https://arxiv.org/abs/2609.10022) | null |
+| 2026-09-09 | Global well-posedness for the derivative nonlinear Schrödinger equation on the circle | Hajer Bahouri, Galina Perelman | [2609.10005](https://arxiv.org/abs/2609.10005) | null |
+| 2026-09-09 | SphereVAE: Hyperspherical Latent Autoencoders for Robust Autoregressive Speech Representation Modeling | Haoyu Zhang, Jingbin Hu, Hanke Xie et al. | [2609.09903](https://arxiv.org/abs/2609.09903) | null |
+| 2026-09-09 | X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS | Zehan Liu, Carl Chen, Rime Wen et al. | [2609.09677](https://arxiv.org/abs/2609.09677) | [code](https://github.com/X-Square-Robot/X2Streaming-TTS.) |
+| 2026-09-09 | Differential Stochastic Simulated Annealing Processor for Fully Connected 2048-Spin Optimization | Naoya Onizawa, Md Mohaimenul Alam, Sean Smithson et al. | [2609.09559](https://arxiv.org/abs/2609.09559) | null |
+| 2026-09-09 | Phase transitions in first-detection statistics of monitored long-range quantum walks | Sayan Roy, Shamik Gupta, Giovanna Morigi et al. | [2609.10510](https://arxiv.org/abs/2609.10510) | null |
+| 2026-09-09 | Phoneme-Aware Pronunciation Representations for L2-English L1-Background Accent Identification | Yangyang Qu, Massimiliano Todisco, Nicholas Evans | [2609.10466](https://arxiv.org/abs/2609.10466) | null |
+| 2026-09-09 | MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues | Zeyu Ling, Di Kang, Qing Shuai et al. | [2609.10457](https://arxiv.org/abs/2609.10457) | null |
+| 2026-09-09 | ConvMem: Convolutional Memory for Long-Context Reasoning | Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al. | [2609.10441](https://arxiv.org/abs/2609.10441) | null |
+| 2026-09-09 | Do speech foundation models really learn words? | Robin Huo, Ewan Dunbar | [2609.10434](https://arxiv.org/abs/2609.10434) | null |
+| 2026-09-09 | Null String Holography, Null Strings Probe Projective Boundary of Their Target Spaces | M. M. Sheikh-Jabbari, H. Yavartanoo | [2609.10432](https://arxiv.org/abs/2609.10432) | null |
+| 2026-09-09 | Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition | Rishabh Jain, Aristeidis Papadopoulos, Zhaofeng Lin et al. | [2609.10394](https://arxiv.org/abs/2609.10394) | null |
+| 2026-09-09 | Teacher-Free Self-Distilled Consistency Trajectory Learning for Fast Speech Enhancement | Shuubham Ojha, Carol Espy-Wilson | [2609.10392](https://arxiv.org/abs/2609.10392) | null |
+| 2026-09-09 | AVSRBench: A Multi-Condition AVSR Benchmark | Rishabh Jain, Naomi Harte | [2609.10366](https://arxiv.org/abs/2609.10366) | null |
+| 2026-09-09 | OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis | Ayush Debnath, Ruelia Saha, Sudip Misra | [2609.10364](https://arxiv.org/abs/2609.10364) | null |
+| 2026-09-09 | SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination | Athanasios Tragakis, Marco Aversa, Daniela Ivanova et al. | [2609.10363](https://arxiv.org/abs/2609.10363) | null |
+| 2026-09-09 | Unifying Score and Performance for Fine-Grained Music Understanding in Audio-Language Models | Milan Liessens Dujardin, Song-Ze Yu, Kevin Miao | [2609.10351](https://arxiv.org/abs/2609.10351) | null |
+| 2026-09-09 | View-Structured Conformal Prediction for 3D Gaussian Splatting | Junzheng Chu, Bin Pan, Zhenwei Shi | [2609.10307](https://arxiv.org/abs/2609.10307) | null |
+| 2026-09-09 | SynThermFace: Amplifying Limited Paired Data for Visible-Thermal Face Recognition via Synthetic Data Generation | Anjith George, Adam Unal, Sebastien Marcel | [2609.10303](https://arxiv.org/abs/2609.10303) | null |
+| 2026-09-09 | The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding | Gilad D. Landau, Dulhan Jayalath, Oiwi Parker Jones | [2609.10296](https://arxiv.org/abs/2609.10296) | null |
+| 2026-09-09 | A-JIT: Agentic Just-In-Time Software Construction | Mark Marron, Earl T. Barr | [2609.10248](https://arxiv.org/abs/2609.10248) | null |
+| 2026-09-09 | Multiparameter quantum bounds for entanglement-assisted aperture synthesis | Kalaga Madhav, Pieter Kok, Nic Scott | [2609.10111](https://arxiv.org/abs/2609.10111) | null |
+| 2026-09-09 | Distributed and Private Textual Data Synthesis from Embeddings | Ergute Bao, Hongyan Chang, Ali Shahin Shamsabadi et al. | [2609.10104](https://arxiv.org/abs/2609.10104) | null |
+| 2026-09-09 | A Systematic Evaluation of Molecule Generation Models for De Novo Drug Design: From Benchmarks to Practical Insights | Xinrui Xu, Xueer Wang, Dan Luo et al. | [2609.10099](https://arxiv.org/abs/2609.10099) | [code](https://github.com/JacklinGroup/molecule-generation-review.) |
+| 2026-09-09 | LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting | Donghun Ryu, Minhyeok Lee | [2609.10095](https://arxiv.org/abs/2609.10095) | null |
+| 2026-09-09 | Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations | Soumyadeep Roy | [2609.10051](https://arxiv.org/abs/2609.10051) | null |
+| 2026-09-09 | Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems | Isaac Tesfaye, Giandomenico Palumbo | [2609.10541](https://arxiv.org/abs/2609.10541) | null |
+| 2026-09-09 | Programmable World Model | Zheng-Hui Huang, Guixu Lin, Jiacheng Lin et al. | [2609.10540](https://arxiv.org/abs/2609.10540) | [code](https://github.com/AlayaLab/pwm) |
+| 2026-09-09 | IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications | Yiling Ma, Yilun Zhao, Sihong Wu et al. | [2609.10539](https://arxiv.org/abs/2609.10539) | null |
+| 2026-09-09 | Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning | Yiwei Fang, Yichen Liu, Ze Jin et al. | [2609.10537](https://arxiv.org/abs/2609.10537) | null |
+| 2026-09-09 | For Whom Does Bell Hold? | Daniel Green, Kshitij Gupta, Qiya Zhang | [2609.10535](https://arxiv.org/abs/2609.10535) | null |
+| 2026-09-09 | Likelihood-free inference with nuisance parameters through normalizing flows | Phil Assheton | [2609.10534](https://arxiv.org/abs/2609.10534) | [code](https://github.com/philassheton/NeuralCIs) |
+| 2026-09-09 | Noether Symmetries Generate Deterministic Energy-Harvesting Protocols | Ali Akil, M. Hamed Mohammady, Zihan Wang et al. | [2609.10533](https://arxiv.org/abs/2609.10533) | null |
+| 2026-09-09 | The kinematics of tadpole galaxies at intermediate redshift $z \sim 0.4 - 1.5$ | Manish Kataria, Kanak Saha, Bruce Elmegreen | [2609.10532](https://arxiv.org/abs/2609.10532) | null |
+| 2026-09-09 | Guiding Image-to-3D Generation with Test-Time Partial Observations | Jerred Chen, Simon Weber, Ronald Clark | [2609.10531](https://arxiv.org/abs/2609.10531) | null |
+| 2026-09-09 | Irreducibility of truncations of the Catalan generating function | Shin-ichiro Seki | [2609.10526](https://arxiv.org/abs/2609.10526) | null |
+| 2026-09-09 | Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs | Saurabh Sihag, Andrea Cavallo, Elvin Isufi et al. | [2609.10490](https://arxiv.org/abs/2609.10490) | null |
+| 2026-09-09 | Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems | Ian C. Guzmán, Radu Babiceanu, Berker Peköz | [2609.10479](https://arxiv.org/abs/2609.10479) | null |
+| 2026-09-09 | Beyond the BLUE I: the advantage ceiling - how much can any estimator beat the matched filter in mm/submm survey data? | Kaustuv Basu | [2609.10475](https://arxiv.org/abs/2609.10475) | null |
+| 2026-09-09 | Coherent advantage in the computational expressivity of excitonic networks | Matthew Du, Carlos Floyd, Dipti Jasrasaria et al. | [2609.10448](https://arxiv.org/abs/2609.10448) | null |
+| 2026-09-09 | A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram | Alexis D. Plascencia | [2609.10299](https://arxiv.org/abs/2609.10299) | null |
+| 2026-09-09 | Training Trajectories Determine Circuit Removability in Annealable Soft-Prior Transformers | Zonglin Yang, Ziming Zhao, Wei Tang et al. | [2609.10287](https://arxiv.org/abs/2609.10287) | null |
+| 2026-09-09 | Structural Fusion of Bayesian Networks with Limited Treewidth Using Genetic Algorithms | Pablo Torrijos, José A. Gámez, José M. Puerta | [2609.10276](https://arxiv.org/abs/2609.10276) | null |
+| 2026-09-09 | Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning | Mehrnaz Mofakhami, Ananya Sahu, Alejandro R. Salamanca et al. | [2609.10445](https://arxiv.org/abs/2609.10445) | null |
+| 2026-09-09 | YallaMorph: A Benchmark for Evaluating Arabic Morphological Generation in Large Language Models | Mahmoud Reda, Salam Khalifa, Reham Marzouk et al. | [2609.10153](https://arxiv.org/abs/2609.10153) | null |
+| 2026-09-09 | Orukeet: Multilingual ASR with Frozen Gabor Kernels | Nathan Roll, Irene Yi, Büşra Marşan et al. | [2609.10054](https://arxiv.org/abs/2609.10054) | [code](https://github.com/Oruk-AI/orukeet) |
+| 2026-09-09 | Multi-Functional Embedding Models for Funder Name Disambiguation in Scientific Publication Records | Kanyao Han, Zhiwen You, Jinseok Kim et al. | [2609.09984](https://arxiv.org/abs/2609.09984) | null |
+| 2026-09-09 | Towards Stress-Aware Sentence-Level Filipino G2P With Weakly-Supervised ByT5 Fine-Tuning | Lorenz Bernard Marqueses, Paulo Grane Gabriel Silva, Chastine Cabatay et al. | [2609.09974](https://arxiv.org/abs/2609.09974) | null |
+| 2026-09-09 | 5-Dialects-BN: Unmasking the Impact of Transliteration on Bangla Dialectal LLMs | Md Mahir Jawad, Galib Mahmud Jim, Rafid Ahmed et al. | [2609.09964](https://arxiv.org/abs/2609.09964) | null |
+| 2026-09-09 | Show-Harness: Just a VLM Agent Can Play Robots | Yanzhe Chen, Zechen Bai, Zhijun Cao et al. | [2609.10522](https://arxiv.org/abs/2609.10522) | null |
+| 2026-09-09 | DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation | Nisarga Nilavadi, Ralf Römer, Moritz Reuss et al. | [2609.10506](https://arxiv.org/abs/2609.10506) | null |
+| 2026-09-09 | Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization | Andy Zeyi Liu, Haoran Sun, Lucas Baker et al. | [2609.10464](https://arxiv.org/abs/2609.10464) | null |
+| 2026-09-09 | On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data | Hongyuan Zhang, Xianda Guo, Yanlun Peng et al. | [2609.10321](https://arxiv.org/abs/2609.10321) | null |
+| 2026-09-09 | Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain | Junnosuke Kamohara, Feiyang Wu, Andy Ningan Zong et al. | [2609.10286](https://arxiv.org/abs/2609.10286) | null |
+| 2026-09-09 | Two-Token Features and Small-Large Ensembles for VLM Hallucination Detection | Eli Schwartz | [2609.10244](https://arxiv.org/abs/2609.10244) | null |
+| 2026-09-09 | Assembling Two Parts in One Hand | Liuao Pei, Tianyue Wu, Hui Zhang et al. | [2609.10137](https://arxiv.org/abs/2609.10137) | null |
+| 2026-09-09 | A statistical approach to bias in zero-shot learning: the lens of handwriting recognition | Clarence Chew, Gim Siang Chia, Sukalpa Chanda et al. | [2609.10084](https://arxiv.org/abs/2609.10084) | null |
+| 2026-09-09 | Improving Cross-Lingual Token Representations by Adding a Pinch of SALT | Guillem Ramírez | [2609.09953](https://arxiv.org/abs/2609.09953) | null |
+| 2026-09-09 | Mobility Information Capacity in the Sky: A Gaussian Channel Perspective | Weijie Yuan, Fan Liu, Shuangyang Li et al. | [2609.10436](https://arxiv.org/abs/2609.10436) | null |
+| 2026-09-09 | Performance Comparison of the Nonlinear Curvature and Shack-Hartmann Wavefront Sensors in Strong Turbulence | Sam J. Potier, Arlene J. Aleman, Justin R. Crepp et al. | [2609.10536](https://arxiv.org/abs/2609.10536) | null |
+| 2026-09-09 | BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models | Junfeng Xia, Wenhao Ye, Junxiang Zhang et al. | [2609.10518](https://arxiv.org/abs/2609.10518) | null |
+| 2026-09-09 | Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements | Ashwin Nayak, Xingyu Zhou | [2609.10514](https://arxiv.org/abs/2609.10514) | null |
+| 2026-09-09 | Can Elastic Neutrino Scattering Account for the LZ230616 Event? | Ayan Chattaraj, Anirban Majumdar, Dimitrios K. Papoulias et al. | [2609.10504](https://arxiv.org/abs/2609.10504) | null |
+| 2026-09-09 | Phonon-Bottleneck-Governed Ultrafast Hot-Carrier Super-Diffusion in Transition Metal Dichalcogenides | Yuwei Zhang, Dongyang Wan, Tao Zhou et al. | [2609.10500](https://arxiv.org/abs/2609.10500) | null |
+| 2026-09-09 | Dynamic Reduced-Order Data Assimilation from Sparse Velocity Measurements | Mauricio Portilla, Felipe Galarce, Ernesto Castillo et al. | [2609.10497](https://arxiv.org/abs/2609.10497) | null |
+| 2026-09-09 | Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation | Siddharth Gupta, Jitin Singla | [2609.10495](https://arxiv.org/abs/2609.10495) | null |
+| 2026-09-09 | AgroVisNet: A lightweight Convolutional Network and the BD-PlantDX Expert-Validated Benchmark for Radish, Potato and Pointed Gourd Disease Classification | Md. Abdullah Mandal, Saad Ahmed, Md. Khalid Syfullah | [2609.10469](https://arxiv.org/abs/2609.10469) | null |
+| 2026-09-09 | Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs | Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi | [2609.10355](https://arxiv.org/abs/2609.10355) | [code](https://github.com/momentslab/awesome-efficient-videollm.) |
+| 2026-09-09 | Ensembling LLMs for AI-Augmented Cybersecurity Software Requirements Generation | Santiago Perez-Acuna, Yod-Samuel Martín, Juan C. Yelmo | [2609.10316](https://arxiv.org/abs/2609.10316) | null |
+| 2026-09-09 | Shaping Delay-Doppler Ambiguity in Practical OFDM-ISAC | Cheng Luo, Luping Xiang, Kun Yang | [2609.10300](https://arxiv.org/abs/2609.10300) | null |
+| 2026-09-09 | Finite-Particle Quantum Reduction of Thermodynamic Irreversibility | Borhan Ahmadi | [2609.10211](https://arxiv.org/abs/2609.10211) | null |
+| 2026-09-09 | Who Argues What? Joint Argument-Entity Detection and Classification in Political Debates | Lucio La Cava, Stefano Francesco Monea, Sergio Greco | [2609.10192](https://arxiv.org/abs/2609.10192) | null |
+| 2026-09-09 | From Laboratory Aging Studies to Field Predictions: Quantifying Uncertainty in Battery Storage Lifetime Predictions | Melina Graner, Jan Figgener, Andreas Jossen et al. | [2609.10185](https://arxiv.org/abs/2609.10185) | null |
+| 2026-09-09 | Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation | Sudaksh Kalra, Dolly Sapra | [2609.10018](https://arxiv.org/abs/2609.10018) | [code](https://github.com/sudaksh14/Elastoformer.) |
+| 2026-09-09 | An Efficient and Effective Agentic Group Shilling Attack on Recommender Systems | Quoc Viet Nguyen, Trinh Pham, Viet Huynh et al. | [2609.09551](https://arxiv.org/abs/2609.09551) | [code](https://github.com/phkhanhtrinh23/AGAS.) |
+| 2026-09-09 | Source-Adaptive Data Curation for Bilingual NVV-Aware ASR | Yuang Cao, Qirui Zhan, Jingbin Hu et al. | [2609.09929](https://arxiv.org/abs/2609.09929) | null |
+| 2026-09-09 | Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs | Suman Raj, Hai Duc Nguyen, Haochen Pan et al. | [2609.10509](https://arxiv.org/abs/2609.10509) | null |
+| 2026-09-09 | Testing the Binary Rank with Polynomial Query Complexity | Michal Parnas | [2609.10496](https://arxiv.org/abs/2609.10496) | null |
+| 2026-09-09 | The U.S. Interconnection Queue System: Cascading Vulnerability Analysis and a Resilience Engineering Framework | Zahra Heidari | [2609.10455](https://arxiv.org/abs/2609.10455) | null |
+| 2026-09-09 | Robust Continuous Human Activity Recognition Using Deep Learning and Distributed Radar Sensors | Sohani Munteha Hiam, Mohammad Soleymani | [2609.10419](https://arxiv.org/abs/2609.10419) | null |
+| 2026-09-09 | WannierNLQG: A Julia package for nonlinear optical responses and quantum geometry from Wannier tight-binding models | Zhuocheng Lu, Zhichao Guo, Yuanyuan Xua et al. | [2609.10411](https://arxiv.org/abs/2609.10411) | null |
+| 2026-09-09 | Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation | Nada Esmaeil, Fathima Rena, Sibi Subhash et al. | [2609.10395](https://arxiv.org/abs/2609.10395) | null |
 | 2026-09-08 | TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization | Nikolaos Triantafyllou, Andrei Mesinger, Steven Murray et al. | [2609.09102](https://arxiv.org/abs/2609.09102) | null |
 | 2026-09-08 | Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering | Yizhong Geng, Kecan Mao, Qifei Li et al. | [2609.08204](https://arxiv.org/abs/2609.08204) | null |
 | 2026-09-08 | Studying Image Tokenizers as Visual Languages in Unified Multimodal Models | Siting Li, Zhengyang Wang, Simon Shaolei Du et al. | [2609.09143](https://arxiv.org/abs/2609.09143) | null |
@@ -85,6 +169,9 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-09-08 | Pathwise Global-in-Time Existence for the generalised KPZ Equation in the Full Subcritical Regime | Jonas Sauer, Rhys Steele | [2609.09096](https://arxiv.org/abs/2609.09096) | null |
 | 2026-09-08 | Measuring LLM Sycophancy under Sustained Multi-Turn Pressure | Leyuan Tang, Kangda Wei, Tianyu Jiang et al. | [2609.09090](https://arxiv.org/abs/2609.09090) | null |
 | 2026-09-08 | NRHJSur3dq8: a spectral numerical-relativity surrogate family for non-eccentric aligned-spin binary-black-hole waveforms | Vaishak Prasad | [2609.09088](https://arxiv.org/abs/2609.09088) | null |
+| 2026-09-08 | A Block Tensor Train Burer-Monteiro Framework for Low-Rank Quantum State Tomography | Shakir Showkat Sofi, Charlotte Vermeylen, Fatemeh Mohammadi et al. | [2609.09457](https://arxiv.org/abs/2609.09457) | null |
+| 2026-09-08 | Tensor-Train Weak SINDy: Identifying High-Dimensional Nonlinear Dynamics | Will Houser, Vanja Dukic, David M. Bortz | [2609.09434](https://arxiv.org/abs/2609.09434) | null |
+| 2026-09-08 | Language Orthogonalization of Self-Supervised Speech Representations for Cross-lingual Parkinson's Detection | Minu Kim, Eunjung Yeo, Kwanghee Choi et al. | [2609.09499](https://arxiv.org/abs/2609.09499) | null |
 | 2026-09-07 | Low-rank approximation of Moment Tensor Potential enables reducing training set size without loss of accuracy | Anna Bondarenko, Nikita Rybin, Maxim Rakhuba et al. | [2609.07372](https://arxiv.org/abs/2609.07372) | null |
 | 2026-09-07 | KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction | Ryuichiro Higashinaka, Shinnosuke Takamichi, Tetsuji Ogawa | [2609.07200](https://arxiv.org/abs/2609.07200) | null |
 | 2026-09-07 | Counting Representations of Quadratic Forms | Gilles Felber | [2609.07133](https://arxiv.org/abs/2609.07133) | null |
