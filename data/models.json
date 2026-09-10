@@ -2321,5 +2321,22 @@
       "negative-results",
       "ne"
     ]
+  },
+  {
+    "id": "hf_model_phosai/pocket_tts_multilingual_ft_v1",
+    "title": "phosai/pocket_tts_multilingual_ft_v1",
+    "authors": "",
+    "published": "2026-09-10",
+    "pdf": "https://huggingface.co/phosai/pocket_tts_multilingual_ft_v1",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-10",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "region:us"
+    ]
   }
 ]
