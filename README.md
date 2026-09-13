@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-13 &nbsp;|&nbsp; **Papers:** 8352 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 30 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-13 &nbsp;|&nbsp; **Papers:** 8352 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 31 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -8445,6 +8445,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-13 | ghanaopenai/Ghana_English-Twi_Code-switching_Speech | ghanaopenai | [🤗](https://huggingface.co/datasets/ghanaopenai/Ghana_English-Twi_Code-switching_Speech) | null |
 | 2026-08-26 | Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-maya1 | Panga-Azazia | [🤗](https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-maya1) | null |
 | 2026-08-26 | Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-vv | Panga-Azazia | [🤗](https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset-vv) | null |
 | 2026-08-25 | Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset | Panga-Azazia | [🤗](https://huggingface.co/datasets/Panga-Azazia/Malian-multilingual-SNAC-TTS-dataset) | null |
