@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-13 &nbsp;|&nbsp; **Papers:** 8352 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 31 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-14 &nbsp;|&nbsp; **Papers:** 8378 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 31 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,32 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-11 | ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC | Zhenfeng Gan, Yanbo Chen, Lirong Che et al. | [2609.13083](https://arxiv.org/abs/2609.13083) | null |
+| 2026-09-11 | Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes | Bilal Ahmed, Heather Cihak, Gregory Handy | [2609.13074](https://arxiv.org/abs/2609.13074) | null |
+| 2026-09-11 | Benign Loss Landscapes Can Coexist with Worst-Case Hardness | Zach Furman, Stephan Wäldchen, Yangda Bei et al. | [2609.13057](https://arxiv.org/abs/2609.13057) | null |
+| 2026-09-11 | Objective Intelligibility Prediction Using Distance Metrics on Speech Foundation Model Representations | Lyonel Behringer, Andreas Brendel | [2609.13046](https://arxiv.org/abs/2609.13046) | null |
+| 2026-09-11 | Physically Consistent 2D to 3D Pore Space Synthesis: 1. Dynamic Grain Packing Under Strict Morphology Constraints | Dmitry Kulygin, Andrey Ananev, Aleksey Khlyupin | [2609.13020](https://arxiv.org/abs/2609.13020) | null |
+| 2026-09-11 | TileNet: Tile-Based CNN-SVM Architecture for Autonomous Unmanned Aerial Systems Inspection of Flat Roofs | Samuel Dunthorne, Hashim A. Hashim | [2609.13013](https://arxiv.org/abs/2609.13013) | null |
+| 2026-09-11 | Reliable training of neural hyperelastic models via full-field data | Konrad Friedrichs, Franz Dammaß, Karl A. Kalina et al. | [2609.13001](https://arxiv.org/abs/2609.13001) | null |
+| 2026-09-11 | Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation | Davud Azizov, Javier Vela-Tambo, Tian Guo | [2609.12980](https://arxiv.org/abs/2609.12980) | null |
+| 2026-09-11 | End-to-End Battery Dispatch with Exact Rainflow Degradation via Mixed-Integer Differentiable Predictive Control | Eshagh Safarzadeh Ravajiri, Jan Drgona, Mahdi Mehrtash et al. | [2609.12968](https://arxiv.org/abs/2609.12968) | null |
+| 2026-09-11 | StepAudio 3 Gen Technical Report | Bin Lin, Bo Zhao, Boyang Wang et al. | [2609.12945](https://arxiv.org/abs/2609.12945) | null |
+| 2026-09-11 | Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents | Yunqi Lu, Tyler Baumgartner, Nikhil Johri et al. | [2609.13117](https://arxiv.org/abs/2609.13117) | null |
+| 2026-09-11 | MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant | Yi-Jen Shih, Shih-Yun Shan Kuan, Guan-Ting Lin et al. | [2609.13076](https://arxiv.org/abs/2609.13076) | null |
+| 2026-09-11 | Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model | Hoeun Lee, Jaeik Kim, Jusang Oh et al. | [2609.13053](https://arxiv.org/abs/2609.13053) | null |
+| 2026-09-11 | Offline Reinforcement Learning for Wind Farm Control: A Wind Tunnel Study under Dynamic Wind Directions | Yuhan Su, Hongyang Dong, Simone Tamaro et al. | [2609.12905](https://arxiv.org/abs/2609.12905) | null |
+| 2026-09-11 | UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction | Xinqiang Yu, Zekun qi, Jiawei He et al. | [2609.12898](https://arxiv.org/abs/2609.12898) | null |
+| 2026-09-11 | DuplexDrama: A Synthesized Dialogue Dataset with Scenarios, Full-Duplex Behaviors, Expressive Speech, and Sound Events | Qingxiang Guo, Wenke Fan, Shuofeng Zhao et al. | [2609.12872](https://arxiv.org/abs/2609.12872) | null |
+| 2026-09-11 | Very Exciting: Zero-Shot Model Predictive Control of Buildings via Excitation-Based Generalized Transfer Learning Models | Fabian Raisch, Felix Koch, Zack Xuereb Conti et al. | [2609.12853](https://arxiv.org/abs/2609.12853) | null |
+| 2026-09-11 | A Device to Control and Manipulate Occlusion Effects for Own Voice Perception Studies | Rouben Rehman, Simon Kersten, Aron Schliep et al. | [2609.12845](https://arxiv.org/abs/2609.12845) | null |
+| 2026-09-11 | SWARM: A Multilingual Human-Annotated Dataset for Russian Propaganda Detection in Search Engine Results | Manuel Tonneau, Abhinav Dubey, Farhan Shaikh et al. | [2609.12653](https://arxiv.org/abs/2609.12653) | null |
+| 2026-09-11 | Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction | Baoyang Jiang, Fengchun Zhang, Leyuan Wang et al. | [2609.13082](https://arxiv.org/abs/2609.13082) | null |
+| 2026-09-11 | Diffusion Models and Concept Formation | Zekun Wang, Karthik Singaravadivelan, Christopher J. MacLellan | [2609.13047](https://arxiv.org/abs/2609.13047) | null |
+| 2026-09-11 | Kraken: LLM-based Speech-to-Speech Translation via Low-bitrate VQ and Dual-path Source Conditioning | Hayato Futami, Hassan Shahmohammadi, Tushar Dhyani et al. | [2609.13045](https://arxiv.org/abs/2609.13045) | null |
+| 2026-09-11 | Safe Stabilising Full-Order Affine Control Barrier Functions for Linear Systems (Extended) | Faisal Lawan, Joaquin Carrasco, Lanlan Su | [2609.12990](https://arxiv.org/abs/2609.12990) | null |
+| 2026-09-11 | PhaseGAN: High-Fidelity Vocoder via Decoupled Amplitude and GAN-Driven Phase Reconstruction | Wenzheng Zhang, Xueliang Zhang, Shulin He et al. | [2609.12918](https://arxiv.org/abs/2609.12918) | [code](https://github.com/phasegan/phasegan-audio-demo) |
+| 2026-09-11 | Where to Defend? Layer-Wise Adversarial Training for Robust Transformer-Based Semantic Communications | Maria Slim, Razane Tajeddine, Mariette Awad et al. | [2609.13128](https://arxiv.org/abs/2609.13128) | null |
+| 2026-09-11 | AlignDPO: Preference-Gated Alignment for Reducing Hallucination in Decoder-Only TTS | Xiao Zhou, Oisín Turbitt, Kit Bower-Morris et al. | [2609.12855](https://arxiv.org/abs/2609.12855) | null |
 | 2026-09-10 | Not All Attacks Are Learned Equally in Speech Deepfake Detection | Avantika Singh, Aurosweta Mahapatra, Ismail Rasim Ulgen et al. | [2609.11763](https://arxiv.org/abs/2609.11763) | null |
 | 2026-09-10 | Continuous-Time Acoustic Modelling with Neural Controlled Differential Equations | Mattias Cross, Minghui Zhao, Anton Ragni | [2609.11725](https://arxiv.org/abs/2609.11725) | null |
 | 2026-09-10 | Complex-Text Robustness Evaluation and Failure Diagnosis for Low-Resource Multilingual Text-to-Speech | Tianlun Zuo, Ziyu Zhang, Tingzhi Mao et al. | [2609.11545](https://arxiv.org/abs/2609.11545) | null |
