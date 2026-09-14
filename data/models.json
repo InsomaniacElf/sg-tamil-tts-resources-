@@ -2338,5 +2338,25 @@
       "safetensors",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_2023310197mehak/indic-tts-v1",
+    "title": "2023310197mehak/indic-tts-v1",
+    "authors": "",
+    "published": "2026-09-14",
+    "pdf": "https://huggingface.co/2023310197mehak/indic-tts-v1",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-14",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "safetensors",
+      "qwen3_tts",
+      "arxiv:2601.15621",
+      "license:apache-2.0",
+      "region:us"
+    ]
   }
 ]
