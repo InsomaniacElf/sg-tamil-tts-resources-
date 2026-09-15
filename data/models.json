@@ -2404,5 +2404,50 @@
       "cpu",
       "on-device"
     ]
+  },
+  {
+    "id": "hf_model_michsethowusu/mms-tts-multilingual-models-onnx",
+    "title": "michsethowusu/mms-tts-multilingual-models-onnx",
+    "authors": "",
+    "published": "2026-09-15",
+    "pdf": "https://huggingface.co/michsethowusu/mms-tts-multilingual-models-onnx",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-15",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "onnx",
+      "text-to-speech",
+      "mms",
+      "vits",
+      "text-to-speech",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ]
+  },
+  {
+    "id": "hf_model_pramiteeh/indian-ne-multilingual-tts",
+    "title": "pramiteeh/indian-ne-multilingual-tts",
+    "authors": "",
+    "published": "2026-09-15",
+    "pdf": "https://huggingface.co/pramiteeh/indian-ne-multilingual-tts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-15",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "text-to-speech",
+      "tts",
+      "audio",
+      "speech",
+      "speech-synthesis",
+      "vits",
+      "coqui",
+      "multilingual"
+    ]
   }
 ]
