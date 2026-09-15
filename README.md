@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-09-14 &nbsp;|&nbsp; **Papers:** 8378 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 31 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-09-15 &nbsp;|&nbsp; **Papers:** 8397 &nbsp;|&nbsp; **Repos:** 70 &nbsp;|&nbsp; **Datasets:** 31 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -13,6 +13,25 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-09-14 | Acoustic Image Source Interpolation with Optimal Transport Barycenter | Yuyang Liu, Rumeshika Pallewela, Jesper Brunnström et al. | [2609.15981](https://arxiv.org/abs/2609.15981) | null |
+| 2026-09-14 | An Open-Source Hardware and Software Toolkit to Enable Agentic RHEED-Guided Thin-Film Synthesis | Asraful Haque, Christopher M. Rouleau, Rama K. Vasudevan et al. | [2609.15922](https://arxiv.org/abs/2609.15922) | null |
+| 2026-09-14 | Finite Dependence and Invariance Hierarchies for Finitely Supported Structures | Gabriel Ciobanu | [2609.15879](https://arxiv.org/abs/2609.15879) | null |
+| 2026-09-14 | Task-Directed Residual AddUNet:Perfect-Reconstruction Routing for Full-Rate Representations | Vikram R. Lakkavalli | [2609.15857](https://arxiv.org/abs/2609.15857) | null |
+| 2026-09-14 | TRACE: Two-Stage Detector-Response Estimation With Angular Cosine Expansion for Ring Artifact Correction in Photon-Counting CT | Jigang Duan, Heran Wang, Ligen Shi et al. | [2609.15834](https://arxiv.org/abs/2609.15834) | null |
+| 2026-09-14 | Freestanding Antiferromagnetic Oxide Membranes: Synthesis and Characterization of Cr$_2$O$_3$ | Ella Blake, Tiffany C. Wang, Yi Cui et al. | [2609.15766](https://arxiv.org/abs/2609.15766) | null |
+| 2026-09-14 | Low-Depth Initial-State Preparation for Ground-State Energy Estimation of Two-Dimensional Strongly Correlated Systems | Ryo Watanabe, Keisuke Fujii | [2609.15764](https://arxiv.org/abs/2609.15764) | null |
+| 2026-09-14 | Directivity-Conditioned Low-Latency Neural Filtering for Speech Enhancement in Hearing Aids | Lennart Uphaus, André Merboldt, Markus Hofbauer et al. | [2609.15760](https://arxiv.org/abs/2609.15760) | null |
+| 2026-09-14 | Enabling Streaming User Transcription in Full-Duplex Speech-to-Speech Models | Ke Hu, Nourchene Ferchichi, Edresson Casanova et al. | [2609.15759](https://arxiv.org/abs/2609.15759) | null |
+| 2026-09-14 | Sequential Adapter Stacking for Cross-Lingual Low-Resource ASR | Thai Thi Thanh Thao Dang, Mengjie Qian, Kate Knill | [2609.15758](https://arxiv.org/abs/2609.15758) | null |
+| 2026-09-14 | Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection | Keertana Chidambaram, Andrew Ilyas, Vasilis Syrgkanis | [2609.15989](https://arxiv.org/abs/2609.15989) | null |
+| 2026-09-14 | ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids | Gechen Qu, Tong Zhang, Bike Zhang et al. | [2609.15988](https://arxiv.org/abs/2609.15988) | null |
+| 2026-09-14 | Bellman Policy Optimization | Zhuoqing Song, Haotian Xu, Xikun Zhang et al. | [2609.15987](https://arxiv.org/abs/2609.15987) | null |
+| 2026-09-14 | Inferring dark matter masses and interactions from high recoil energy events in LUX-ZEPLIN | Stefano Palmisano, Michele Tammaro, Andrea Tesi | [2609.15985](https://arxiv.org/abs/2609.15985) | null |
+| 2026-09-14 | Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science | Honghao Lin, David P. Woodruff, Yuan Deng et al. | [2609.15983](https://arxiv.org/abs/2609.15983) | null |
+| 2026-09-14 | A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models | Xingyun Wang, Haomin Zheng, Man Yuan et al. | [2609.15980](https://arxiv.org/abs/2609.15980) | null |
+| 2026-09-14 | The CAST-framework: Measure and model social media use as a multi-level phenomenon through real-world applications | David Grüning, Jasper Doeninghaus, Zina Efchary et al. | [2609.15978](https://arxiv.org/abs/2609.15978) | null |
+| 2026-09-14 | A Hardy-Space Proof of the Filter-Only Gaussian Feedback-Capacity Formula | Jun Su, Guangyue Han | [2609.15977](https://arxiv.org/abs/2609.15977) | null |
+| 2026-09-14 | Discovery Foundation Models: Toward Open-Ended Discovery Intelligence | Ling Yang, Zhenfei Yin, Yingcheng Wu | [2609.15973](https://arxiv.org/abs/2609.15973) | [code](https://github.com/Gen-Verse/DFM-Plans) |
 | 2026-09-11 | ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC | Zhenfeng Gan, Yanbo Chen, Lirong Che et al. | [2609.13083](https://arxiv.org/abs/2609.13083) | null |
 | 2026-09-11 | Stability and Wandering of Bumps in Neural Fields with Interneuron Subtypes | Bilal Ahmed, Heather Cihak, Gregory Handy | [2609.13074](https://arxiv.org/abs/2609.13074) | null |
 | 2026-09-11 | Benign Loss Landscapes Can Coexist with Worst-Case Hardness | Zach Furman, Stephan Wäldchen, Yangda Bei et al. | [2609.13057](https://arxiv.org/abs/2609.13057) | null |

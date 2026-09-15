@@ -2358,5 +2358,51 @@
       "license:apache-2.0",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_sulabhkatiyar/indian-ne-multilingual-tts",
+    "title": "sulabhkatiyar/indian-ne-multilingual-tts",
+    "authors": "",
+    "published": "2026-09-15",
+    "pdf": "https://huggingface.co/sulabhkatiyar/indian-ne-multilingual-tts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-15",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "text-to-speech",
+      "tts",
+      "audio",
+      "speech",
+      "speech-synthesis",
+      "vits",
+      "coqui",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "hf_model_prasadvittaldev/pocket-tts-indian-english-male-indictts",
+    "title": "prasadvittaldev/pocket-tts-indian-english-male-indictts",
+    "authors": "",
+    "published": "2026-09-15",
+    "pdf": "https://huggingface.co/prasadvittaldev/pocket-tts-indian-english-male-indictts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-15",
+    "is_tamil": true,
+    "is_low_res": false,
+    "_tags": [
+      "pocket-tts",
+      "safetensors",
+      "text-to-speech",
+      "tts",
+      "indian-english",
+      "indian-accent",
+      "cpu",
+      "on-device"
+    ]
   }
 ]
