@@ -2466,5 +2466,22 @@
       "text-to-speech",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_Shivlal6660/indic-tts-female",
+    "title": "Shivlal6660/indic-tts-female",
+    "authors": "",
+    "published": "2026-09-18",
+    "pdf": "https://huggingface.co/Shivlal6660/indic-tts-female",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-18",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "license:mit",
+      "region:us"
+    ]
   }
 ]
