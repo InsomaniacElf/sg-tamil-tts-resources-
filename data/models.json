@@ -2449,5 +2449,22 @@
       "coqui",
       "multilingual"
     ]
+  },
+  {
+    "id": "hf_model_espnet/transformer_tts_cmu_indic_hin_ab_finetune",
+    "title": "espnet/transformer_tts_cmu_indic_hin_ab_finetune",
+    "authors": "",
+    "published": "2026-09-18",
+    "pdf": "https://huggingface.co/espnet/transformer_tts_cmu_indic_hin_ab_finetune",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-18",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "text-to-speech",
+      "region:us"
+    ]
   }
 ]
