@@ -2505,5 +2505,26 @@
       "endpoints_compatible",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_espnet/transformer_tts_cmu_indic_hin_ab",
+    "title": "espnet/transformer_tts_cmu_indic_hin_ab",
+    "authors": "",
+    "published": "2026-09-19",
+    "pdf": "https://huggingface.co/espnet/transformer_tts_cmu_indic_hin_ab",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-20",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "espnet",
+      "audio",
+      "text-to-speech",
+      "hi",
+      "dataset:cmu_indic",
+      "region:us"
+    ]
   }
 ]
