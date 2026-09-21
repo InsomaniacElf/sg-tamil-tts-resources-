@@ -2543,5 +2543,28 @@
       "license:mit",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_ehzawad/indicf5-bangla-tts",
+    "title": "ehzawad/indicf5-bangla-tts",
+    "authors": "",
+    "published": "2026-09-21",
+    "pdf": "https://huggingface.co/ehzawad/indicf5-bangla-tts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-21",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "transformers",
+      "safetensors",
+      "inf5",
+      "feature-extraction",
+      "text-to-speech",
+      "bengali",
+      "bangla",
+      "f5-tts"
+    ]
   }
 ]
