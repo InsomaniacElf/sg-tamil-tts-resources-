@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-09-21 &nbsp;|&nbsp; **TTS:** 24 &nbsp;|&nbsp; **Low-resource:** 12 &nbsp;|&nbsp; **Tamil:** 34
+**Updated:** 2026-09-22 &nbsp;|&nbsp; **TTS:** 24 &nbsp;|&nbsp; **Low-resource:** 13 &nbsp;|&nbsp; **Tamil:** 34
 
 ---
 
@@ -46,6 +46,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 | 2026-06-24 | MohammedAly22/VoiceTuT-TTS | MohammedAly22 | null | [repo](https://github.com/MohammedAly22/VoiceTuT-TTS) ⭐19 |
 | 2026-05-24 | antor44/Audio-Transcription | antor44 | null | [repo](https://github.com/antor44/Audio-Transcription) ⭐4 |
 | 2026-05-01 | Saganaki22/ComfyUI-OmniVoice-TTS | Saganaki22 | null | [repo](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) ⭐401 |
+| 2026-04-14 | diogod2r/OmniVoice-FastAPI | diogod2r | null | [repo](https://github.com/diogod2r/OmniVoice-FastAPI) ⭐19 |
 | 2026-03-19 | aitorpazos/piper-tts-android | aitorpazos | null | [repo](https://github.com/aitorpazos/piper-tts-android) ⭐4 |
 | 2026-02-26 | mateogon/pdf-narrator | mateogon | null | [repo](https://github.com/mateogon/pdf-narrator) ⭐183 |
 | 2025-12-22 | NN-Project-2/Emotion-TTS-Emebddings | NN-Project-2 | null | [repo](https://github.com/NN-Project-2/Emotion-TTS-Emebddings) ⭐18 |

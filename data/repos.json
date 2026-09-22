@@ -1048,5 +1048,20 @@
     "is_low_res": false,
     "_stars": 2,
     "_desc": "the first open dataset and model for semantic end-of-turn detection in tamil speech"
+  },
+  {
+    "id": "github_diogod2r/OmniVoice-FastAPI",
+    "title": "diogod2r/OmniVoice-FastAPI",
+    "authors": "diogod2r",
+    "published": "2026-04-14",
+    "pdf": "null",
+    "code": "https://github.com/diogod2r/OmniVoice-FastAPI",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-09-22",
+    "is_tamil": false,
+    "is_low_res": true,
+    "_stars": 19,
+    "_desc": "dockerized fastapi wrapper for omnivoice — zero-shot tts for 600+ languages with voice cloning, voice design, and openai-compatible api. gpu & cpu support."
   }
 ]
