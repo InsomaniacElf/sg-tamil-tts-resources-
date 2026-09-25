@@ -2566,5 +2566,21 @@
       "bangla",
       "f5-tts"
     ]
+  },
+  {
+    "id": "hf_model_smajji/indic-tts-voices",
+    "title": "smajji/indic-tts-voices",
+    "authors": "",
+    "published": "2026-09-24",
+    "pdf": "https://huggingface.co/smajji/indic-tts-voices",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-25",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
