@@ -2582,5 +2582,28 @@
     "_tags": [
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_FluidInference/magpie-tts-multilingual-357m-coreml",
+    "title": "FluidInference/magpie-tts-multilingual-357m-coreml",
+    "authors": "",
+    "published": "2026-09-25",
+    "pdf": "https://huggingface.co/FluidInference/magpie-tts-multilingual-357m-coreml",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-26",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "coreml",
+      "text-to-speech",
+      "apple-silicon",
+      "magpie",
+      "en",
+      "es",
+      "de",
+      "fr"
+    ]
   }
 ]
