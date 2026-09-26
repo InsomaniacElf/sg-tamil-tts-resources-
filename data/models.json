@@ -2605,5 +2605,21 @@
       "de",
       "fr"
     ]
+  },
+  {
+    "id": "hf_model_smajji/indic-tts-release",
+    "title": "smajji/indic-tts-release",
+    "authors": "",
+    "published": "2026-09-26",
+    "pdf": "https://huggingface.co/smajji/indic-tts-release",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-09-26",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]
