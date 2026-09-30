@@ -1,8 +1,8 @@
-name: Update Resources (12h)
+name: Update Resources
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 * * *'   # 08:00 SGT daily
   workflow_dispatch:
 
 jobs:
@@ -14,10 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r .github/scripts/requirements.txt
@@ -30,8 +31,9 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md tamil-tts.md repos.md data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "12h resource update"
+          git diff --quiet && git diff --staged --quiet \
+            || git commit -m "chore: daily update $(date -u +'%Y-%m-%d')"
           git push
