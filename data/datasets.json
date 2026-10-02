@@ -741,5 +741,28 @@
       "library:mlcroissant",
       "region:us"
     ]
+  },
+  {
+    "id": "hf_dataset_Cong123779/matcha-tts-multilingual-datasets",
+    "title": "Cong123779/matcha-tts-multilingual-datasets",
+    "authors": "Cong123779",
+    "published": "2026-10-02",
+    "pdf": "https://huggingface.co/datasets/Cong123779/matcha-tts-multilingual-datasets",
+    "code": "null",
+    "type": "Dataset",
+    "abstract": "",
+    "date_added": "2026-10-02",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "task_categories:text-to-speech",
+      "language:vi",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:100k<n<1m",
+      "region:us",
+      "speech",
+      "tts"
+    ]
   }
 ]
