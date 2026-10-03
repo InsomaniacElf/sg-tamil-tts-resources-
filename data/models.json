@@ -2621,5 +2621,21 @@
     "_tags": [
       "region:us"
     ]
+  },
+  {
+    "id": "hf_model_Klewik/indic-tts-bench",
+    "title": "Klewik/indic-tts-bench",
+    "authors": "",
+    "published": "2026-10-03",
+    "pdf": "https://huggingface.co/Klewik/indic-tts-bench",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-10-03",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "region:us"
+    ]
   }
 ]

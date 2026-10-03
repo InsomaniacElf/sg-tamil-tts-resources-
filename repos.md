@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-10-03 &nbsp;|&nbsp; **TTS:** 24 &nbsp;|&nbsp; **Low-resource:** 13 &nbsp;|&nbsp; **Tamil:** 34
+**Updated:** 2026-10-03 &nbsp;|&nbsp; **TTS:** 25 &nbsp;|&nbsp; **Low-resource:** 13 &nbsp;|&nbsp; **Tamil:** 34
 
 ---
 
@@ -14,6 +14,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 |---|---|---|---|---|
 | 2026-09-06 | OpenMOSS/MOSS-TTS | OpenMOSS | null | [repo](https://github.com/OpenMOSS/MOSS-TTS) ⭐4066 |
 | 2026-08-11 | debpalash/VoiceStudio | debpalash | null | [repo](https://github.com/debpalash/VoiceStudio) ⭐9834 |
+| 2026-06-11 | ThaungThanHan/hermes-omnivoice | ThaungThanHan | null | [repo](https://github.com/ThaungThanHan/hermes-omnivoice) ⭐19 |
 | 2026-06-09 | yanorei32/discord-tts | yanorei32 | null | [repo](https://github.com/yanorei32/discord-tts) ⭐17 |
 | 2026-06-01 | debpalash/OmniVoice-Studio | debpalash | null | [repo](https://github.com/debpalash/OmniVoice-Studio) ⭐5461 |
 | 2026-06-01 | zeropointnine/tts-audiobook-tool | zeropointnine | null | [repo](https://github.com/zeropointnine/tts-audiobook-tool) ⭐131 |

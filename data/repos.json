@@ -1063,5 +1063,20 @@
     "is_low_res": true,
     "_stars": 19,
     "_desc": "dockerized fastapi wrapper for omnivoice — zero-shot tts for 600+ languages with voice cloning, voice design, and openai-compatible api. gpu & cpu support."
+  },
+  {
+    "id": "github_ThaungThanHan/hermes-omnivoice",
+    "title": "ThaungThanHan/hermes-omnivoice",
+    "authors": "ThaungThanHan",
+    "published": "2026-06-11",
+    "pdf": "null",
+    "code": "https://github.com/ThaungThanHan/hermes-omnivoice",
+    "type": "Repo",
+    "abstract": "",
+    "date_added": "2026-10-03",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_stars": 19,
+    "_desc": "omnivoice tts plugin for hermes agent"
   }
 ]

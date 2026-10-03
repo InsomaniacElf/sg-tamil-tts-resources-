@@ -2,7 +2,7 @@
 
 A curated, automatically‑updated list of papers, repositories, datasets, and articles for **Text‑to‑Speech** research — with a focus on Singapore Tamil and low-resource TTS.
 
-**Updated:** 2026-10-03 &nbsp;|&nbsp; **Papers:** 9495 &nbsp;|&nbsp; **Repos:** 71 &nbsp;|&nbsp; **Datasets:** 35 &nbsp;|&nbsp; **Articles:** 16
+**Updated:** 2026-10-03 &nbsp;|&nbsp; **Papers:** 9495 &nbsp;|&nbsp; **Repos:** 72 &nbsp;|&nbsp; **Datasets:** 35 &nbsp;|&nbsp; **Articles:** 16
 
 > 📌 Tamil-specific resources → [tamil-tts.md](tamil-tts.md)  
 > 📌 Repos by focus → [repos.md](repos.md)
@@ -9519,6 +9519,7 @@ A curated, automatically‑updated list of papers, repositories, datasets, and a
 | 2026-07-24 | DINAKAR-S/voice-agent-starter-kit | DINAKAR-S | null | [repo](https://github.com/DINAKAR-S/voice-agent-starter-kit) ⭐9 |
 | 2026-06-24 | MohammedAly22/VoiceTuT-TTS | MohammedAly22 | null | [repo](https://github.com/MohammedAly22/VoiceTuT-TTS) ⭐19 |
 | 2026-06-18 | aaivu/KuralHub | aaivu | null | [repo](https://github.com/aaivu/KuralHub) ⭐2 |
+| 2026-06-11 | ThaungThanHan/hermes-omnivoice | ThaungThanHan | null | [repo](https://github.com/ThaungThanHan/hermes-omnivoice) ⭐19 |
 | 2026-06-09 | yanorei32/discord-tts | yanorei32 | null | [repo](https://github.com/yanorei32/discord-tts) ⭐17 |
 | 2026-06-01 | InsomaniacElf/sg-tamil-tts-resources- | InsomaniacElf | null | [repo](https://github.com/InsomaniacElf/sg-tamil-tts-resources-) |
 | 2026-06-01 | debpalash/OmniVoice-Studio | debpalash | null | [repo](https://github.com/debpalash/OmniVoice-Studio) ⭐5461 |
