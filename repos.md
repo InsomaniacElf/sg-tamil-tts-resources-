@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-10-04 &nbsp;|&nbsp; **TTS:** 25 &nbsp;|&nbsp; **Low-resource:** 13 &nbsp;|&nbsp; **Tamil:** 34
+**Updated:** 2026-10-05 &nbsp;|&nbsp; **TTS:** 25 &nbsp;|&nbsp; **Low-resource:** 14 &nbsp;|&nbsp; **Tamil:** 34
 
 ---
 
@@ -44,6 +44,7 @@ Open-source repositories grouped by focus. Tamil and low-resource repos may also
 
 | Publish Date | Title | Authors | PDF | Code |
 |---|---|---|---|---|
+| 2026-10-04 | allannuwamanya/lingualdub | allannuwamanya | null | [repo](https://github.com/allannuwamanya/lingualdub) ⭐6 |
 | 2026-06-24 | MohammedAly22/VoiceTuT-TTS | MohammedAly22 | null | [repo](https://github.com/MohammedAly22/VoiceTuT-TTS) ⭐19 |
 | 2026-05-24 | antor44/Audio-Transcription | antor44 | null | [repo](https://github.com/antor44/Audio-Transcription) ⭐4 |
 | 2026-05-01 | Saganaki22/ComfyUI-OmniVoice-TTS | Saganaki22 | null | [repo](https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS) ⭐401 |
