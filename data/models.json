@@ -2660,5 +2660,28 @@
       "q8_0",
       "it"
     ]
+  },
+  {
+    "id": "hf_model_ai4bharat/indic-parler-tts",
+    "title": "ai4bharat/indic-parler-tts",
+    "authors": "",
+    "published": "2026-10-06",
+    "pdf": "https://huggingface.co/ai4bharat/indic-parler-tts",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-10-06",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "transformers",
+      "safetensors",
+      "parler_tts",
+      "text-generation",
+      "text-to-speech",
+      "annotation",
+      "en",
+      "as"
+    ]
   }
 ]
