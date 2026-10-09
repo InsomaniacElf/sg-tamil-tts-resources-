@@ -2683,5 +2683,28 @@
       "en",
       "as"
     ]
+  },
+  {
+    "id": "hf_model_Masterx/magpie-tts-multilingual-357m-ONNX",
+    "title": "Masterx/magpie-tts-multilingual-357m-ONNX",
+    "authors": "",
+    "published": "2026-10-08",
+    "pdf": "https://huggingface.co/Masterx/magpie-tts-multilingual-357m-ONNX",
+    "code": "null",
+    "type": "Model",
+    "abstract": "",
+    "date_added": "2026-10-09",
+    "is_tamil": false,
+    "is_low_res": false,
+    "_tags": [
+      "onnx",
+      "tts",
+      "magpie",
+      "nemo",
+      "nanocodec",
+      "winstt",
+      "text-to-speech",
+      "en"
+    ]
   }
 ]

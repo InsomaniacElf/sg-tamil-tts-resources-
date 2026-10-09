@@ -2,7 +2,7 @@
 
 Open-source repositories grouped by focus. Tamil and low-resource repos may also appear in their respective sections.
 
-**Updated:** 2026-10-08 &nbsp;|&nbsp; **TTS:** 25 &nbsp;|&nbsp; **Low-resource:** 14 &nbsp;|&nbsp; **Tamil:** 34
+**Updated:** 2026-10-09 &nbsp;|&nbsp; **TTS:** 25 &nbsp;|&nbsp; **Low-resource:** 14 &nbsp;|&nbsp; **Tamil:** 34
 
 ---
 
